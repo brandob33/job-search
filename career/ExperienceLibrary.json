@@ -1,0 +1,284 @@
+{
+  "meta": {
+    "created": "2026-11-18",
+    "updated": "2026-11-20",
+    "version": "1.1",
+    "description": "Structured experience units for Brandon Burns, built from Brandon_Burns_Resume.docx (2026-11-20). Source of truth for tailored resumes — never add claims not present here.",
+    "source_files": [
+      "Brandon_Burns_Resume.docx",
+      "Brandon_Burns_Resume.pdf"
+    ],
+    "contact": {
+      "name": "Brandon Burns",
+      "headline": "Cyber Security Analyst | Junior Security Engineer",
+      "location": "Irvine, CA",
+      "phone": "925.548.9737",
+      "email": "brandontbb33@gmail.com",
+      "linkedin": "linkedin.com/in/brandontburns",
+      "website": "brandontburns.com"
+    },
+    "skills_section": {
+      "Security": [
+        "IAM",
+        "OAuth 2.0 / OIDC",
+        "RBAC",
+        "Input Validation",
+        "Secure SDLC",
+        "Rate Limiting",
+        "Secrets Management",
+        "SQL Injection",
+        "XSS",
+        "CSRF",
+        "Buffer Overflow",
+        "MITM",
+        "ARP Poisoning",
+        "DNS Spoofing",
+        "Packet Analysis"
+      ],
+      "Cryptography": [
+        "RSA",
+        "Elliptic-Curve Cryptography (ECC)",
+        "SHA-256 Hashing",
+        "TLS"
+      ],
+      "Security & Networking Tools": [
+        "Wireshark",
+        "Burp Suite",
+        "Docker",
+        "Firebase App Check (App Attest)",
+        "Git"
+      ],
+      "Cloud & Backend": [
+        "Google Cloud Platform (Firebase, Firestore, Cloud Functions)",
+        "Serverless Architecture",
+        "REST APIs"
+      ],
+      "Data & AI": [
+        "ETL & Data Engineering",
+        "Feature Engineering",
+        "Retrieval-Augmented Generation (RAG)",
+        "Prompt Engineering"
+      ],
+      "Databases": [
+        "SQL (MySQL)",
+        "MongoDB",
+        "Redis"
+      ],
+      "Languages": [
+        "Python",
+        "Swift",
+        "JavaScript / Node.js",
+        "C/C++",
+        "Java",
+        "SQL"
+      ]
+    },
+    "known_gaps": [
+      "SIEM (Splunk/Sentinel)",
+      "Incident response experience",
+      "Vulnerability scanning (Nessus/Qualys)",
+      "NIST CSF / 800-53 / MITRE ATT&CK",
+      "Professional security work experience"
+    ]
+  },
+  "units": [
+    {
+      "id": "exp-communicai",
+      "type": "project",
+      "company": "CommunicAI (personal project)",
+      "title": "Developer — iOS Application (Live on the App Store)",
+      "dates": "2025 – Present",
+      "summary": "Production iOS app built in Swift on Firebase / Google Cloud with Node.js Cloud Functions; owned authentication, access control, input validation and abuse prevention.",
+      "achievements": [
+        {
+          "id": "exp-communicai-a1",
+          "theme": "access control / appsec",
+          "text": "Designed role-based Firestore access-control rules that block insecure direct object references (IDOR), privilege escalation, and message spoofing; validated with 36 adversarial unit tests."
+        },
+        {
+          "id": "exp-communicai-a2",
+          "theme": "authentication / IAM",
+          "text": "Implemented multi-provider authentication (Sign in with Apple with nonce + SHA-256 hashing, Google OAuth, and email/password with server-enforced verification) and Firebase App Check (App Attest) on every backend request."
+        },
+        {
+          "id": "exp-communicai-a3",
+          "theme": "server-side controls / abuse prevention",
+          "text": "Built server-authoritative Cloud Functions enforcing authentication, input validation, and per-user and global rate limiting (5 rewrites per user/day); added server-side Apple receipt verification to prevent subscription fraud."
+        },
+        {
+          "id": "exp-communicai-a4",
+          "theme": "privacy / secrets management",
+          "text": "Implemented privacy controls including full account and data deletion and scheduled data-retention cleanup, and kept all credentials and secrets out of version control."
+        }
+      ],
+      "skills": [
+        "Swift",
+        "Firebase",
+        "Firestore",
+        "Google Cloud Platform",
+        "Cloud Functions",
+        "Node.js",
+        "RBAC",
+        "IAM",
+        "OAuth 2.0 / OIDC",
+        "Sign in with Apple",
+        "SHA-256",
+        "Firebase App Check (App Attest)",
+        "Input Validation",
+        "Rate Limiting",
+        "Secrets Management",
+        "Secure SDLC",
+        "IDOR prevention",
+        "Fraud prevention",
+        "Data retention / privacy"
+      ]
+    },
+    {
+      "id": "exp-tracking",
+      "type": "project",
+      "company": "TracKing (personal project)",
+      "title": "Developer — iOS Application",
+      "dates": "2026",
+      "summary": "Live multi-group race-timing app built for an NCAA Division I track & field coach.",
+      "achievements": [
+        {
+          "id": "exp-tracking-a1",
+          "theme": "product / stakeholder",
+          "text": "Built a live multi-group race-timing app for an NCAA Division I track & field coach, designed around real coaching workflows."
+        },
+        {
+          "id": "exp-tracking-a2",
+          "theme": "authentication / role separation",
+          "text": "Implemented Firebase authentication and Firestore cloud persistence with separate coach and athlete interfaces."
+        }
+      ],
+      "skills": [
+        "Swift",
+        "Firebase Authentication",
+        "Firestore",
+        "Role-based interfaces"
+      ]
+    },
+    {
+      "id": "exp-uci-track-captain",
+      "type": "role",
+      "company": "UC Irvine — NCAA Division I Track & Field",
+      "title": "Team Captain",
+      "dates": "2026 – 2027",
+      "location": "Irvine, CA",
+      "summary": "Elected team captain.",
+      "achievements": [
+        {
+          "id": "exp-uci-track-captain-a1",
+          "theme": "leadership",
+          "text": "Lead and mentor teammates as elected team captain, coordinating with coaching staff on team standards."
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "Mentoring",
+        "Communication",
+        "Time management"
+      ]
+    },
+    {
+      "id": "exp-sup-noodle",
+      "type": "role",
+      "company": "Sup Noodle Bar",
+      "title": "Front of House",
+      "dates": "July 2026 – Present",
+      "location": "Irvine, CA",
+      "summary": "Part-time front-of-house service.",
+      "achievements": [
+        {
+          "id": "exp-sup-noodle-a1",
+          "theme": "operations",
+          "text": "Run front-of-house service (expediting, to-go orders, bussing, and direct customer interaction)."
+        },
+        {
+          "id": "exp-sup-noodle-a2",
+          "theme": "communication",
+          "text": "Coordinate with kitchen staff and communicate with customers to keep service fast and accurate."
+        }
+      ],
+      "skills": [
+        "Customer service",
+        "Communication",
+        "Working under pressure"
+      ]
+    },
+    {
+      "id": "exp-raising-canes",
+      "type": "role",
+      "company": "Raising Cane's",
+      "title": "Certified Trainer",
+      "dates": "2024 – Feb 2026",
+      "location": "Aliso Viejo, CA",
+      "summary": "Certified crew trainer.",
+      "achievements": [
+        {
+          "id": "exp-raising-canes-a1",
+          "theme": "training / standards",
+          "text": "Trained and mentored new and current crew members to maintain service, speed, and food-safety standards."
+        }
+      ],
+      "skills": [
+        "Training",
+        "Mentoring",
+        "Standards compliance"
+      ]
+    },
+    {
+      "id": "edu-uci-bs",
+      "type": "education",
+      "institution": "University of California, Irvine",
+      "company": "University of California, Irvine",
+      "title": "B.S. in Computer Science, Specialization in Networked Systems",
+      "dates": "Sept 2022 – June 2026",
+      "achievements": [
+        {
+          "id": "edu-uci-bs-a1",
+          "theme": "honors",
+          "text": "Honors: Dean's List, Scholar-Athlete"
+        },
+        {
+          "id": "edu-uci-bs-a2",
+          "theme": "coursework",
+          "text": "Relevant Coursework: Security and Privacy, Computer Networks, Operating Systems, Software Engineering"
+        }
+      ],
+      "skills": [
+        "Computer networks",
+        "Security and privacy",
+        "Operating systems",
+        "Software engineering"
+      ]
+    },
+    {
+      "id": "edu-uci-acp",
+      "type": "education",
+      "institution": "University of California, Irvine (Continuing Education)",
+      "company": "University of California, Irvine",
+      "title": "Accelerated Certificate Program (ACP), Data Science",
+      "dates": "In Progress",
+      "achievements": [],
+      "skills": [
+        "Data engineering",
+        "ETL",
+        "SQL (MySQL)",
+        "Statistics"
+      ]
+    },
+    {
+      "id": "cert-secplus",
+      "type": "publications_and_recognition",
+      "company": "CompTIA",
+      "title": "CompTIA Security+ (Exam scheduled January 2027)",
+      "dates": "Jan 2027 (scheduled)",
+      "achievements": [],
+      "skills": [
+        "Security+"
+      ]
+    }
+  ]
+}

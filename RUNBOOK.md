@@ -1,0 +1,62 @@
+# Daily Cyber Job Search — Runbook
+
+Owner: Brandon Burns (Costa Mesa, CA). This repo is the shared state for the daily job search.
+Every scheduled run follows this file. Change rules here, not in the scheduled-task prompts.
+
+## Repo layout
+```
+base/Brandon_Burns_Resume.docx   base resume (source of layout)
+base/Brandon_Burns_Resume.pdf
+career/ExperienceLibrary.json    ONLY source of resume claims — never invent experience
+career/profile.md                targets, location, eligibility, availability
+career/voice-profile.md          cover-letter voice
+tools/tailor.py                  builds tailored resume .docx from a JSON spec (keeps base formatting)
+tools/base/                      unpacked base docx used by tailor.py
+tools/coverletter.js             builds cover letter .docx from a JSON spec
+data/seen.json                   every role ever evaluated {id: {first_seen, score, url, status}}
+data/roles.json                  full scored list (latest state of every role)
+inbox/linkedin-YYYY-MM-DD.json   roles found by the 8:10 Mac run (LinkedIn, signed in)
+daily/YYYY-MM-DD/                that day's output:
+    report.md                    the morning list
+    <role-id>/resume.docx, cover_letter.docx, notes.md
+```
+
+## Candidate snapshot (see career/profile.md for full)
+- UCI B.S. CS (Networked Systems), June 2026; enrolled in UCI continuing-ed certificate program -> treat as a CURRENT STUDENT for "currently enrolled" requirements.
+- US citizen, no sponsorship; clearance-eligible (no active clearance).
+- Security+ exam Jan 2027. Strengths: AppSec/IAM (CommunicAI), Burp, Wireshark, web & network attacks, crypto, Python/Swift/Node/C/Java, GCP/Firebase.
+- Gaps: SIEM/Splunk, incident response, vuln scanning, NIST/MITRE, no professional security job.
+- Wants: Summer 2027 internships + junior/entry roles (summer start). Spring 2027 only if low-hour. Paid or unpaid.
+- Location: within ~1 hr of Costa Mesa (OC, LA County incl. El Segundo/Torrance/Long Beach, Corona/Ontario edge, north SD County) or remote open to CA.
+
+## Search (sources, in order)
+1. Indeed MCP (`mcp__Indeed__search_jobs`, `get_job_details`) — many queries x locations (Irvine, Santa Ana, Long Beach, Los Angeles, El Segundo, Anaheim, remote), with and without job_type=internship.
+2. WebSearch / WebFetch: company career pages and ATS boards (Greenhouse, Lever, Workday, iCIMS), Handshake previews, Built In LA, Simplify, Dice, LinkedIn job pages.
+3. `inbox/linkedin-*.json` written by the Mac run that morning (and any unprocessed earlier ones).
+Exclude: 3+ yrs required, active clearance already required, non-security helpdesk, gig "AI trainer" postings, roles already in data/seen.json (unless the posting materially changed or reopened).
+Verify each new role is open by fetching the posting. Save posting text to the role folder notes.
+
+## Scoring (1-10)
+Weights: Required quals met 40% | Keyword/skill match 25% | Eligibility (location, enrollment/grad window, citizenship) 20% | Seniority fit 15%.
+- Hard eligibility fail (e.g., requires active TS clearance, must graduate between dates he can't meet and posting is strict, >1hr onsite) -> cap at 4 and say why.
+- Grad-window mismatch where posting says "currently enrolled" -> he qualifies (certificate program). Where it says "pursuing a bachelor's" -> flag, -1.
+- AppSec/product security/IAM roles usually fit better than pure SOC roles; score honestly.
+Record in notes.md: score, 2-line why, matched keywords, missing keywords, eligibility flags.
+
+## Tailoring (score >= 7)
+- Build a spec JSON and run `python3 tools/tailor.py spec.json daily/<date>/<id>/resume.docx`.
+  - headline: role-aligned (e.g., "Application Security Intern Candidate | Cyber Security Analyst").
+  - summary: 2-3 sentences mirroring the posting's top terms that are TRUE.
+  - skills: reorder lines and items so the posting's keywords come first; may drop irrelevant lines (e.g., Data & AI) but never add skills not in ExperienceLibrary skills_section/units.
+  - communicai_bullets: reorder; light rewording to use posting vocabulary for the same facts (e.g., "authorization controls" vs "access-control rules"). Keep every number accurate.
+  - section_order: PROJECTS before EXPERIENCE (default) for technical roles.
+- ATS check: run ResumeNext `analyze_resume` with the full resume text + job description; target >= 90 and note keyword coverage. Fix and rebuild if < 85.
+- Cover letter: write from scratch per career/voice-profile.md (250-320 words, 3-4 paragraphs: why this team/role specifically; CommunicAI security proof; one more proof point — captaincy/balancing load, coursework, or TracKing; close with availability "Summer 2027"). No invented facts. Build with `node tools/coverletter.js cl.json daily/<date>/<id>/cover_letter.docx`.
+- Render-check one resume per day (soffice -> pdf -> look) to make sure layout holds to one page.
+
+## Report (daily/<date>/report.md) and delivery
+- New roles ranked by score: title (linked), company, location/mode, pay, deadline, score + one-line why, files link for 7+.
+- Below 7: one line each. Count of roles skipped as already seen.
+- Deadlines in the next 7 days for any 7+ role not yet marked applied.
+- Push notification: "N new roles, M scored 7+: <top 2 titles>". Commit and push everything.
+- Update data/seen.json and data/roles.json.
