@@ -52,7 +52,10 @@ Record in notes.md: score, 2-line why, matched keywords, missing keywords, eligi
   - section_order: PROJECTS before EXPERIENCE (default) for technical roles.
 - ATS check: run ResumeNext `analyze_resume` with the full resume text + job description; target >= 90 and note keyword coverage. Fix and rebuild if < 85.
 - Cover letter: write from scratch per career/voice-profile.md (250-320 words, 3-4 paragraphs: why this team/role specifically; CommunicAI security proof; one more proof point — captaincy/balancing load, coursework, or TracKing; close with availability "Summer 2027"). No invented facts. Build with `node tools/coverletter.js cl.json daily/<date>/<id>/cover_letter.docx`.
-- Render-check one resume per day (soffice -> pdf -> look) to make sure layout holds to one page.
+- Render-check EVERY resume (soffice -> pdf; `pdfinfo` must say Pages: 1). Keep the summary <= 50 words and skills to <= 7 lines; the base resume has ~1 line of slack. If it spills, cut words — never shrink fonts or margins.
+- Always include `"replace": {"Run front-of-house service (expediting, to-go orders, bussing, and direct customer interaction).": "Handle front-of-house service, including expediting, to-go orders, bussing, and direct customer interaction."}` (action-verb fix; true).
+- ATS honesty: if the checker wants keywords Brandon lacks (e.g., PCI-DSS, HIPAA, Excel, AWS), do NOT add them — list them as "missing" in notes.md. Mention the company and program name in the summary (it counts as a keyword match).
+- Cover letters: header uses Irvine, CA (matches resume) — say "local to Irvine/Orange County", not "Costa Mesa".
 
 ## Report (daily/<date>/report.md) and delivery
 - New roles ranked by score: title (linked), company, location/mode, pay, deadline, score + one-line why, files link for 7+.
