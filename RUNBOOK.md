@@ -62,6 +62,18 @@ In report sections, files and pushes below, "7+" means ">= TAILOR_THRESHOLD". Fo
 - ATS honesty: if the checker wants keywords Brandon lacks (e.g., PCI-DSS, HIPAA, Excel, AWS), do NOT add them — list them as "missing" in notes.md. Mention the company and program name in the summary (it counts as a keyword match).
 - Cover letters: header uses Irvine, CA (matches resume) — say "local to Irvine/Orange County", not "Costa Mesa".
 
+## Applied tracking
+- data/applications-submitted.md mirrors "Job Search/Applications Submitted.md" on the Mac (Brandon's list of applications he has sent). data/seen.json status "applied" marks them.
+- In the report, never re-suggest applied roles; list applied roles whose follow-up date is within 3 days under "Follow-ups due".
+
+## Mac folder layout (written by the 9:12 Mac task)
+Job Search/
+  Applications Submitted.md
+  Applications/<Company> - <Short role>/   -> "<Company> - <Short role> - Resume.docx", "... - Cover Letter.docx", "Job Info.md"
+  Daily Reports/<YYYY-MM-DD>/report.md
+  CareerNavigator/...
+Use a short, readable folder name (e.g., "Tevora - Solutions Intern", "Ventura Foods - Associate AppSec Engineer"); store it as "folder" on the role in data/roles.json so both runs agree.
+
 ## Report (daily/<date>/report.md) and delivery
 - New roles ranked by score: title (linked), company, location/mode, pay, deadline, score + one-line why, files link for every role >= TAILOR_THRESHOLD.
 - Below 7: one line each. Count of roles skipped as already seen.
