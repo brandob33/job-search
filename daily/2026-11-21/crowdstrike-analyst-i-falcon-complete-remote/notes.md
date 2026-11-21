@@ -1,0 +1,16 @@
+# CrowdStrike — Analyst I, Falcon Complete (Remote - PST/MST)
+
+Score: 6/10 — Entry level, remote West Coast shift, and your degree meets the requirement. The bar is training in "one or more" listed areas; you cover network analysis, identity, Python, and AI fundamentals.
+Gaps: no incident response, EDR, SIEM/log analysis, or Microsoft 365/Entra experience.
+Main risk: Timing and schedule. This is a full-time job starting now, on a 4x10 schedule that includes a weekend day, and it conflicts with the spring 2027 track season. The cover letter says you can start full-time in summer 2027. The posting closes Jan 17, 2027, so hiring will likely target an earlier start. Your lack of IR/SIEM hands-on experience is the main skills gap.
+ATS (ResumeNext vs posting): 83/100. Keyword coverage 40% (matched security, email, fundamentals, CrowdStrike, identity, threats, platform). The other missing terms are tools and experience you don't have.
+URL: https://www.builtinaustin.com/job/analyst-i-falcon-complete-remote-pst-mst/12286987 (Built In mirror; CrowdStrike Workday posting not found by search)
+Eligibility: BA/BS in CS or related (met). Remote USA, PST/MST hours (states not listed). $85,000-$120,000 base plus bonus and equity. 4x10 schedule including a weekend day. Expected close 2027-01-17.
+Keywords matched: network analysis fundamentals, packet analysis, Wireshark, MITM (adversary-in-the-middle concept), identity / authentication, OAuth, Python scripting, AI fundamentals (prompt engineering, RAG), Operating Systems coursework, fraud detection, threats
+Missing keywords: incident handling/response, EDR, MDR, SIEM / log analysis, forensics, Microsoft 365, business email compromise, Okta, Microsoft Entra ID, Active Directory, MITRE ATT&CK, PowerShell, Bash, Windows/macOS/Linux administration, customer-facing support
+Posting status: verified open 2026-11-21 (Built In: "Reposted 2 Days Ago", no closure notice, expected close Jan 17, 2027). Find the CrowdStrike careers (Workday) link before applying.
+
+## Posting (excerpt)
+Responsibilities: first point of contact for customers, with clear written and verbal communication. Triage, investigate, and respond to security alerts across endpoint, identity, email, and cloud. Analyze EDR telemetry, log sources, and forensic artifacts to scope a compromise. Investigate suspicious Microsoft 365 activity, including BEC and adversary-in-the-middle attacks, and contain threats. Improve incident detection and countermeasure processes.
+Requirements (training or knowledge in one or more): incident handling/response; threat landscape incl. MITRE ATT&CK; Windows/macOS/Linux fundamentals; systems administration and troubleshooting; network analysis fundamentals; identity platforms (Okta, Entra ID, AD); M365 email security; third-party log analysis for SIEM investigations; incident remediation; network operations / secure architecture; scripting (Python, PowerShell, Bash); AI fundamentals and practical use of AI to improve workflows. Must complete technical tasks without supervision. Must be willing to work 4x10, including a weekend day.
+Education: bachelor's or master's in CS, information security, cybersecurity or related, or relevant experience/training.

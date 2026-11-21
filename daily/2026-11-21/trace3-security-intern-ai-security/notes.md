@@ -1,0 +1,17 @@
+# Trace3 — Security Intern (Trace3xperience Program - AI Security practice)
+
+Score: 6/10 — Strong skill fit for the required basics (IAM, application/cloud security, Python, APIs, RAG/prompt engineering) and Security+ is a listed preferred cert.
+Gaps: AI security frameworks (NIST AI RMF, OWASP LLM Top 10, MITRE ATLAS, NIST CSF) and agent/LLM-app security work aren't on the resume.
+Main risk: Eligibility. The posting asks for students enrolled in the junior or senior year of an undergrad program, or in a Master's program. You finished your B.S. in June 2026 and are now in UCI's continuing-ed Accelerated Certificate Program, which probably doesn't count. Email the recruiter before applying. Also: GPA 3.0+ (transcript may be requested); 40 hrs/week, with an extension beyond summer preferred.
+ATS (ResumeNext vs posting): 79/100. Keyword coverage 20% (matched LLM, application, identity, cloud). The rest is framework names you don't have, plus a structure deduction for one-bullet experience entries that can't be fixed truthfully.
+URL: https://job-boards.greenhouse.io/trace3/jobs/8274792 (verified via Wellfound mirror https://wellfound.com/jobs/5078833-security-intern; the Greenhouse fetch was blocked)
+Eligibility: Junior/senior undergrad or Master's enrollment required (RISK). GPA 3.0+. Irvine, CA, in-office; relocation allowed; no visa sponsorship (you're a US citizen, so this is fine). 40 hrs/week in summer, often extended to 3-4 months. Est. $18-$28/hr.
+Keywords matched: AI Security, IAM / identity and access management, application security, cloud security (GCP), Python, APIs, RAG / retrieval, prompting / prompt engineering, LLM, Security+ (scheduled), Trace3xperience
+Missing keywords: NIST AI RMF, ISO 42001, OWASP Top 10 for LLM, MITRE ATLAS, NIST CSF, ISO 27001, AWS, Azure, agents / agent identity / non-human identity, guardrails / LLM gateways, embeddings, consulting / pre-sales experience, CTF
+Posting status: verified open 2026-11-21 (Wellfound shows Apply Now, posted ~1 week ago)
+
+## Posting (excerpt)
+Security Intern (Trace3xperience Program), AI Security practice within Security Solutions. Irvine, CA, in-office, 40 hours/week; summer term often extended to 3-4 months. Est. $18-$28/hr.
+Responsibilities: become delivery-ready to contribute to client engagements under senior consultants. Move from structured learning and lab work to shadowing, then contribute to pre-sales and delivery and own defined work products. Learn AI security assessment methodology from discovery through findings and executive readouts. Hands-on labs with AI posture management, LLM gateways, agent identity, and AI supply chain controls. Apply NIST AI RMF, ISO 42001, OWASP Top 10 for LLM/agentic apps, and MITRE ATLAS. Learn how AWS/Azure/GCP AI services are secured. Research agent trust and non-human identity. Translate findings for CISO/CIO audiences.
+Required: enrolled in the junior or senior year of an undergrad program, or in a Master's program (CS, cybersecurity, infosec, SWE, data science, AI/ML or related); GPA 3.0+; foundational IAM, network, cloud, and application security; foundational ML/LLM knowledge (training, inference, prompting, embeddings, retrieval, agents and tool use); working Python, scripting, APIs, command line; 40 hrs/week, extension preferred.
+Preferred: major cloud plus its AI services; built or secured an LLM app or agent; NIST AI RMF / OWASP LLM Top 10 / MITRE ATLAS / NIST CSF; Security+, ISC2 CC, or cloud fundamentals; CTFs, clubs, AI red-teaming; prior technical or consulting internship.
