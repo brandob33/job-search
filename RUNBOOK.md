@@ -43,7 +43,12 @@ Weights: Required quals met 40% | Keyword/skill match 25% | Eligibility (locatio
 - AppSec/product security/IAM roles usually fit better than pure SOC roles; score honestly.
 Record in notes.md: score, 2-line why, matched keywords, missing keywords, eligibility flags.
 
-## Tailoring (score >= 7)
+## Tailoring threshold
+TAILOR_THRESHOLD = 5  (changed from 7 on 2026-11-21 at Brandon's request; tailor every role scoring >= 5)
+Backfill: on the next run, also tailor any role in data/seen.json with score >= TAILOR_THRESHOLD that has no files yet (e.g., the 5-6 scorers from 2026-11-20), and put them in that day's report under "Backfilled from earlier runs". Skip roles marked ineligible/closed. Re-verify each is still open first.
+In report sections, files and pushes below, "7+" means ">= TAILOR_THRESHOLD". For roles scoring 5-6, add one line in notes.md on the main risk (eligibility, timing, missing requirement).
+
+## Tailoring (score >= TAILOR_THRESHOLD)
 - Build a spec JSON and run `python3 tools/tailor.py spec.json daily/<date>/<id>/resume.docx`.
   - headline: role-aligned (e.g., "Application Security Intern Candidate | Cyber Security Analyst").
   - summary: 2-3 sentences mirroring the posting's top terms that are TRUE.
@@ -58,8 +63,8 @@ Record in notes.md: score, 2-line why, matched keywords, missing keywords, eligi
 - Cover letters: header uses Irvine, CA (matches resume) — say "local to Irvine/Orange County", not "Costa Mesa".
 
 ## Report (daily/<date>/report.md) and delivery
-- New roles ranked by score: title (linked), company, location/mode, pay, deadline, score + one-line why, files link for 7+.
+- New roles ranked by score: title (linked), company, location/mode, pay, deadline, score + one-line why, files link for every role >= TAILOR_THRESHOLD.
 - Below 7: one line each. Count of roles skipped as already seen.
-- Deadlines in the next 7 days for any 7+ role not yet marked applied.
-- Push notification: "N new roles, M scored 7+: <top 2 titles>". Commit and push everything.
+- Deadlines in the next 7 days for any role >= TAILOR_THRESHOLD not yet marked applied.
+- Push notification: "N new roles, M scored 5+: <top 2 titles>". Commit and push everything.
 - Update data/seen.json and data/roles.json.
