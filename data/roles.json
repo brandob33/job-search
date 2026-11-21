@@ -158,8 +158,9 @@
     "why": "Same eligible CDP program; US citizen is a plus for federal clients. Compliance-heavy (FedRAMP, CMMC) — no framework experience yet.",
     "ats_score": "~82",
     "first_seen": "2026-11-20",
-    "status": "new",
-    "files": "daily/2026-11-20/tevora-cyber-intern-federal-su27/"
+    "status": "applied",
+    "files": "daily/2026-11-20/tevora-cyber-intern-federal-su27/",
+    "date_applied": "2026-11-21"
   },
   {
     "id": "tevora-cyber-intern-erm-su27",
@@ -204,8 +205,9 @@
     "why": "Eligible; risk-assessment work maps to your threat-modeling in CommunicAI. Business/governance focus, less hands-on.",
     "ats_score": "~82",
     "first_seen": "2026-11-20",
-    "status": "new",
-    "files": "daily/2026-11-20/tevora-cyber-intern-erm-su27/"
+    "status": "applied",
+    "files": "daily/2026-11-20/tevora-cyber-intern-erm-su27/",
+    "date_applied": "2026-11-21"
   },
   {
     "id": "trace3-security-intern-ai-security",
