@@ -56,6 +56,15 @@ def main(spec_path, out_path):
         track_bul = [para_text_set(ps[20], [t]) for t in b]
     if "coursework" in spec:
         new[33] = para_text_set(ps[33], [spec["coursework"]])
+    # replace: {"old phrase": "new phrase"} applied to single-run experience/education paragraphs
+    for old, newtxt in spec.get("replace", {}).items():
+        hits = 0
+        for i in range(22, 37):
+            ts = re.findall(r'<w:t[^>]*>([^<]*)</w:t>', new[i])
+            if len(ts) == 1 and escape(old) in ts[0]:
+                new[i] = para_text_set(new[i], [ts[0].replace(escape(old), escape(newtxt)).replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">")])
+                hits += 1
+        assert hits, "replace target not found: " + old
 
     sections = {
         "PROJECTS": [ps[13], ps[14]] + proj_bul + [ps[19]] + track_bul,
