@@ -1,59 +1,105 @@
-# LinkedIn networking contacts — applied roles (gathered 2026-11-21)
+# LinkedIn networking contacts — applied roles
 
-Public sources only (company pages, press, search-result titles). No emails/phones collected. "search:" = no confirmed profile URL; search the name on LinkedIn. Confidence reflects how well the CURRENT role is confirmed.
-Status column: to-connect / requested / connected / replied.
+Updated 2026-11-21 (evening) after verifying in Brandon's signed-in LinkedIn. Phase 1 = followed only (no connects/messages). Phase 2 = new candidates awaiting Brandon's approval (not followed).
+Status key: followed / connected / mismatch / not found / unsure / to-connect.
 
-## Tevora (applied: Solutions, Federal, ERM, Payments, Healthcare, ISO)
-| Priority | Name | Title | Why | LinkedIn | Conf. | Status |
+## Phase 1 — priority 20 (verified)
+
+### Tevora
+| # | Name | Verified current title | Location | UCI alum | Mutuals | LinkedIn | Status |
+|---|---|---|---|---|---|---|---|
+| 1 | Brandon Richardson | Sr Manager, ISO Services @ Tevora | San Diego, CA | yes | — | https://www.linkedin.com/in/brandon-richardson-qsa-cissp/ | **followed** |
+| 2 | Ben Dimick | Director, Security Implementation Services @ Tevora (since 2012; also Product Manager at MightyID) | Eagle Mountain, UT | no | — | https://www.linkedin.com/in/ben-dimick/ | **followed** — Title differs slightly from 'Security Consulting Services' — same Solutions practice |
+| 3 | Eric Sampson | Payments Director @ Tevora | Salt Lake City, UT | no | — | https://www.linkedin.com/in/ericsampson/ | **followed** |
+| 4 | Wayne Perry |  |  | no | — | — | **not found** — No LinkedIn profile matching Wayne Perry + Tevora/federal |
+| 5 | Young (Jason) Lee | Manager, Healthcare @ Tevora | United States | no | — | https://www.linkedin.com/in/youngminjasonlee/ | **followed** |
+| 6 | Anir Desai | Director at Tevora (GRC & AI Governance) | Irvine, CA | no | — | https://www.linkedin.com/in/anirdesai/ | **followed** |
+
+### SpaceX
+| # | Name | Verified current title | Location | UCI alum | Mutuals | LinkedIn | Status |
+|---|---|---|---|---|---|---|---|
+| 7 | Isabelle Lee | Lead University Recruiter at SpaceX | Los Angeles, CA | yes | — | https://www.linkedin.com/in/isabelleklee/ | **followed** |
+| 8 | Amy Traylor | Director at SpaceX | Brownsville, TX | no | — | https://www.linkedin.com/in/amy-traylor-92b0b884/ | **mismatch** — Now Director at SpaceX (Starbase, TX), not Early Careers; followed by mistake then unfollowed |
+| 9 | Sagar Adiga | Security Engineer at SpaceX (self-listed) | Yerraguntla, Andhra Pradesh, India | no | — | https://www.linkedin.com/in/sagar-adiga-0a702834b/ | **unsure** — Sparse profile: 1 follower, no posts, located in India — can't confirm a real SpaceX employee; not followed |
+| 10 | Walker Smith | Senior Technical Recruiter at SpaceX | Redondo Beach, CA | no | — | https://www.linkedin.com/in/walkertmsmith/ | **followed** — Promoted from Technical Recruiter II |
+
+### Ventura Foods
+| # | Name | Verified current title | Location | UCI alum | Mutuals | LinkedIn | Status |
+|---|---|---|---|---|---|---|---|
+| 11 | Reenan Arbitrario (Reenan A.) | Manager, Application Security — profile shows 'Hiring: Associate Application Security Engineer, Ventura Foods' | Irvine, CA | no | 2 (Tareq Khatib, Matthew Dowsett) | https://www.linkedin.com/in/reenanarbitrario/ | **followed** — Confirmed hiring manager for Brandon's applied role |
+| 12 | Tareq Khatib | Manager, Security Operations & Engineering @ Ventura Foods | Irvine, CA | no | 1st-degree connection | https://www.linkedin.com/in/tareqkhatib/ | **connected (following)** — Already connected; messaged Brandon about the Associate AppSec role |
+
+### EP Wealth Advisors
+| # | Name | Verified current title | Location | UCI alum | Mutuals | LinkedIn | Status |
+|---|---|---|---|---|---|---|---|
+| 13 | Kate Middagh (Kate M.) | CISO @ EP Wealth Advisors | Greater Phoenix Area | no | — | https://www.linkedin.com/in/kmiddagh/ | **followed** |
+| 14 | Mario Chilin | Chief Compliance Officer/Partner at EP Wealth Advisors | Torrance, CA | no | — | https://www.linkedin.com/in/mario-chilin-iaccp%C2%AE-ccep%C2%AE-cscp%C2%AE-a7307699/ | **followed** — Title now CCO/Partner (was MD, Compliance and Risk) |
+| 15 | Will Silva | System Administrator @ EP Wealth Advisors (since Apr 2026; prev. Lead IT Analyst) | Round Rock, TX | no | — | https://www.linkedin.com/in/willsilvajr/ | **followed** — Verified via Experience; also contracts at Briteline Dental |
+
+### Trace3
+| # | Name | Verified current title | Location | UCI alum | Mutuals | LinkedIn | Status |
+|---|---|---|---|---|---|---|---|
+| 16 | Brett Wyer | Global Security Solutions Architect at Trace3 | Houston, TX | no | — | https://www.linkedin.com/in/brettwyer/ | **followed** |
+| 17 | Sohil Ramdas (Sohil R.) | Innovation Principal @ Trace3 | Houston, TX | no | — | https://www.linkedin.com/in/sohil-r-6292b228/ | **followed** |
+| 18 | Justin "Hutch" Hutchens | Innovation / R&D (current company Trace3) | Greater Houston | no | — | https://www.linkedin.com/in/justinhutchens/ | **followed** — 28K followers; author |
+
+### StudyFetch
+| # | Name | Verified current title | Location | UCI alum | Mutuals | LinkedIn | Status |
+|---|---|---|---|---|---|---|---|
+| 19 | Ryan Trattner | Headline: 'StudyFetch - This is not an active LinkedIn account' | Beverly Hills, CA | no | — | https://www.linkedin.com/in/ryan-trattner-575610386/ | **mismatch** — Inactive account (0 followers); no other profile found — not followed |
+| 20 | Esan Durrani | CEO of StudyFetch | Forbes 30u30 | Los Angeles area | no | — | https://www.linkedin.com/in/esan-durrani-576b611b4/ | **followed** |
+
+## Already connected earlier (2026-11-21 early AM, requests sent without notes)
+
+- Tevora: Faye Garrett (TA), Eli Zublin (Developing Consultant), Kai Chang (Pen Tester, UCI), Vivi Hoang (InfoSec Analyst, UCI), Daren Sathy (ERM), Jericho Dionisio (Federal/CMMC)
+- Ventura Foods: Tareq Khatib (accepted, messaged), Debbie Kaufman (Sr Technical Recruiter), Jaime Leal (Sr InfoSec Analyst, UCI), Matthew Dowsett (accepted)
+
+## Phase 2 — new candidates (to-connect; awaiting Brandon's approval — NOT followed)
+
+### SpaceX
+| Name | Current title | Why relevant | LinkedIn | UCI alum | Mutuals | Status |
 |---|---|---|---|---|---|---|
-| 1 | Brandon Richardson | Senior Manager, ISO | ISO track lead; **UC Irvine CS alum** | search: Brandon Richardson Tevora | High | to-connect |
-| 2 | Ben Dimick | Director, Security Consulting Services | Runs the Solutions practice (applied track #1) | search: Ben Dimick Tevora | High | to-connect |
-| 3 | Eric Sampson | Director, Payments | Payments (PCI) practice lead | search: Eric Sampson Tevora | High | to-connect |
-| 4 | Wayne Perry | Federal Practice Lead | Federal track (FedRAMP/CMMC) | search: Wayne Perry Tevora | High | to-connect |
-| 5 | Jason Lee | Manager, Healthcare | Healthcare (HIPAA/HITRUST) track | search: Jason Lee Tevora | High | to-connect |
-| 6 | Anir Desai | Director, Strategic Services | Closest fit to ERM (risk programs, vCISO) | search: Anir Desai Tevora | High (title) | to-connect |
-| – | Mikayla Bartell | Manager, Payments | PCI QSA, day-to-day Payments | search: Mikayla Bartell Tevora | High | optional |
-| – | Chad Stanger | Associate Manager, Healthcare | Healthcare day-to-day | search: Chad Stanger Tevora | High | optional |
+| Emma He | Recruiting @ SpaceX (Irvine) | UCI alumna recruiter — warmest SpaceX contact | https://www.linkedin.com/in/emma-he-hxy/ | yes | — | to-connect |
+| Sears Schulz | Security Software Engineer @ SpaceX (LA) | Same job family as New Grad Software Security | https://www.linkedin.com/in/sears-s/ | unknown | — | to-connect |
+| Joaquin Frommer | Security Engineer at SpaceX (LA) | Current LA security engineer — peer view | https://www.linkedin.com/in/joaquin-frommer-a1b357172/ | unknown | — | to-connect |
+| Sean Kelman | SWE @ SpaceX, CS @ UCI | UCI CS grad at SpaceX | https://www.linkedin.com/in/sean-kelman-633057211/ | yes | — | to-connect |
+| Spike O'Carroll | Software Engineer II @ SpaceX | 2nd-degree (3 mutuals) — easiest intro | https://www.linkedin.com/in/spike-ocarroll/ | unknown | 3 | to-connect |
 
-## SpaceX (applied: New Grad Software Security – Starlink; Product Security Engineer – Starlink; New Grad Security Software – Starshield)
-| Priority | Name | Title | Why | LinkedIn | Conf. | Status |
+### Trace3
+| Name | Current title | Why relevant | LinkedIn | UCI alum | Mutuals | Status |
 |---|---|---|---|---|---|---|
-| 1 | Isabelle Lee | Lead University Recruiter | Owns new-grad hiring (2 of the 3 roles) | https://www.linkedin.com/in/isabelleklee/ | Med-High | to-connect |
-| 2 | Amy Traylor | Early Careers | New-grad pipeline | https://www.linkedin.com/in/amy-traylor-92b0b884/ | Medium | to-connect |
-| 3 | Sagar Adiga | Security Engineer | Current security engineer (team unknown) — peer view | https://www.linkedin.com/in/sagar-adiga-0a702834b/ | Medium | to-connect |
-| 4 | Walker Smith | Technical Recruiter II | Technical recruiting | https://www.linkedin.com/in/walkertmsmith/ | Medium | to-connect |
-| – | Matt Monson | Starlink software leadership (Director in 2020) | Skip-level; spoke publicly on Starlink security | https://www.linkedin.com/in/matt-monson-56378251/ | Medium (may be dated) | optional |
-No Starlink/Starshield security hiring manager is publicly named.
+| Gina Lee | Sr. Talent Acquisition Manager at Trace3 (OC) | Likely owns Trace3xperience recruiting | https://www.linkedin.com/in/gina-lee-21a7724/ | unknown | — | to-connect |
+| Thad Machnikowski | Sr. Talent Acquisition Partner at Trace3 (Aliso Viejo) | Recruiter, local | https://www.linkedin.com/in/tmach/ | unknown | — | to-connect |
+| Alexander Resendiz | AI Security Consultant @ Trace3 (LA) | Works in the AI Security practice you applied to | https://www.linkedin.com/in/alexander-resendiz/ | unknown | — | to-connect |
+| Jennifer Fite, Ph.D. | Principal Consultant, AI Security | Surfaced in Trace3 AI-security search — VERIFY company before following | https://www.linkedin.com/in/jenfitephd/ | unknown | — | to-connect |
 
-## Ventura Foods (applied: Associate Application Security Engineer)
-| Priority | Name | Title | Why | LinkedIn | Conf. | Status |
+### Tevora
+| Name | Current title | Why relevant | LinkedIn | UCI alum | Mutuals | Status |
 |---|---|---|---|---|---|---|
-| 1 | Reenan Arbitrario | Manager, Application Security | Very likely the hiring manager | search: Reenan Arbitrario Ventura Foods | Medium | to-connect |
-| 2 | Tareq Khatib (Tareq K.) | Security Operations | Current Cyber Security team member | https://www.linkedin.com/in/tareqkhatib/ | Med-High | to-connect |
-| – | Kiran Vankamamidi | EVP, CIO | Top of IT/security org — too senior for a first note | search: Kiran Vankamamidi Ventura Foods | High | skip for now |
+| Deuntae Broadnax | Executive Technical Recruiter @ Tevora & Mighty ID (LA) | Technical recruiter — likely CDP pipeline | https://www.linkedin.com/in/deuntae-broadnax/ | unknown | — | to-connect |
+| Edward M. | Senior Information Security Analyst @ Tevora | UCI alum | https://www.linkedin.com/in/edward-m-05200455/ | yes | — | to-connect |
+| Adoriel Bethishou | Sr. Information Security and Privacy Consultant at Tevora | UCI alum | https://www.linkedin.com/in/adoriel-bethishou-07bb69285/ | yes | — | to-connect |
+| Jeremiah Garcia | Information Security Associate at Tevora | Associate level — likely recent CDP grad | https://www.linkedin.com/in/jeremiah-garcia-jag/ | unknown | — | to-connect |
+| Prayank Srivastava | Information Security Associate at Tevora | Associate level — recent CDP path | https://www.linkedin.com/in/prayank-srivastava/ | no (Virginia Tech) | — | to-connect |
 
-## EP Wealth Advisors (applied: Cybersecurity Intern, Summer 2027)
-| Priority | Name | Title | Why | LinkedIn | Conf. | Status |
+### Ventura Foods
+| Name | Current title | Why relevant | LinkedIn | UCI alum | Mutuals | Status |
 |---|---|---|---|---|---|---|
-| 1 | Kate Middagh | Chief Information Security Officer (new, Sept 2026) | Owns the security/GRC team the intern supports | search: Kate Middagh EP Wealth | High | to-connect |
-| 2 | Mario Chilin | Managing Director, Compliance and Risk | Risk/vendor-review/controls overlap | https://www.linkedin.com/in/mario-chilin-iaccp%C2%AE-ccep%C2%AE-cscp%C2%AE-a7307699/ | High | to-connect |
-| 3 | Will Silva | Lead IT Associate | IT team peer | https://www.linkedin.com/in/willsilvajr/ | Med-Low | to-connect |
-| – | Kelly Shannon | MD, Head of Talent Management | Talent / intern program | search: Kelly Shannon EP Wealth Advisors | High | optional |
-| – | Pankti Shah | Head of People Operations | HR contact | https://www.linkedin.com/in/pankti09/ | Medium | optional |
+| Steven Hernandez | VP of Information Security at Ventura Foods | Head of the security org (Reenan/Tareq's leadership) | https://www.linkedin.com/in/smhdz/ | unknown | 2nd degree | to-connect |
+| Seher Allahbachayo | Former Ventura Foods summer intern | Can describe the team and intern/interview experience | https://www.linkedin.com/in/seher-allahbachayo/ | unknown | — | to-connect |
+| Vijay V. | Senior Manager, Network Engineering & Infrastructure | Adjacent infra team | https://www.linkedin.com/in/vj2net/ | unknown | 2nd degree | to-connect |
 
-## Trace3 (applied: Security Intern, Trace3xperience — AI Security)
-| Priority | Name | Title | Why | LinkedIn | Conf. | Status |
+### EP Wealth Advisors
+| Name | Current title | Why relevant | LinkedIn | UCI alum | Mutuals | Status |
 |---|---|---|---|---|---|---|
-| 1 | Brett Wyer | Global Security Solutions Architect | Security Solutions group (same org as AI Security) | https://www.linkedin.com/in/brettwyer/ | Medium | to-connect |
-| 2 | Sohil Ramdas | Innovation Principal | Writes on AI security | search: Sohil Ramdas Trace3 | Med-High | to-connect |
-| 3 | Justin "Hutch" Hutchens | Innovation Principal | AI/agentic security speaker & author | https://linkedin.com/in/justinhutchens | Medium | to-connect |
-| – | Thomas Maier | Trace3 (title unverified) | Surfaced for "AI Security" leadership — check title | https://www.linkedin.com/in/tmaier/ | Low-Med | verify first |
-| – | Stephanie Kurtz | Trace3 (title unverified) | Same — check title | https://www.linkedin.com/in/stkurtz/ | Low-Med | verify first |
-| – | Abbie Blackburn | University Talent Lead (2022) | Ran Trace3xperience recruiting — may be dated | search: Abbie Blackburn Trace3 | Low | verify first |
+| Mike Madden | Director, Technology Operations at EP Wealth | IT leadership next to the CISO | https://www.linkedin.com/in/madmichaelcharles/ | unknown | — | to-connect |
+| Laura Brower, SHRM-CP | HR (title not verified) | Possible talent/intern contact — verify title | https://www.linkedin.com/in/laura-phy/ | unknown | — | to-connect |
 
-## StudyFetch (applied: IT & Security Operations Intern)
-| Priority | Name | Title | Why | LinkedIn | Conf. | Status |
+### StudyFetch
+| Name | Current title | Why relevant | LinkedIn | UCI alum | Mutuals | Status |
 |---|---|---|---|---|---|---|
-| 1 | Ryan Trattner | Co-Founder & CTO | Owns engineering/infra; the IT/compliance engineer likely reports to him | https://www.linkedin.com/in/ryan-trattner-575610386/ | High | to-connect |
-| 2 | Esan Durrani | Co-Founder & CEO | Small startup; founders often reply | https://www.linkedin.com/in/esan-durrani-576b611b4/ | High | to-connect |
-| – | Joshua Leggett | COO | Onboarding/access processes may sit with ops | search: Joshua Leggett StudyFetch | High | optional |
+| Richard Phan | IT & Security Operations @ StudyFetch | Security+ | Almost certainly the team/manager for the IT & Security Ops intern | https://www.linkedin.com/in/king-richard-phan/ | unknown | — | to-connect |
+| Amin Parva | Staff Engineer, Applied AI at StudyFetch | Senior engineer (stand-in for VP Eng — none listed) | https://www.linkedin.com/in/amin-parva-9a039169/ | unknown | — | to-connect |
+| Joshua Leggett | COO, StudyFetch | Ops/onboarding owner | https://www.linkedin.com/in/joshualeggett95/ | unknown | — | to-connect |
+
+Gaps: no public Starlink/Starshield security hiring manager found; EP Wealth's security staff under the CISO aren't visible on LinkedIn; StudyFetch has no VP Eng listed (Amin Parva is the most senior engineer visible).
