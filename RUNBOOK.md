@@ -67,12 +67,20 @@ In report sections, files and pushes below, "7+" means ">= TAILOR_THRESHOLD". Fo
 - In the report, never re-suggest applied roles; list applied roles whose follow-up date is within 3 days under "Follow-ups due".
 
 ## Mac folder layout (written by the 9:12 Mac task)
-Dropped roles: a role with status "dropped" in data/roles.json (Brandon asked to discard it) must have no files anywhere. The Mac task deletes its Applications/<folder> (folder name is on the role) and never recreates it; cloud runs never re-tailor or re-suggest it. Dropped 2026-11-21: "Tevora - SOC Intern", "Millennium Space - Cybersecurity Analyst", "Varda - Cybersecurity Intern", "First American - InfoSec Analyst".
+Restructured 2026-11-21 at Brandon's request: Applications is the head folder with exactly two subfolders.
 Job Search/
   Applications Submitted.md
-  Applications/<Company> - <Short role>/   -> "<Company> - <Short role> - Resume.docx", "... - Cover Letter.docx", "Job Info.md"
+  Applications/
+    Not Yet Applied/<Company> - <Short role>/   -> "<Company> - <Short role> - Resume.docx", "... - Cover Letter.docx", "Job Info.md"
+    Applied/<Company> - <Short role>/           -> same files, moved here once Brandon applies
   Daily Reports/<YYYY-MM-DD>/report.md
   CareerNavigator/...
+Rules for the Mac task (every run):
+- New tailored roles (score >= TAILOR_THRESHOLD, status "tailored") go into Applications/Not Yet Applied/<folder>/.
+- Any role with status "applied" in data/roles.json (or listed in Applications Submitted.md) is MOVED (not copied) from Not Yet Applied/ to Applied/<folder>/. Never leave a duplicate in Not Yet Applied.
+- One-time migration (first run after 2026-11-21): create Not Yet Applied/ and Applied/, then move every existing Applications/<folder>/ into the matching subfolder by status. Folders left directly under Applications/ are not allowed after that.
+- Dropped roles (status "dropped" in data/roles.json): delete their folder wherever it is and never recreate it. Dropped 2026-11-21: "Tevora - SOC Intern", "Millennium Space - Cybersecurity Analyst", "Varda - Cybersecurity Intern", "First American - InfoSec Analyst".
+- Cloud runs cannot reach the Mac; they only set status in data/roles.json and data/seen.json (and the "Folder" column in data/applications-submitted.md uses Applications/Applied/<folder>).
 Use a short, readable folder name (e.g., "Tevora - Solutions Intern", "Ventura Foods - Associate AppSec Engineer"); store it as "folder" on the role in data/roles.json so both runs agree.
 
 ## Report (daily/<date>/report.md) and delivery
