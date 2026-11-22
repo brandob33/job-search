@@ -269,12 +269,13 @@
   "why": "Excellent skill fit (IAM, AppSec, Python, RAG/prompting) but asks for enrolled juniors/seniors or Master's students — email the recruiter before applying.",
   "ats_score": "79",
   "first_seen": "2026-11-20",
-  "status": "tailored",
+  "status": "applied",
   "files": "daily/2026-11-21/trace3-security-intern-ai-security/",
   "folder": "Trace3 - Security Intern AI Security",
   "main_risk": "Requires junior/senior or Master's enrollment — email recruiter first.",
   "backfilled": "2026-11-21",
-  "verified_on": "2026-11-21"
+  "verified_on": "2026-11-21",
+  "date_applied": "2026-11-21"
  },
  {
   "id": "spacex-information-security-analyst",
@@ -384,12 +385,14 @@
   "why": "Remote West Coast, no years required; 4x10 incl. weekends, full-time now, incident-handling focus. Closes Jan 17.",
   "ats_score": "83",
   "first_seen": "2026-11-20",
-  "status": "tailored",
+  "status": "deferred",
   "files": "daily/2026-11-21/crowdstrike-analyst-i-falcon-complete-remote/",
   "folder": "CrowdStrike - Analyst I Falcon Complete",
   "main_risk": "Full-time 4x10 incl. weekends; Jan 17 close suggests earlier start; no IR/EDR/SIEM.",
   "backfilled": "2026-11-21",
-  "verified_on": "2026-11-21"
+  "verified_on": "2026-11-21",
+  "deferred_on": "2026-11-21",
+  "defer_note": "Brandon: save for another time, maybe tomorrow. Resurface in the next report under \"Saved for later\" with its Jan 17 close date."
  },
  {
   "id": "tevora-cyber-intern-payments-su27",
@@ -432,12 +435,13 @@
   "why": "Eligible CDP track, but PCI-DSS compliance focus; reuse the Solutions resume if you want a second Tevora track.",
   "ats_score": "88",
   "first_seen": "2026-11-20",
-  "status": "tailored",
+  "status": "applied",
   "files": "daily/2026-11-21/tevora-cyber-intern-payments-su27/",
   "folder": "Tevora - Payments Intern",
   "main_risk": "No PCI DSS/compliance-framework experience; cohort starts May 31 (check overlap with D1 postseason).",
   "backfilled": "2026-11-21",
-  "verified_on": "2026-11-21 (search listing only; Lever page blocked)"
+  "verified_on": "2026-11-21 (search listing only; Lever page blocked)",
+  "date_applied": "2026-11-21"
  },
  {
   "id": "tevora-cyber-intern-healthcare-su27",
@@ -482,12 +486,13 @@
   "why": "Eligible; HIPAA compliance focus — less technical.",
   "ats_score": "85",
   "first_seen": "2026-11-20",
-  "status": "tailored",
+  "status": "applied",
   "files": "daily/2026-11-21/tevora-cyber-intern-healthcare-su27/",
   "folder": "Tevora - Healthcare Intern",
   "main_risk": "No HIPAA/HITRUST experience; less technical; May 31 cohort start.",
   "backfilled": "2026-11-21",
-  "verified_on": "2026-11-21"
+  "verified_on": "2026-11-21",
+  "date_applied": "2026-11-21"
  },
  {
   "id": "tevora-cyber-intern-iso-su27",
@@ -533,12 +538,13 @@
   "why": "Eligible; ISO 27001 audit focus — less technical.",
   "ats_score": "85",
   "first_seen": "2026-11-20",
-  "status": "tailored",
+  "status": "applied",
   "files": "daily/2026-11-21/tevora-cyber-intern-iso-su27/",
   "folder": "Tevora - ISO Intern",
   "main_risk": "No ISO 27001/audit experience; least technical track; May 31 cohort start.",
   "backfilled": "2026-11-21",
-  "verified_on": "2026-11-21"
+  "verified_on": "2026-11-21",
+  "date_applied": "2026-11-21"
  },
  {
   "id": "spacex-security-analyst-detection-ir",
@@ -594,12 +600,14 @@
   "why": "Degree meets basics; needs OS auditing and host/network collection tools you haven't listed; full-time now.",
   "ats_score": "81",
   "first_seen": "2026-11-20",
-  "status": "tailored",
+  "status": "closed",
   "files": "daily/2026-11-21/spacex-security-analyst-detection-ir/",
   "folder": "SpaceX - Security Analyst Detection IR",
   "main_risk": "Needs OS auditing + host/network collection tools; no SIEM/IR.",
   "backfilled": "2026-11-21",
-  "verified_on": "2026-11-21"
+  "verified_on": "2026-11-21",
+  "closed_on": "2026-11-21",
+  "closed_note": "Brandon reported closed"
  },
  {
   "id": "tevora-cyber-intern-soc-su27",
@@ -696,12 +704,14 @@
   "why": "Raised 5->6: full posting captured; quals match the D&IR role. STEM degree meets basics, ITAR OK; no SOC/SIEM.",
   "ats_score": "80",
   "first_seen": "2026-11-20",
-  "status": "tailored",
+  "status": "closed",
   "files": "daily/2026-11-21/spacex-security-analyst-soc/",
   "folder": "SpaceX - Security Analyst SOC",
   "main_risk": "Same OS-auditing/host-collection gap as D&IR; no SOC/SIEM.",
   "backfilled": "2026-11-21",
-  "verified_on": "2026-11-21"
+  "verified_on": "2026-11-21",
+  "closed_on": "2026-11-21",
+  "closed_note": "Brandon reported closed"
  },
  {
   "id": "millennium-boeing-cybersecurity-analyst",
@@ -1229,14 +1239,15 @@
   "deadline": "2026-12-31",
   "score": 7,
   "ats_score": "85",
-  "status": "tailored",
+  "status": "applied",
   "files": "daily/2026-11-21/ep-wealth-cybersecurity-intern-su27/",
   "folder": "EP Wealth - Cybersecurity Intern",
   "why": "Summer 2027 intern that accepts recent grads; Security+ (Jan) and Security and Privacy coursework hit preferred quals; CommunicAI controls and trainer experience map to control tracking and awareness work.",
   "main_risk": "MS Office required but not on resume; GRC/vendor-review flavored; Torrance ~45-70 min.",
   "first_seen": "2026-11-21",
   "source": "inbox/linkedin-2026-11-21.json (Mac run)",
-  "verified": true
+  "verified": true,
+  "date_applied": "2026-11-21"
  },
  {
   "id": "studyfetch-it-security-ops-intern",
@@ -1250,14 +1261,15 @@
   "deadline": "None listed",
   "score": 6,
   "ats_score": "83",
-  "status": "tailored",
+  "status": "applied",
   "files": "daily/2026-11-21/studyfetch-it-security-ops-intern/",
   "folder": "StudyFetch - IT & Security Ops Intern",
   "why": "Least-privilege access management on GCP/GitHub fits his IAM, GCP, Python and Git; accepts recent grads.",
   "main_risk": "Beverly Hills is ~1-1.5 hr each way (edge of the 1-hr rule) and 20 onsite hrs/wk overlaps spring track; no Workspace/macOS/MDM/Vanta.",
   "first_seen": "2026-11-21",
   "source": "inbox/linkedin-2026-11-21.json (Mac run)",
-  "verified": true
+  "verified": true,
+  "date_applied": "2026-11-21"
  },
  {
   "id": "spacex-security-engineer",

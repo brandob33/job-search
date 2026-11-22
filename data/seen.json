@@ -39,9 +39,10 @@
     "first_seen": "2026-11-20",
     "score": 6,
     "url": "https://job-boards.greenhouse.io/trace3/jobs/8274792",
-    "status": "tailored",
+    "status": "applied",
     "company": "Trace3",
-    "title": "Security Intern (Trace3xperience Program - AI Security practice)"
+    "title": "Security Intern (Trace3xperience Program - AI Security practice)",
+    "date_applied": "2026-11-21"
   },
   "spacex-information-security-analyst": {
     "first_seen": "2026-11-20",
@@ -55,7 +56,7 @@
     "first_seen": "2026-11-20",
     "score": 6,
     "url": "https://www.builtinaustin.com/job/analyst-i-falcon-complete-remote-pst-mst/12286987",
-    "status": "tailored",
+    "status": "deferred",
     "company": "CrowdStrike",
     "title": "Analyst I, Falcon Complete (Remote - PST/MST)"
   },
@@ -63,31 +64,34 @@
     "first_seen": "2026-11-20",
     "score": 6,
     "url": "https://jobs.lever.co/tevora/7b1010a9-9379-459a-89f8-222af2fe7721",
-    "status": "tailored",
+    "status": "applied",
     "company": "Tevora",
-    "title": "Cybersecurity Internship Summer 2027 - Payments"
+    "title": "Cybersecurity Internship Summer 2027 - Payments",
+    "date_applied": "2026-11-21"
   },
   "tevora-cyber-intern-healthcare-su27": {
     "first_seen": "2026-11-20",
     "score": 6,
     "url": "https://jobs.lever.co/tevora/a18eeda5-4b39-4e8f-b3b3-e4d80e3601b0",
-    "status": "tailored",
+    "status": "applied",
     "company": "Tevora",
-    "title": "Cybersecurity Internship Summer 2027 - Healthcare"
+    "title": "Cybersecurity Internship Summer 2027 - Healthcare",
+    "date_applied": "2026-11-21"
   },
   "tevora-cyber-intern-iso-su27": {
     "first_seen": "2026-11-20",
     "score": 6,
     "url": "https://jobs.lever.co/tevora/648630ae-0dce-4b80-af2b-911c2c8f159c",
-    "status": "tailored",
+    "status": "applied",
     "company": "Tevora",
-    "title": "Cybersecurity Internship Summer 2027 - International Organization for Standardization (ISO)"
+    "title": "Cybersecurity Internship Summer 2027 - International Organization for Standardization (ISO)",
+    "date_applied": "2026-11-21"
   },
   "spacex-security-analyst-detection-ir": {
     "first_seen": "2026-11-20",
     "score": 6,
     "url": "https://job-boards.greenhouse.io/spacex/jobs/8525400002",
-    "status": "tailored",
+    "status": "closed",
     "company": "SpaceX",
     "title": "Security Analyst (Detection and Incident Response) (Level I/II)"
   },
@@ -103,7 +107,7 @@
     "first_seen": "2026-11-20",
     "score": 6,
     "url": "https://job-boards.greenhouse.io/spacex/jobs/8650239002",
-    "status": "tailored",
+    "status": "closed",
     "company": "SpaceX",
     "title": "Security Analyst (SOC) (Level I/II)"
   },
@@ -306,17 +310,19 @@
     "first_seen": "2026-11-21",
     "score": 7,
     "url": "https://jobs.lever.co/epwealth/6f92e3ad-ab55-44bf-b2d6-395cdd4dc7a9",
-    "status": "tailored",
+    "status": "applied",
     "company": "EP Wealth Advisors",
-    "title": "Cybersecurity Intern (Summer 2027)"
+    "title": "Cybersecurity Intern (Summer 2027)",
+    "date_applied": "2026-11-21"
   },
   "studyfetch-it-security-ops-intern": {
     "first_seen": "2026-11-21",
     "score": 6,
     "url": "https://ats.rippling.com/studyfetch/jobs/5dd7523c-deae-47bd-ab34-f2fa06110892",
-    "status": "tailored",
+    "status": "applied",
     "company": "StudyFetch",
-    "title": "IT & Security Operations Intern"
+    "title": "IT & Security Operations Intern",
+    "date_applied": "2026-11-21"
   },
   "spacex-security-engineer": {
     "first_seen": "2026-11-21",

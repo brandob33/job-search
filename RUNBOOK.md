@@ -64,6 +64,7 @@ In report sections, files and pushes below, "7+" means ">= TAILOR_THRESHOLD". Fo
 
 ## Applied tracking
 - data/applications-submitted.md mirrors "Job Search/Applications Submitted.md" on the Mac (Brandon's list of applications he has sent). data/seen.json status "applied" marks them.
+- Roles with status "deferred" (Brandon chose to wait): list them in the next report under "Saved for later" with deadline; don't re-tailor.
 - In the report, never re-suggest applied roles; list applied roles whose follow-up date is within 3 days under "Follow-ups due".
 
 ## Mac folder layout (written by the 9:12 Mac task)
