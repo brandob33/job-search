@@ -332,12 +332,14 @@
   "why": "Degree meets basics, ITAR OK as US citizen; full-time now, on-site Hawthorne (~45–75 min), wants OS internals.",
   "ats_score": "80",
   "first_seen": "2026-11-20",
-  "status": "tailored",
+  "status": "closed",
   "files": "daily/2026-11-21/spacex-information-security-analyst/",
   "folder": "SpaceX - Information Security Analyst",
   "main_risk": "Full-time (start summer 2027); OS internals basic qual backed only by coursework.",
   "backfilled": "2026-11-21",
-  "verified_on": "2026-11-21"
+  "verified_on": "2026-11-21",
+  "closed_on": "2026-11-21",
+  "closed_note": "Brandon reported closed"
  },
  {
   "id": "crowdstrike-analyst-i-falcon-complete-remote",
