@@ -23,5 +23,15 @@ Excluded on hard requirements (logged in seen.json): Popa FCU IS Security & Risk
 ## Follow-ups due (next 3 days)
 - None. Tevora Solutions ~Dec 4; the other 12 applications ~Dec 5.
 
-## LinkedIn inbox
-- No `inbox/linkedin-2026-11-22.json` yet as of 8:55am. Yesterday's file was already processed.
+## LinkedIn inbox (processed same day, afternoon)
+`inbox/linkedin-2026-11-22.json` had 23 postings: 9 were already in seen.json (Rivian, Boot Barn, F&M Bank, Nexon, Mach, Northrop SSE L2, enGen, Filevine, Honeywell) and 14 were new. Most of the new El Segundo defense roles need an active clearance.
+
+### Scored 6+
+1. 6 — [Junior Security Engineer](https://www.linkedin.com/jobs/view/4491816057/) · Foundant · Remote (US) · pay not listed · no deadline. Takes "equivalent internships, coursework, or hands-on lab experience" instead of 1-3 years, and half the job is securing AI features (prompt injection, LLM misuse), which fits your IAM, network attack and LLM background. Main risk: SIEM/Datadog and AWS/Azure logging are core and you don't have them; it's full-time and likely starts before summer. ATS 81. Apply on Foundant's careers page. Files: `daily/2026-11-22/foundant-junior-security-engineer/`
+
+### Below 6
+- 5 — [Junior Security Engineer](https://www.linkedin.com/jobs/view/4490859637/) · Jobgether · Remote. Looks like a partner repost of the Foundant role (same requirements). Apply to Foundant directly instead.
+- 4 — [Cloud Security Engineer](https://www.linkedin.com/jobs/view/4492842984/) · CSG · Remote. Needs 2+ years in infosec plus incident response and PCI.
+- 3 — [Cyber Security Analyst](https://www.linkedin.com/jobs/view/4493514885/) · IDR (contract, $60-65/hr) · LA hybrid. Really a threat-intel program coordinator role for experienced people.
+
+Excluded on hard requirements: Raytheon Analyst Security (active TS), Northrop Associate Industrial Security Analyst (active Secret), Northrop Industrial Security Analyst Palmdale (Secret, >1 hr), Aerospace Corp ISSO (TS/SCI + polygraph), Boeing ISSO (T5 + 3 yrs RMF), Whatnot Threat Detection (5+ yrs), Socket Research Intern (PhD only), Leidos Junior Network Security (active Secret), Dunhill SOC Analyst Junior and SIXGEN Jr. Threat Hunter (Secret clearance).

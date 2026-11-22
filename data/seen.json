@@ -571,5 +571,127 @@
   "company": "Tevora",
   "title": "Cybersecurity Internship Winter 2027 - SOC / ISO / ERM",
   "reason": "winter cohort (Jan-Apr) clashes with spring school/track"
+ },
+ "foundant-junior-security-engineer": {
+  "first_seen": "2026-11-22",
+  "score": 6,
+  "url": "https://www.linkedin.com/jobs/view/4491816057/",
+  "status": "tailored",
+  "company": "Foundant",
+  "title": "Junior Security Engineer"
+ },
+ "jobgether-junior-security-engineer": {
+  "first_seen": "2026-11-22",
+  "score": 5,
+  "url": "https://www.linkedin.com/jobs/view/4490859637/",
+  "status": "new",
+  "company": "Jobgether (partner repost)",
+  "title": "Junior Security Engineer"
+ },
+ "csg-cloud-security-engineer": {
+  "first_seen": "2026-11-22",
+  "score": 4,
+  "url": "https://www.linkedin.com/jobs/view/4492842984/",
+  "status": "new",
+  "company": "CSG",
+  "title": "Cloud Security Engineer"
+ },
+ "idr-cyber-security-analyst": {
+  "first_seen": "2026-11-22",
+  "score": 3,
+  "url": "https://www.linkedin.com/jobs/view/4493514885/",
+  "status": "new",
+  "company": "IDR, Inc.",
+  "title": "Cyber Security Analyst (Regional Cyber Coordinator, contract)"
+ },
+ "raytheon-analyst-security-el-segundo": {
+  "first_seen": "2026-11-22",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4491773434/",
+  "status": "excluded",
+  "company": "Raytheon",
+  "title": "Analyst Security - El Segundo, CA",
+  "reason": "Active Top Secret clearance required day 1 (personnel/industrial security)."
+ },
+ "northrop-associate-industrial-security-analyst": {
+  "first_seen": "2026-11-22",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4492797150/",
+  "status": "excluded",
+  "company": "Northrop Grumman",
+  "title": "Associate Industrial Security Analyst",
+  "reason": "Active Secret clearance required at start; physical/program security."
+ },
+ "northrop-industrial-security-analyst-palmdale": {
+  "first_seen": "2026-11-22",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4492024043/",
+  "status": "excluded",
+  "company": "Northrop Grumman",
+  "title": "Industrial Security Analyst (Palmdale)",
+  "reason": "Secret clearance required at start; ICD 705 physical security; Palmdale >1 hr."
+ },
+ "aerospace-corp-isso-el-segundo": {
+  "first_seen": "2026-11-22",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4491916252/",
+  "status": "excluded",
+  "company": "The Aerospace Corporation",
+  "title": "Information Systems Security Officer",
+  "reason": "TS/SCI and CI polygraph required."
+ },
+ "boeing-isso-el-segundo": {
+  "first_seen": "2026-11-22",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4490884416/",
+  "status": "excluded",
+  "company": "Boeing",
+  "title": "Cybersecurity - Information System Security Officer (ISSO)",
+  "reason": "Completed T5 investigation and 3+ yrs RMF required."
+ },
+ "whatnot-threat-detection-response-engineer": {
+  "first_seen": "2026-11-22",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4492847312/",
+  "status": "excluded",
+  "company": "Whatnot",
+  "title": "Threat Detection and Response Engineer",
+  "reason": "5+ years incident response required."
+ },
+ "socket-research-intern": {
+  "first_seen": "2026-11-22",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4491593368/",
+  "status": "excluded",
+  "company": "Socket",
+  "title": "Research Intern",
+  "reason": "Must be enrolled in a PhD program."
+ },
+ "leidos-network-security-migration-engineer-junior": {
+  "first_seen": "2026-11-22",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4490165077/",
+  "status": "excluded",
+  "company": "Leidos",
+  "title": "Network Security Migration Engineer - Junior Level",
+  "reason": "Active Secret clearance required."
+ },
+ "dunhill-soc-analyst-junior-secret": {
+  "first_seen": "2026-11-22",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4490937289/",
+  "status": "excluded",
+  "company": "Dunhill Professional Search",
+  "title": "SOC Analyst Junior - Secret Clearance",
+  "reason": "Secret clearance required (per title)."
+ },
+ "sixgen-jr-threat-hunter-purple-team": {
+  "first_seen": "2026-11-22",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4492362519/",
+  "status": "excluded",
+  "company": "SIXGEN",
+  "title": "Jr. Threat Hunter/Purple Team Operator - S clearance",
+  "reason": "Secret clearance required (per title)."
  }
 }

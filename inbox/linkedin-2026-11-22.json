@@ -280,5 +280,6 @@
    "apply_url": ""
   }
  ],
- "processed": false
+ "processed": true,
+ "processed_on": "2026-11-22"
 }
