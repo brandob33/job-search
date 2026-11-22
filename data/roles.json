@@ -47,7 +47,8 @@
   "first_seen": "2026-11-20",
   "status": "applied",
   "files": "daily/2026-11-20/tevora-cyber-intern-solutions-su27/",
-  "date_applied": "2026-11-20"
+  "date_applied": "2026-11-20",
+  "folder": "Tevora - Solutions Intern"
  },
  {
   "id": "venturafoods-associate-appsec-engineer",
@@ -112,7 +113,8 @@
   "first_seen": "2026-11-20",
   "status": "applied",
   "files": "daily/2026-11-20/venturafoods-associate-appsec-engineer/",
-  "date_applied": "2026-11-21"
+  "date_applied": "2026-11-21",
+  "folder": "Ventura Foods - Associate AppSec Engineer"
  },
  {
   "id": "tevora-cyber-intern-federal-su27",
@@ -160,7 +162,8 @@
   "first_seen": "2026-11-20",
   "status": "applied",
   "files": "daily/2026-11-20/tevora-cyber-intern-federal-su27/",
-  "date_applied": "2026-11-21"
+  "date_applied": "2026-11-21",
+  "folder": "Tevora - Federal Intern"
  },
  {
   "id": "tevora-cyber-intern-erm-su27",
@@ -207,7 +210,8 @@
   "first_seen": "2026-11-20",
   "status": "applied",
   "files": "daily/2026-11-20/tevora-cyber-intern-erm-su27/",
-  "date_applied": "2026-11-21"
+  "date_applied": "2026-11-21",
+  "folder": "Tevora - ERM Intern"
  },
  {
   "id": "trace3-security-intern-ai-security",
