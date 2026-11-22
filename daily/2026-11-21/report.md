@@ -55,3 +55,13 @@ Excluded on hard requirements (logged in seen.json): PixxelSpace Cybersecurity E
 
 ## Follow-ups due (next 3 days)
 - None. Tevora Solutions follow-up is ~Dec 4; Ventura, Tevora Federal and ERM ~Dec 5.
+
+## LinkedIn inbox (Mac run, processed in follow-up)
+
+20 postings; Peraton and Honeywell already scored. Tailored (≥6):
+- 7 — [Cybersecurity Intern, Summer 2027](https://jobs.lever.co/epwealth/6f92e3ad-ab55-44bf-b2d6-395cdd4dc7a9) · EP Wealth Advisors · Torrance · $25/hr · **deadline Dec 31**: accepts recent grads; Security+ and coursework hit preferred quals. Risk: MS Office required, not on resume. ATS 85. Files: `ep-wealth-cybersecurity-intern-su27/`
+- 6 — [IT & Security Operations Intern](https://ats.rippling.com/studyfetch/jobs/5dd7523c-deae-47bd-ab34-f2fa06110892) · StudyFetch · Beverly Hills · $3,000/mo, 20 hrs/wk: least-privilege access work fits IAM/GCP/Python. Risk: 1–1.5 hr commute and spring hours. ATS 83. Files: `studyfetch-it-security-ops-intern/`
+- 6 — SpaceX "Security Engineer" ([LinkedIn](https://www.linkedin.com/jobs/view/4421329580/)): not tailored — couldn't confirm which req it is (SecOps 8201865002, Blue Team 8611223002, or the plain Security Engineer).
+
+Below 6: Mach Industries Security Engineer (5; 1–3 yrs, AWS/M365), Nexon Game Security Analyst (4), Boot Barn InfoSec Analyst (4; SIEM/Nessus/NIST), Filevine Security Specialist Intern (4; hybrid SLC/Chicago/SF despite "Remote"), First American Attack Surface Engineer (4; 2–3 yrs), SpaceX Product Security Engineer Starshield (4; TS required), F&M Bank InfoSec Analyst 1 (3; 2+ yrs), enGen intern (3; baccalaureate enrollment), Honeywell x2 (3; grad Dec 2027+).
+Excluded: Anduril ISSO x2 (active TS), Twitch IR (closed, 3+ yrs), iBase-t (7+ yrs), Banc of California (4+ yrs), Apexon (posting not found).

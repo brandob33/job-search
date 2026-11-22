@@ -298,5 +298,164 @@
     "company": "CACI International",
     "title": "Cybersecurity Intern - Summer 2027",
     "reason": "Stafford, VA only"
+  },
+  "ep-wealth-cybersecurity-intern-su27": {
+    "first_seen": "2026-11-21",
+    "score": 7,
+    "url": "https://jobs.lever.co/epwealth/6f92e3ad-ab55-44bf-b2d6-395cdd4dc7a9",
+    "status": "tailored",
+    "company": "EP Wealth Advisors",
+    "title": "Cybersecurity Intern (Summer 2027)"
+  },
+  "studyfetch-it-security-ops-intern": {
+    "first_seen": "2026-11-21",
+    "score": 6,
+    "url": "https://ats.rippling.com/studyfetch/jobs/5dd7523c-deae-47bd-ab34-f2fa06110892",
+    "status": "tailored",
+    "company": "StudyFetch",
+    "title": "IT & Security Operations Intern"
+  },
+  "spacex-security-engineer": {
+    "first_seen": "2026-11-21",
+    "score": 6,
+    "url": "https://www.linkedin.com/jobs/view/4421329580/",
+    "status": "unverified",
+    "company": "SpaceX",
+    "title": "Security Engineer"
+  },
+  "mach-security-engineer": {
+    "first_seen": "2026-11-21",
+    "score": 5,
+    "url": "https://job-boards.greenhouse.io/machindustries/jobs/4507989009",
+    "status": "new",
+    "company": "Mach Industries",
+    "title": "Security Engineer"
+  },
+  "nexon-game-security-analyst": {
+    "first_seen": "2026-11-21",
+    "score": 4,
+    "url": "https://careers.jobscore.com/careers/nexonamericainc/jobs/game-security-analyst-clF76E-Lbhai_t-yv-8LI_",
+    "status": "new",
+    "company": "Nexon America",
+    "title": "Game Security Analyst"
+  },
+  "boot-barn-information-security-analyst": {
+    "first_seen": "2026-11-21",
+    "score": 4,
+    "url": "https://myjobs.adp.com/boottbarnext/cx/job/5001239465506",
+    "status": "new",
+    "company": "Boot Barn",
+    "title": "Information Security Analyst"
+  },
+  "filevine-security-specialist-intern": {
+    "first_seen": "2026-11-21",
+    "score": 4,
+    "url": "https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370",
+    "status": "new",
+    "company": "Filevine",
+    "title": "Security Specialist, Intern"
+  },
+  "first-american-security-engineer-attack-surface": {
+    "first_seen": "2026-11-21",
+    "score": 4,
+    "url": "https://firstamerican.phenompro.com/us/en/job/FATFATUSR059341EXTERNALENUS",
+    "status": "new",
+    "company": "First American",
+    "title": "Security Engineer Attack Surface Platforms (Hybrid)"
+  },
+  "fm-bank-information-security-analyst-1": {
+    "first_seen": "2026-11-21",
+    "score": 3,
+    "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=45d0c09a-f362-43e9-a0af-463afde0dc5f&ccId=19000101_000001&jobId=9207576549478_9&lang=en_US",
+    "status": "new",
+    "company": "Farmers & Merchants Bank of Long Beach",
+    "title": "Information Security Analyst 1"
+  },
+  "engen-network-cybersecurity-engineer-intern-su27": {
+    "first_seen": "2026-11-21",
+    "score": 3,
+    "url": "https://himalayas.app/companies/highmark-health/jobs/summer-2027-network-cybersecurity-engineer-undergraduate-intern",
+    "status": "new",
+    "company": "enGen (Highmark Health)",
+    "title": "Summer 2027 Network Cybersecurity Engineer Undergraduate Intern"
+  },
+  "honeywell-is-it-cyber-ds-intern-su27": {
+    "first_seen": "2026-11-21",
+    "score": 3,
+    "url": "https://www.builtinseattle.com/job/information-systems-it-cyber-engineer-data-science-summer-2027-intern/10860619",
+    "status": "new",
+    "company": "Honeywell",
+    "title": "Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern (+ US Person variant)"
+  },
+  "spacex-product-security-engineer-starshield": {
+    "first_seen": "2026-11-21",
+    "score": 4,
+    "url": "https://jobs.thrivecap.com/companies/spacex/jobs/73272021-product-security-engineer-starshield",
+    "status": "new",
+    "company": "SpaceX",
+    "title": "Product Security Engineer (Starshield)"
+  },
+  "anduril-isso": {
+    "first_seen": "2026-11-21",
+    "score": null,
+    "url": "",
+    "status": "excluded",
+    "company": "Anduril Industries",
+    "title": "Information System Security Officer",
+    "reason": "active TS required"
+  },
+  "anduril-isso-space": {
+    "first_seen": "2026-11-21",
+    "score": null,
+    "url": "",
+    "status": "excluded",
+    "company": "Anduril Industries",
+    "title": "Information Systems Security Officer, Space",
+    "reason": "active TS required"
+  },
+  "twitch-security-incident-response-engineer": {
+    "first_seen": "2026-11-21",
+    "score": null,
+    "url": "",
+    "status": "excluded",
+    "company": "Twitch",
+    "title": "Security Incident Response Engineer",
+    "reason": "closed; 3+ yrs"
+  },
+  "ibaset-information-security-engineer": {
+    "first_seen": "2026-11-21",
+    "score": null,
+    "url": "",
+    "status": "excluded",
+    "company": "iBase-t",
+    "title": "Information Security Engineer",
+    "reason": "7+ yrs"
+  },
+  "banc-of-california-infrastructure-security-admin": {
+    "first_seen": "2026-11-21",
+    "score": null,
+    "url": "",
+    "status": "excluded",
+    "company": "Banc of California",
+    "title": "Officer, Infrastructure Security Administrator",
+    "reason": "4+ yrs"
+  },
+  "apexon-regional-cyber-coordinator": {
+    "first_seen": "2026-11-21",
+    "score": null,
+    "url": "",
+    "status": "excluded",
+    "company": "Apexon",
+    "title": "Regional Cyber Coordinator",
+    "reason": "could not find posting"
+  },
+  "honeywell-is-it-cyber-ds-intern-us-person-su27": {
+    "first_seen": "2026-11-21",
+    "score": null,
+    "url": "",
+    "status": "excluded",
+    "company": "Honeywell",
+    "title": "Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern (US Person Required)",
+    "reason": "grad Dec 2027+ required"
   }
 }
