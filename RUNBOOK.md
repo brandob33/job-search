@@ -80,4 +80,4 @@ Use a short, readable folder name (e.g., "Tevora - Solutions Intern", "Ventura F
 - Deadlines in the next 7 days for any role >= TAILOR_THRESHOLD not yet marked applied.
 - Push notification: "N new roles, M scored 6+: <top 2 titles>". Commit and push everything.
 - Update data/seen.json and data/roles.json.
-- Application packets (added 2026-11-21 at Brandon's request): also write daily/<date>/packets.md — one section per tailored role, ranked by score (new roles first, then backfilled): heading "<Company> — <Title> (score N)", Apply link, location, pay, main risk, then "### Resume" and "### Cover letter" with the full text extracted from that role's resume.docx and cover_letter.docx (python-docx; never retype). Send packets.md to Brandon with SendUserFile alongside the report and the .docx files.
+- Delivery (Brandon's request 2026-11-21): no combined packets file. Send each tailored role's resume.docx + cover_letter.docx together in its own SendUserFile call, ranked by score, with the caption "<n>. <Company> — <Title>, score N: <posting URL>". Copy them to distinct names first (<role-id>-resume.docx, <role-id>-cover_letter.docx). Send report.md separately.
