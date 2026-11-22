@@ -44,9 +44,9 @@ Weights: Required quals met 40% | Keyword/skill match 25% | Eligibility (locatio
 Record in notes.md: score, 2-line why, matched keywords, missing keywords, eligibility flags.
 
 ## Tailoring threshold
-TAILOR_THRESHOLD = 5  (changed from 7 on 2026-11-21 at Brandon's request; tailor every role scoring >= 5)
-Backfill: on the next run, also tailor any role in data/seen.json with score >= TAILOR_THRESHOLD that has no files yet (e.g., the 5-6 scorers from 2026-11-20), and put them in that day's report under "Backfilled from earlier runs". Skip roles marked ineligible/closed. Re-verify each is still open first.
-In report sections, files and pushes below, "7+" means ">= TAILOR_THRESHOLD". For roles scoring 5-6, add one line in notes.md on the main risk (eligibility, timing, missing requirement).
+TAILOR_THRESHOLD = 6  (7 -> 5 on 2026-11-21, then 5 -> 6 on 2026-11-21 at Brandon's request: 5 produced too many roles; tailor every role scoring >= 6)
+No backfill needed. Roles scoring 5 that were already tailored keep their files; just don't tailor new 5s. Score-5 roles go in the report as one-liners without files.
+In report sections, files and pushes below, "7+" means ">= TAILOR_THRESHOLD". For roles scoring 6, add one line in notes.md on the main risk (eligibility, timing, missing requirement).
 
 ## Tailoring (score >= TAILOR_THRESHOLD)
 - Build a spec JSON and run `python3 tools/tailor.py spec.json daily/<date>/<id>/resume.docx`.
@@ -78,5 +78,5 @@ Use a short, readable folder name (e.g., "Tevora - Solutions Intern", "Ventura F
 - New roles ranked by score: title (linked), company, location/mode, pay, deadline, score + one-line why, files link for every role >= TAILOR_THRESHOLD.
 - Below 7: one line each. Count of roles skipped as already seen.
 - Deadlines in the next 7 days for any role >= TAILOR_THRESHOLD not yet marked applied.
-- Push notification: "N new roles, M scored 5+: <top 2 titles>". Commit and push everything.
+- Push notification: "N new roles, M scored 6+: <top 2 titles>". Commit and push everything.
 - Update data/seen.json and data/roles.json.

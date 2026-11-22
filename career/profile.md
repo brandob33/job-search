@@ -51,7 +51,7 @@
 
 ## Daily Search Rules
 - Score each role 1–10 vs. base resume (required quals, keyword match, eligibility, seniority fit)
-- Tailor resume + cover letter for every role scoring 7+ (ATS-safe, no invented experience)
+- Tailor resume + cover letter for every role scoring 6+ (ATS-safe, no invented experience)
 - Sources: LinkedIn, Indeed, Handshake, Built In LA, Dice, Simplify, company career pages (Greenhouse/Lever/Workday)
 - Delivery: push notification + chat by ~9am Pacific
 
