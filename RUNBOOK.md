@@ -67,6 +67,7 @@ In report sections, files and pushes below, "7+" means ">= TAILOR_THRESHOLD". Fo
 - In the report, never re-suggest applied roles; list applied roles whose follow-up date is within 3 days under "Follow-ups due".
 
 ## Mac folder layout (written by the 9:12 Mac task)
+Dropped roles: a role with status "dropped" in data/roles.json (Brandon asked to discard it) must have no files anywhere. The Mac task deletes its Applications/<folder> (folder name is on the role) and never recreates it; cloud runs never re-tailor or re-suggest it. Dropped 2026-11-21: "Tevora - SOC Intern", "Millennium Space - Cybersecurity Analyst", "Varda - Cybersecurity Intern", "First American - InfoSec Analyst".
 Job Search/
   Applications Submitted.md
   Applications/<Company> - <Short role>/   -> "<Company> - <Short role> - Resume.docx", "... - Cover Letter.docx", "Job Info.md"

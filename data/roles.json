@@ -646,12 +646,14 @@
   "why": "'SOC' here = SOC 2 audits, not a security operations center; audit-heavy.",
   "ats_score": "85",
   "first_seen": "2026-11-20",
-  "status": "tailored",
-  "files": "daily/2026-11-21/tevora-cyber-intern-soc-su27/",
+  "status": "dropped",
+  "files": "",
   "folder": "Tevora - SOC Intern",
   "main_risk": "SOC 2 audit/policy-writing heavy; no audit experience; May 31 cohort start.",
   "backfilled": "2026-11-21",
-  "verified_on": "2026-11-21"
+  "verified_on": "2026-11-21",
+  "dropped_on": "2026-11-21",
+  "drop_reason": "Brandon: drop score-5 roles (threshold 6)"
  },
  {
   "id": "spacex-security-analyst-soc",
@@ -764,12 +766,14 @@
   "why": "Requires Security+ (you test in Jan) and SOC/IR experience — revisit right after you pass.",
   "ats_score": "81",
   "first_seen": "2026-11-20",
-  "status": "tailored",
-  "files": "daily/2026-11-21/millennium-boeing-cybersecurity-analyst/",
+  "status": "dropped",
+  "files": "",
   "folder": "Millennium Space - Cybersecurity Analyst",
   "main_risk": "Security+ is a minimum qual (exam Jan 2027) — apply right after passing; SIEM/NIST heavy.",
   "backfilled": "2026-11-21",
-  "verified_on": "2026-11-21"
+  "verified_on": "2026-11-21",
+  "dropped_on": "2026-11-21",
+  "drop_reason": "Brandon: drop score-5 roles (threshold 6)"
  },
  {
   "id": "varda-cybersecurity-intern-su27",
@@ -828,12 +832,14 @@
   "why": "Requires active enrollment in a degree program — certificate program likely doesn't qualify; ask recruiter.",
   "ats_score": "80",
   "first_seen": "2026-11-20",
-  "status": "tailored",
-  "files": "daily/2026-11-21/varda-cybersecurity-intern-su27/",
+  "status": "dropped",
+  "files": "",
   "folder": "Varda - Cybersecurity Intern",
   "main_risk": "Requires active degree-program enrollment — ask recruiter; El Segundo commute 50-75 min.",
   "backfilled": "2026-11-21",
-  "verified_on": "2026-11-21"
+  "verified_on": "2026-11-21",
+  "dropped_on": "2026-11-21",
+  "drop_reason": "Brandon: drop score-5 roles (threshold 6)"
  },
  {
   "id": "disney-disneyland-cybersecurity-intern-sp27",
@@ -1111,11 +1117,13 @@
   ],
   "verified": true,
   "first_seen": "2026-11-21",
-  "status": "tailored",
+  "status": "dropped",
   "ats_score": "85",
-  "files": "daily/2026-11-21/first-american-information-security-analyst/",
+  "files": "",
   "folder": "First American - InfoSec Analyst",
-  "description_summary": "Responsibilities: Support senior compliance staff with daily operations and administration. Coordinate and track compliance initiatives, audit requests and remediation activities. Maintain compliance documentation, evidence repositories and trackers. Prepare presentations, status reports and executi..."
+  "description_summary": "Responsibilities: Support senior compliance staff with daily operations and administration. Coordinate and track compliance initiatives, audit requests and remediation activities. Maintain compliance documentation, evidence repositories and trackers. Prepare presentations, status reports and executi...",
+  "dropped_on": "2026-11-21",
+  "drop_reason": "Brandon: drop score-5 roles (threshold 6)"
  },
  {
   "id": "saic-cybersecurity-ops-associate",
