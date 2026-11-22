@@ -151,25 +151,28 @@
     "first_seen": "2026-11-21",
     "score": 7,
     "url": "https://www.builtinla.com/job/new-graduate-engineer-software-security-26-27-starlink/12368863",
-    "status": "tailored",
+    "status": "applied",
     "company": "SpaceX",
-    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)"
+    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+    "date_applied": "2026-11-21"
   },
   "spacex-product-security-engineer-starlink": {
     "first_seen": "2026-11-21",
     "score": 6,
     "url": "https://www.builtinla.com/job/product-security-engineer-starlink/12368909",
-    "status": "tailored",
+    "status": "applied",
     "company": "SpaceX",
-    "title": "Product Security Engineer (Starlink)"
+    "title": "Product Security Engineer (Starlink)",
+    "date_applied": "2026-11-21"
   },
   "spacex-new-grad-security-software-starshield": {
     "first_seen": "2026-11-21",
     "score": 6,
     "url": "https://jobs.thrivecap.com/companies/spacex/jobs/93033472-new-graduate-engineer-security-software-starshield",
-    "status": "tailored",
+    "status": "applied",
     "company": "SpaceX",
-    "title": "New Graduate Engineer, Security Software (Starshield)"
+    "title": "New Graduate Engineer, Security Software (Starshield)",
+    "date_applied": "2026-11-21"
   },
   "first-american-information-security-analyst": {
     "first_seen": "2026-11-21",
