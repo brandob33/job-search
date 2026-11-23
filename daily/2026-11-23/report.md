@@ -28,7 +28,7 @@ Brandon asked for resumes and cover letters for all six roles below. Each resume
 
 ## Experience rule changed (Brandon, same morning)
 From now on, roles asking for up to 3 years are scored, not excluded (RUNBOOK "Experience rule"). Earlier roles worth a second look under the new rule. I couldn't re-open these postings this morning, so they're unverified:
-- [Security Engineer](https://job-boards.greenhouse.io/machindustries/jobs/4507989009) · Mach Industries (Huntington Beach) · was 5. It asks for 1–3 yrs and says internships count. Likely a 6 if it's still open.
+- [Security Engineer](https://job-boards.greenhouse.io/machindustries/jobs/4507989009) · Mach Industries (Huntington Beach) · verified open, **rescored 5 → 6 and tailored** (see below).
 - [Security Engineer, Attack Surface](https://firstamerican.phenompro.com/us/en/job/FATFATUSR059341EXTERNALENUS) · First American (Santa Ana) · was 4 (2–3 yrs, cloud vuln management).
 - [Insider Threat Program Analyst](https://to.indeed.com/aazrbm7f2br8) · SpaceX · was excluded for 2+ yrs; it's investigations work, so probably a 4.
 - CSG Cloud Security Engineer (was 4) and Northrop Systems Security Engineer L2 (was 4) stay low because of the IR/PCI and RMF requirements, not the years.
@@ -44,3 +44,25 @@ From now on, roles asking for up to 3 years are scored, not excluded (RUNBOOK "E
 
 ## Follow-ups due (next 3 days)
 - None. Tevora Solutions ~Dec 4; the other 12 applications ~Dec 5.
+
+## LinkedIn inbox (processed same day, afternoon)
+`inbox/linkedin-2026-11-23.json` had 25 postings. 10 were already in seen.json (enGen, Peraton, Honeywell, Boot Barn, F&M Bank, Nexon, Northrop, Raytheon, Jobgether, Leidos migration). LinkedIn blocks automated reading, so most of the new ones couldn't be opened.
+
+### Scored 6+ (tailored)
+1. 6 — [Security Engineer](https://job-boards.greenhouse.io/machindustries/jobs/4507989009) · Mach Industries · Huntington Beach · $105K–$150K + equity. Asks for 1–3 yrs and says internships count. IAM, cloud (GCP counts as "another major cloud"), Python/Git and Secret eligibility fit. Main risk: wants AWS/M365, logging/monitoring and vulnerability management, which you don't have yet. ATS 82. Files: `daily/2026-11-23/mach-security-engineer/`
+
+### Needs a look (couldn't open the posting)
+- **[Information Security Intern](https://www.linkedin.com/jobs/view/4494025623/) · CENIC · La Mirada (on-site) · $25/hr · posted today.** Local paid security internship, likely the best fit in the batch. It isn't on CENIC's careers page yet. Paste the posting text to get it scored and tailored.
+- [Cybersecurity GRC Analyst](https://www.linkedin.com/jobs/view/4493697775/) · University of La Verne · La Verne
+- [Consultant, Cybersecurity](https://www.linkedin.com/jobs/view/4481520342/) · FTI Consulting · Los Angeles
+- [Cyber Threat Intelligence Analyst](https://www.linkedin.com/jobs/view/4491873899/) · Kaygen · LA hybrid, contract $45–60/hr
+- [Network Vulnerability Remediation Engineer - Junior](https://www.linkedin.com/jobs/view/4490162114/) · Leidos · Remote (its sibling role needed an active Secret)
+- [Attack Operations Center Analyst (Nights/Weekends)](https://www.linkedin.com/jobs/view/4491797255/) · Armadin · Remote
+- [Analyst, Cybersecurity](https://www.linkedin.com/jobs/view/4471213836/) · Abacus · Remote
+- [Incident Response Consultant](https://www.linkedin.com/jobs/view/4483885841/) · Beazley Security · Remote (usually needs IR experience)
+
+### Below 6
+- 4 — [Product Engineering Intern - Threat Detection](https://www.linkedin.com/jobs/view/4492645361/) · CrowdStrike · Sunnyvale (>1 hr)
+- 4 — [Technical Compliance Manager Intern](https://www.linkedin.com/jobs/view/4476771995/) · Intuit · San Diego on-site (~1.5 hr)
+
+Excluded: Intuit SWE Intern - Cybersecurity (Mountain View), Lucid Product Security Intern (Newark), LLNL Cybersecurity Intern (Livermore), Athens Services Security Ops Jr. Specialist (physical security), SIXGEN Jr. Threat Hunter repost (Secret).

@@ -334,9 +334,9 @@
  },
  "mach-security-engineer": {
   "first_seen": "2026-11-21",
-  "score": 5,
+  "score": 6,
   "url": "https://job-boards.greenhouse.io/machindustries/jobs/4507989009",
-  "status": "new",
+  "status": "tailored",
   "company": "Mach Industries",
   "title": "Security Engineer"
  },
@@ -784,5 +784,140 @@
   "url": "https://job-boards.greenhouse.io/kodiak/jobs/4430607009",
   "status": "excluded",
   "reason": "Winter 2027 (Jan start), Mountain View, C++ autonomy SWE"
+ },
+ "cenic-information-security-intern": {
+  "first_seen": "2026-11-23",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4494025623/",
+  "status": "unverified",
+  "company": "CENIC",
+  "title": "Information Security Intern",
+  "reason": "Local paid security internship posted today. LinkedIn blocks automated reading and it isn't on cenic.org/about/careers yet; needs the posting text to score/tailor. Likely a strong fit."
+ },
+ "crowdstrike-product-eng-intern-threat-detection": {
+  "first_seen": "2026-11-23",
+  "score": 4,
+  "url": "https://www.linkedin.com/jobs/view/4492645361/",
+  "status": "new",
+  "company": "CrowdStrike",
+  "title": "Product Engineering Intern - Threat Detection",
+  "reason": "Sunnyvale (>1 hr) caps it at 4; couldn't open the posting."
+ },
+ "intuit-swe-intern-cybersecurity-su27": {
+  "first_seen": "2026-11-23",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4467715984/",
+  "status": "excluded",
+  "company": "Intuit",
+  "title": "Summer 2027: Software Engineering Intern - Cybersecurity",
+  "reason": "Onsite Mountain View."
+ },
+ "intuit-technical-compliance-manager-intern-su27": {
+  "first_seen": "2026-11-23",
+  "score": 4,
+  "url": "https://www.linkedin.com/jobs/view/4476771995/",
+  "status": "new",
+  "company": "Intuit",
+  "title": "Summer 2027: Technical Compliance Manager Intern",
+  "reason": "Onsite San Diego (~1.5 hr) and a compliance/PM intern; couldn't open the posting."
+ },
+ "lucid-product-security-engineering-intern-su27": {
+  "first_seen": "2026-11-23",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4492532988/",
+  "status": "excluded",
+  "company": "Lucid Motors",
+  "title": "Product Security Engineering Intern, Summer 2027",
+  "reason": "Newark, CA (Bay Area)."
+ },
+ "llnl-cybersecurity-undergrad-intern-su27": {
+  "first_seen": "2026-11-23",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4492783541/",
+  "status": "excluded",
+  "company": "Lawrence Livermore National Laboratory",
+  "title": "Cybersecurity Undergraduate Intern - CCISI Summer 2027",
+  "reason": "Livermore onsite; undergraduate program."
+ },
+ "athens-services-security-operations-jr-specialist": {
+  "first_seen": "2026-11-23",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4491864669/",
+  "status": "excluded",
+  "company": "Athens Services",
+  "title": "Security Operations Jr. Specialist (On-Site)",
+  "reason": "Physical security patrol/operations role per other listings, not cyber."
+ },
+ "kaygen-cyber-threat-intelligence-analyst": {
+  "first_seen": "2026-11-23",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4491873899/",
+  "status": "unverified",
+  "company": "Kaygen, Inc.",
+  "title": "Cyber Threat Intelligence Analyst",
+  "reason": "Contract CTI role; couldn't open the posting to check experience requirements."
+ },
+ "laverne-cybersecurity-grc-analyst": {
+  "first_seen": "2026-11-23",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4493697775/",
+  "status": "unverified",
+  "company": "University of La Verne",
+  "title": "Cybersecurity Governance, Risk, and Compliance (GRC) Analyst",
+  "reason": "GRC analyst ~50 min away; couldn't open the posting."
+ },
+ "fti-consultant-cybersecurity-la": {
+  "first_seen": "2026-11-23",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4481520342/",
+  "status": "unverified",
+  "company": "FTI Consulting",
+  "title": "Consultant, Cybersecurity",
+  "reason": "Couldn't open the posting; FTI Consultant level usually asks 1-3 yrs."
+ },
+ "leidos-network-vuln-remediation-engineer-junior": {
+  "first_seen": "2026-11-23",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4490162114/",
+  "status": "unverified",
+  "company": "Leidos",
+  "title": "Network Vulnerability Remediation Engineer - Junior Level",
+  "reason": "Couldn't open; its sibling Leidos junior role required an active Secret."
+ },
+ "armadin-attack-operations-center-analyst": {
+  "first_seen": "2026-11-23",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4491797255/",
+  "status": "unverified",
+  "company": "Armadin",
+  "title": "Attack Operations Center Analyst (Nights/Weekends)",
+  "reason": "Red-team startup; nights/weekends; couldn't open the posting."
+ },
+ "abacus-analyst-cybersecurity": {
+  "first_seen": "2026-11-23",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4471213836/",
+  "status": "unverified",
+  "company": "Abacus",
+  "title": "Analyst, Cybersecurity",
+  "reason": "Couldn't open the posting."
+ },
+ "beazley-incident-response-consultant": {
+  "first_seen": "2026-11-23",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4483885841/",
+  "status": "unverified",
+  "company": "Beazley Security",
+  "title": "Incident Response Consultant",
+  "reason": "IR consultant roles usually need IR experience; couldn't open the posting."
+ },
+ "sixgen-jr-threat-hunter-purple-team-repost": {
+  "first_seen": "2026-11-23",
+  "score": null,
+  "url": "https://www.linkedin.com/jobs/view/4492367261/",
+  "status": "excluded",
+  "company": "SIXGEN",
+  "title": "Jr. Threat Hunter/Purple Team Operator-S clearance",
+  "reason": "Repost; Secret clearance required."
  }
 }
