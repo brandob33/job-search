@@ -1513,7 +1513,7 @@
   "id": "foundant-junior-security-engineer",
   "company": "Foundant",
   "title": "Junior Security Engineer",
-  "url": "https://www.linkedin.com/jobs/view/4491816057/",
+  "url": "https://ats.rippling.com/foundant-careers/jobs/63f86619-9f10-4928-a9d0-1064f68f2946",
   "location": "Remote (US)",
   "work_mode": "remote",
   "type": "fulltime",
@@ -1528,7 +1528,9 @@
   "main_risk": "SIEM/Datadog and AWS/Azure logging are core and missing; full-time start likely before summer 2027.",
   "first_seen": "2026-11-22",
   "source": "inbox/linkedin-2026-11-22.json (processed same day on request)",
-  "verified": true
+  "verified": true,
+  "apply_url": "https://ats.rippling.com/foundant-careers/jobs/63f86619-9f10-4928-a9d0-1064f68f2946",
+  "linkedin_url": "https://www.linkedin.com/jobs/view/4491816057/"
  },
  {
   "id": "jobgether-junior-security-engineer",

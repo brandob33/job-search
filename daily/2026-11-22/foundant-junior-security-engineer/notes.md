@@ -4,7 +4,7 @@ Score: 6/10 — Posting accepts "equivalent internships, coursework, or hands-on
 Gaps: no SIEM/Datadog/Sentinel, no AWS/Azure (CloudTrail, GuardDuty, Defender), no incident response, EDR, MITRE ATT&CK or log-query experience.
 Main risk: Full-time role likely starting soon, and the SIEM/cloud-logging requirements are core to the job; cover letter says summer 2027 start and names the SIEM/AWS gap honestly. Over 100 people clicked apply on LinkedIn.
 ATS (ResumeNext vs posting): 81 (C) — JD keyword coverage 30%. Below 85 because the remaining missing keywords (SIEM, AWS, Azure, CloudTrail, Datadog, MITRE, Microsoft Defender, logs, alerts) are tools/experience Brandon does not have; not added.
-URL: https://www.linkedin.com/jobs/view/4491816057/ (LinkedIn "Apply" goes to Foundant's careers page; posting asks applicants to apply there rather than cold outreach)
+URL: https://ats.rippling.com/foundant-careers/jobs/63f86619-9f10-4928-a9d0-1064f68f2946 (Foundant Rippling posting; LinkedIn: https://www.linkedin.com/jobs/view/4491816057/)
 Eligibility: Remote within the US (offices Bozeman MT, Toronto, Dublin). Full-time. No degree, clearance or citizenship requirement stated. Pay not listed.
 Keywords matched: cloud, IAM, LLM, prompt engineering, Python, networking, common attack techniques, threat, workflows, Security+ (nice-to-have, exam Jan 2027)
 Missing keywords (not on resume, do not add): Cloud SIEM, Datadog, Microsoft Sentinel, AWS, CloudTrail, GuardDuty, Azure, Microsoft Defender, MITRE ATT&CK / ATLAS, OWASP Top 10 for LLM, Windows/Linux logs, log search queries, Bash, PowerShell, EDR (CrowdStrike/SentinelOne), detection-as-code, incident response, playbooks/runbooks
