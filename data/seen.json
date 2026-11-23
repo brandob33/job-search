@@ -699,13 +699,19 @@
   "first_seen": "2026-11-23",
   "score": 5,
   "url": "https://to.indeed.com/aa2xtd4dgscz",
-  "status": "tailored"
+  "status": "applied",
+  "date_applied": "2026-11-23",
+  "company": "UnderDefense",
+  "title": "SOC Analyst (L1)"
  },
  "stn-data-center-soc-analyst-l1": {
   "first_seen": "2026-11-23",
   "score": 4,
   "url": "https://to.indeed.com/aag98zjhtrkd",
-  "status": "tailored"
+  "status": "applied",
+  "date_applied": "2026-11-23",
+  "company": "STN Incorporated",
+  "title": "Data Center - SOC Analyst L1"
  },
  "paypal-cybersecurity-intern-su27": {
   "first_seen": "2026-11-23",
@@ -717,13 +723,19 @@
   "first_seen": "2026-11-23",
   "score": 4,
   "url": "https://job-boards.greenhouse.io/muonspace/jobs/5294028007",
-  "status": "tailored"
+  "status": "applied",
+  "date_applied": "2026-11-23",
+  "company": "Muon Space",
+  "title": "Security Engineering Intern (Summer 2027)"
  },
  "astera-labs-cybersecurity-engineer-intern-2027": {
   "first_seen": "2026-11-23",
   "score": 3,
   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743021005",
-  "status": "tailored"
+  "status": "applied",
+  "date_applied": "2026-11-23",
+  "company": "Astera Labs",
+  "title": "CyberSecurity Engineer Intern"
  },
  "verkada-security-software-engineering-intern-2027": {
   "first_seen": "2026-11-23",

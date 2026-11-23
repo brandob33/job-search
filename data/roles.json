@@ -1592,14 +1592,15 @@
   "pay": "not listed",
   "score": 5,
   "why": "Entry SOC role that values fundamentals and curiosity over tools, but wants practical SOC/investigation experience and SIEM/EDR familiarity he lacks; 24/7 shifts incl. nights; full-time, likely starts before summer.",
-  "status": "tailored",
+  "status": "applied",
   "first_seen": "2026-11-23",
   "source": "daily cloud run",
   "verified": true,
   "folder": "UnderDefense - SOC Analyst L1",
   "tailored_on": "2026-11-23",
   "ats": "77 (C), JD keyword coverage 10%",
-  "note": "Tailored at Brandon's request despite score below threshold."
+  "note": "Tailored at Brandon's request despite score below threshold.",
+  "date_applied": "2026-11-23"
  },
  {
   "id": "stn-data-center-soc-analyst-l1",
@@ -1612,14 +1613,15 @@
   "pay": "$70K-$90K",
   "score": 4,
   "why": "Requires a current Security+/CySA+/SSCP (his exam is Jan 2027) plus 1 yr IT/SOC experience; shift-based monitoring; SIEM/EDR gaps.",
-  "status": "tailored",
+  "status": "applied",
   "first_seen": "2026-11-23",
   "source": "daily cloud run",
   "verified": true,
   "folder": "STN - Data Center SOC Analyst L1",
   "tailored_on": "2026-11-23",
   "ats": "79 (C), JD keyword coverage 20%",
-  "note": "Tailored at Brandon's request despite score below threshold."
+  "note": "Tailored at Brandon's request despite score below threshold.",
+  "date_applied": "2026-11-23"
  },
  {
   "id": "paypal-cybersecurity-intern-su27",
@@ -1654,14 +1656,15 @@
   "pay": "$40/hr (BS)",
   "score": 4,
   "why": "Good entry fit (NIST 800-171/53, vuln triage, accepts recently completed degree, US person) but on-site in Mountain View (>1 hr, capped at 4).",
-  "status": "tailored",
+  "status": "applied",
   "first_seen": "2026-11-23",
   "source": "daily cloud run",
   "verified": true,
   "folder": "Muon Space - Security Engineering Intern",
   "tailored_on": "2026-11-23",
   "ats": "79 (C), JD keyword coverage 20%",
-  "note": "Tailored at Brandon's request despite score below threshold."
+  "note": "Tailored at Brandon's request despite score below threshold.",
+  "date_applied": "2026-11-23"
  },
  {
   "id": "astera-labs-cybersecurity-engineer-intern-2027",
@@ -1674,14 +1677,15 @@
   "pay": "$35-$55/hr + $500/wk housing",
   "score": 3,
   "why": "Generalist monitoring/IR/vuln-scan intern; San Jose (>1 hr) and needs current bachelor's/master's enrollment.",
-  "status": "tailored",
+  "status": "applied",
   "first_seen": "2026-11-23",
   "source": "daily cloud run",
   "verified": true,
   "folder": "Astera Labs - Cybersecurity Engineer Intern",
   "tailored_on": "2026-11-23",
   "ats": "84 (C), JD keyword coverage 45%",
-  "note": "Tailored at Brandon's request despite score below threshold."
+  "note": "Tailored at Brandon's request despite score below threshold.",
+  "date_applied": "2026-11-23"
  },
  {
   "id": "verkada-security-software-engineering-intern-2027",

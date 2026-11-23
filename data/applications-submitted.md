@@ -18,6 +18,10 @@ Tell Claude whenever you apply (or hear back) and this list, the Career Navigato
 | 12 | 2026-11-21 | Tevora | [Cybersecurity Internship Summer 2027 - International Organization for Standardization (ISO)](https://jobs.lever.co/tevora/648630ae-0dce-4b80-af2b-911c2c8f159c) | Irvine, CA (on-site) | $27/hr | Applied | Follow up ~Dec 5 if no response | Applications/Applied/Tevora - ISO Intern |
 | 13 | 2026-11-21 | StudyFetch | [IT & Security Operations Intern](https://ats.rippling.com/studyfetch/jobs/5dd7523c-deae-47bd-ab34-f2fa06110892) | Beverly Hills, CA (on-site, 20 hrs/wk) | $3,000/month | Applied | Follow up ~Dec 5 if no response | Applications/Applied/StudyFetch - IT & Security Ops Intern |
 | 14 | 2026-11-23 | Foundant | [Junior Security Engineer](https://ats.rippling.com/foundant-careers/jobs/63f86619-9f10-4928-a9d0-1064f68f2946) | Remote (US, full-time) | Not listed | Applied | Follow up ~Dec 7 if no response | Applications/Applied/Foundant - Junior Security Engineer |
+| 15 | 2026-11-23 | UnderDefense | [SOC Analyst (L1)](https://to.indeed.com/aa2xtd4dgscz) | Remote (full-time) | Not listed | Applied | Follow up ~Dec 7 if no response | Applications/Applied/UnderDefense - SOC Analyst L1 |
+| 16 | 2026-11-23 | STN Incorporated | [Data Center - SOC Analyst L1](https://to.indeed.com/aag98zjhtrkd) | Remote, US (full-time) | $70K–$90K/yr | Applied | Follow up ~Dec 7 if no response | Applications/Applied/STN - Data Center SOC Analyst L1 |
+| 17 | 2026-11-23 | Muon Space | [Security Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/muonspace/jobs/5294028007) | Mountain View, CA (on-site) | $40/hr | Applied | Follow up ~Dec 7 if no response | Applications/Applied/Muon Space - Security Engineering Intern |
+| 18 | 2026-11-23 | Astera Labs | [CyberSecurity Engineer Intern](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743021005) | San Jose, CA | $35–$55/hr + $500/wk housing | Applied | Follow up ~Dec 7 if no response | Applications/Applied/Astera Labs - Cybersecurity Engineer Intern |
 
 ## Status key
 Applied → Recruiter screen → Interview → Offer / Rejected / Withdrawn
