@@ -693,5 +693,83 @@
   "company": "SIXGEN",
   "title": "Jr. Threat Hunter/Purple Team Operator - S clearance",
   "reason": "Secret clearance required (per title)."
+ },
+ "underdefense-soc-analyst-l1": {
+  "first_seen": "2026-11-23",
+  "score": 5,
+  "url": "https://to.indeed.com/aa2xtd4dgscz",
+  "status": "new"
+ },
+ "stn-data-center-soc-analyst-l1": {
+  "first_seen": "2026-11-23",
+  "score": 4,
+  "url": "https://to.indeed.com/aag98zjhtrkd",
+  "status": "new"
+ },
+ "paypal-cybersecurity-intern-su27": {
+  "first_seen": "2026-11-23",
+  "score": 4,
+  "url": "https://www.builtinaustin.com/job/cybersecurity-intern-summer-2027/12091078",
+  "status": "new"
+ },
+ "muon-space-security-engineering-intern-su27": {
+  "first_seen": "2026-11-23",
+  "score": 4,
+  "url": "https://job-boards.greenhouse.io/muonspace/jobs/5294028007",
+  "status": "new"
+ },
+ "astera-labs-cybersecurity-engineer-intern-2027": {
+  "first_seen": "2026-11-23",
+  "score": 3,
+  "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743021005",
+  "status": "new"
+ },
+ "verkada-security-software-engineering-intern-2027": {
+  "first_seen": "2026-11-23",
+  "score": 3,
+  "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
+  "status": "new"
+ },
+ "therapynotes-cyber-security-engineer-appsec": {
+  "first_seen": "2026-11-23",
+  "score": null,
+  "url": "https://to.indeed.com/aajf29jknbqg",
+  "status": "excluded",
+  "reason": "5+ yrs AppSec required"
+ },
+ "maestro-cloud-security-engineer-santa-monica": {
+  "first_seen": "2026-11-23",
+  "score": null,
+  "url": "https://to.indeed.com/aarfzbckpjz4",
+  "status": "excluded",
+  "reason": "7+ yrs required"
+ },
+ "rustlabs-cybersecurity-analyst-ai-training": {
+  "first_seen": "2026-11-23",
+  "score": null,
+  "url": "https://to.indeed.com/aabpjvzsw6mm",
+  "status": "excluded",
+  "reason": "AI-training contract gig"
+ },
+ "valence-cybersecurity-analyst": {
+  "first_seen": "2026-11-23",
+  "score": null,
+  "url": "https://www.builtinla.com/job/cybersecurity-analyst/10324007",
+  "status": "excluded",
+  "reason": "posting removed Aug 2026"
+ },
+ "google-mandiant-security-consultant-intern-su27": {
+  "first_seen": "2026-11-23",
+  "score": null,
+  "url": "https://google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bsms-summer-2027",
+  "status": "excluded",
+  "reason": "deadline Oct 9 passed"
+ },
+ "kodiak-security-intern-wi27": {
+  "first_seen": "2026-11-23",
+  "score": null,
+  "url": "https://job-boards.greenhouse.io/kodiak/jobs/4430607009",
+  "status": "excluded",
+  "reason": "Winter 2027 (Jan start), Mountain View, C++ autonomy SWE"
  }
 }
