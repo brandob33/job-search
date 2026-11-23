@@ -1,6 +1,6 @@
 # Cyber job search — 2026-11-23
 
-6 new roles scored and 6 excluded on hard requirements. Several search hits were already in seen.json and got skipped (Foundant, Boot Barn, Popa FCU, PixxelSpace, Deloitte Cyber Operate, IDme, Varda, Tevora tracks). **No new role scored 6+ today, so no new files.** No new LinkedIn inbox file from the Mac run when this ran (8:45am); both earlier inbox files were already processed.
+6 new roles scored and 6 excluded on hard requirements. Several search hits were already in seen.json and got skipped (Foundant, Boot Barn, Popa FCU, PixxelSpace, Deloitte Cyber Operate, IDme, Varda, Tevora tracks). No new role scored 6+, but **Brandon asked for files for all six, so all six are tailored** (update, same morning). No new LinkedIn inbox file from the Mac run when this ran (8:45am); both earlier inbox files were already processed.
 
 Heads up: no recruiter replies in the last 24h, and no interviews on today's calendar.
 
@@ -16,6 +16,22 @@ Heads up: no recruiter replies in the last 24h, and no interviews on today's cal
 - 3 — [Security Software Engineering Intern 2027](https://job-boards.greenhouse.io/verkada/jobs/5213881007) · Verkada · San Mateo (on-site) · $55–$65/hr. Mostly backend SWE (Go/Python, AWS, Kubernetes), not security.
 
 Excluded on hard requirements (logged in seen.json): TherapyNotes Cyber Security Engineer AppSec (5+ yrs), Maestro Cloud Security Engineer Santa Monica (7+ yrs), RustLabs Cybersecurity Analyst AI Training (AI-training contract), Valence Surface Technologies Cybersecurity Analyst (posting removed), Google/Mandiant Security Consultant Intern Summer 2027 (deadline Oct 9 passed), Kodiak Winter 2027 Security Intern (January start, Mountain View, C++ SWE). DataAnnotation "AI Trainer" gigs ignored.
+
+## Tailored on request (update, same morning)
+Brandon asked for resumes and cover letters for all six roles below. Each resume renders to one page. The ATS scores are 77–84 because the missing keywords (SIEM/EDR, NIST, Go/Kubernetes, etc.) are things he doesn't have, so they weren't added.
+1. UnderDefense — SOC Analyst (L1), score 5, ATS 77. Main risk: wants hands-on SOC/SIEM experience; 24/7 shifts with nights. Files: `daily/2026-11-23/underdefense-soc-analyst-l1/`
+2. STN — Data Center SOC Analyst L1, score 4, ATS 79. Main risk: Security+ is listed as required (exam is Jan 2027). Files: `daily/2026-11-23/stn-data-center-soc-analyst-l1/`
+3. PayPal — Cybersecurity Intern Summer 2027, score 4, ATS 82, closes **Dec 6**. Main risk: must be pursuing a degree and returning in Fall 2027; no SoCal location. Files: `daily/2026-11-23/paypal-cybersecurity-intern-su27/`
+4. Muon Space — Security Engineering Intern, score 4, ATS 79. Main risk: on-site in Mountain View. Files: `daily/2026-11-23/muon-space-security-engineering-intern-su27/`
+5. Astera Labs — CyberSecurity Engineer Intern, score 3, ATS 84. Main risk: San Jose; needs current degree enrollment. Files: `daily/2026-11-23/astera-labs-cybersecurity-engineer-intern-2027/`
+6. Verkada — Security Software Engineering Intern, score 3, ATS 83. Main risk: backend SWE role; must graduate by June 2028. Files: `daily/2026-11-23/verkada-security-software-engineering-intern-2027/`
+
+## Experience rule changed (Brandon, same morning)
+From now on, roles asking for up to 3 years are scored, not excluded (RUNBOOK "Experience rule"). Earlier roles worth a second look under the new rule. I couldn't re-open these postings this morning, so they're unverified:
+- [Security Engineer](https://job-boards.greenhouse.io/machindustries/jobs/4507989009) · Mach Industries (Huntington Beach) · was 5. It asks for 1–3 yrs and says internships count. Likely a 6 if it's still open.
+- [Security Engineer, Attack Surface](https://firstamerican.phenompro.com/us/en/job/FATFATUSR059341EXTERNALENUS) · First American (Santa Ana) · was 4 (2–3 yrs, cloud vuln management).
+- [Insider Threat Program Analyst](https://to.indeed.com/aazrbm7f2br8) · SpaceX · was excluded for 2+ yrs; it's investigations work, so probably a 4.
+- CSG Cloud Security Engineer (was 4) and Northrop Systems Security Engineer L2 (was 4) stay low because of the IR/PCI and RMF requirements, not the years.
 
 ## Still open from earlier (6+, not applied)
 - [Junior Security Engineer](https://www.linkedin.com/jobs/view/4491816057/) · Foundant · Remote · score 6 · no deadline. Files in `daily/2026-11-22/foundant-junior-security-engineer/`.

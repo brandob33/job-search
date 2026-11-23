@@ -33,8 +33,14 @@ daily/YYYY-MM-DD/                that day's output:
 1. Indeed MCP (`mcp__Indeed__search_jobs`, `get_job_details`) — many queries x locations (Irvine, Santa Ana, Long Beach, Los Angeles, El Segundo, Anaheim, remote), with and without job_type=internship.
 2. WebSearch / WebFetch: company career pages and ATS boards (Greenhouse, Lever, Workday, iCIMS), Handshake previews, Built In LA, Simplify, Dice, LinkedIn job pages.
 3. `inbox/linkedin-*.json` written by the Mac run that morning (and any unprocessed earlier ones).
-Exclude: 3+ yrs required, active clearance already required, non-security helpdesk, gig "AI trainer" postings, roles already in data/seen.json (unless the posting materially changed or reopened).
+Exclude: 4+ yrs required (see Experience rule below), active clearance already required, non-security helpdesk, gig "AI trainer" postings, roles already in data/seen.json (unless the posting materially changed or reopened).
 Verify each new role is open by fetching the posting. Save posting text to the role folder notes.
+
+## Experience rule (Brandon, 2026-11-23)
+Brandon counts about 2 years of hands-on security work (labs, projects) and about 4 years of CS work including school. He has no security internships or jobs.
+- Don't exclude roles that ask for up to 3 years, or "1-3 years" / "X years or equivalent". Score them normally. Seniority fit gets a deduction when the posting clearly means paid work experience; say so in the why.
+- Exclude only when 4+ years are required, or the posting requires prior professional security employment with no equivalent allowed.
+- Never write a years-of-experience number on a resume or cover letter. The resume claims only what is in ExperienceLibrary.json.
 
 ## Scoring (1-10)
 Weights: Required quals met 40% | Keyword/skill match 25% | Eligibility (location, enrollment/grad window, citizenship) 20% | Seniority fit 15%.
