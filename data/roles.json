@@ -1521,7 +1521,7 @@
   "deadline": "None listed",
   "score": 6,
   "ats_score": "81",
-  "status": "tailored",
+  "status": "applied",
   "files": "daily/2026-11-22/foundant-junior-security-engineer/",
   "folder": "Foundant - Junior Security Engineer",
   "why": "Accepts coursework/lab experience in place of 1-3 yrs; IAM, network attacks, Python and LLM fundamentals fit detection + AI-feature security work.",
@@ -1530,7 +1530,8 @@
   "source": "inbox/linkedin-2026-11-22.json (processed same day on request)",
   "verified": true,
   "apply_url": "https://ats.rippling.com/foundant-careers/jobs/63f86619-9f10-4928-a9d0-1064f68f2946",
-  "linkedin_url": "https://www.linkedin.com/jobs/view/4491816057/"
+  "linkedin_url": "https://www.linkedin.com/jobs/view/4491816057/",
+  "date_applied": "2026-11-23"
  },
  {
   "id": "jobgether-junior-security-engineer",
