@@ -1633,14 +1633,15 @@
   "deadline": "2026-12-06",
   "score": 4,
   "why": "Strong AppSec match (secure code review, OWASP, threat models) but no SoCal location (>1 hr, capped at 4) and requires returning to school Fall 2027.",
-  "status": "tailored",
+  "status": "dropped",
   "first_seen": "2026-11-23",
   "source": "daily cloud run",
   "verified": true,
   "folder": "PayPal - Cybersecurity Intern Summer 2027",
   "tailored_on": "2026-11-23",
   "ats": "82 (C), JD keyword coverage 35%",
-  "note": "Tailored at Brandon's request despite score below threshold."
+  "note": "Dropped by Brandon 2026-11-23 (degree-enrollment requirement).",
+  "dropped_on": "2026-11-23"
  },
  {
   "id": "muon-space-security-engineering-intern-su27",
@@ -1693,13 +1694,14 @@
   "pay": "$55-$65/hr",
   "score": 3,
   "why": "Backend distributed-systems SWE internship (Go/Python, AWS, Kubernetes), not security; San Mateo on-site; must graduate by June 2028 while pursuing a degree.",
-  "status": "tailored",
+  "status": "dropped",
   "first_seen": "2026-11-23",
   "source": "daily cloud run",
   "verified": true,
   "folder": "Verkada - Security Software Engineering Intern",
   "tailored_on": "2026-11-23",
   "ats": "83 (C), JD keyword coverage 40%",
-  "note": "Tailored at Brandon's request despite score below threshold."
+  "note": "Dropped by Brandon 2026-11-23 (degree-enrollment requirement).",
+  "dropped_on": "2026-11-23"
  }
 ]

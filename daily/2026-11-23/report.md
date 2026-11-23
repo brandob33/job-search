@@ -1,6 +1,6 @@
 # Cyber job search — 2026-11-23
 
-6 new roles scored and 6 excluded on hard requirements. Several search hits were already in seen.json and got skipped (Foundant, Boot Barn, Popa FCU, PixxelSpace, Deloitte Cyber Operate, IDme, Varda, Tevora tracks). No new role scored 6+, but **Brandon asked for files for all six, so all six are tailored** (update, same morning). No new LinkedIn inbox file from the Mac run when this ran (8:45am); both earlier inbox files were already processed.
+6 new roles scored and 6 excluded on hard requirements. Several search hits were already in seen.json and got skipped (Foundant, Boot Barn, Popa FCU, PixxelSpace, Deloitte Cyber Operate, IDme, Varda, Tevora tracks). No new role scored 6+, but **Brandon asked for files for all six; four are tailored after he dropped PayPal and Verkada** (update, same morning). No new LinkedIn inbox file from the Mac run when this ran (8:45am); both earlier inbox files were already processed.
 
 Heads up: no recruiter replies in the last 24h, and no interviews on today's calendar.
 
@@ -21,10 +21,10 @@ Excluded on hard requirements (logged in seen.json): TherapyNotes Cyber Security
 Brandon asked for resumes and cover letters for all six roles below. Each resume renders to one page. The ATS scores are 77–84 because the missing keywords (SIEM/EDR, NIST, Go/Kubernetes, etc.) are things he doesn't have, so they weren't added.
 1. UnderDefense — SOC Analyst (L1), score 5, ATS 77. Main risk: wants hands-on SOC/SIEM experience; 24/7 shifts with nights. Files: `daily/2026-11-23/underdefense-soc-analyst-l1/`
 2. STN — Data Center SOC Analyst L1, score 4, ATS 79. Main risk: Security+ is listed as required (exam is Jan 2027). Files: `daily/2026-11-23/stn-data-center-soc-analyst-l1/`
-3. PayPal — Cybersecurity Intern Summer 2027, score 4, ATS 82, closes **Dec 6**. Main risk: must be pursuing a degree and returning in Fall 2027; no SoCal location. Files: `daily/2026-11-23/paypal-cybersecurity-intern-su27/`
+3. ~~PayPal — Cybersecurity Intern Summer 2027~~ — dropped by Brandon (degree-enrollment requirement); files removed.
 4. Muon Space — Security Engineering Intern, score 4, ATS 79. Main risk: on-site in Mountain View. Files: `daily/2026-11-23/muon-space-security-engineering-intern-su27/`
 5. Astera Labs — CyberSecurity Engineer Intern, score 3, ATS 84. Main risk: San Jose; needs current degree enrollment. Files: `daily/2026-11-23/astera-labs-cybersecurity-engineer-intern-2027/`
-6. Verkada — Security Software Engineering Intern, score 3, ATS 83. Main risk: backend SWE role; must graduate by June 2028. Files: `daily/2026-11-23/verkada-security-software-engineering-intern-2027/`
+6. ~~Verkada — Security Software Engineering Intern~~ — dropped by Brandon (degree-enrollment requirement); files removed.
 
 ## Experience rule changed (Brandon, same morning)
 From now on, roles asking for up to 3 years are scored, not excluded (RUNBOOK "Experience rule"). Earlier roles worth a second look under the new rule. I couldn't re-open these postings this morning, so they're unverified:
