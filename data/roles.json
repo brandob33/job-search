@@ -1843,14 +1843,16 @@
   "work_mode": "unknown",
   "pay": "$99K-$115K",
   "score": 4,
-  "status": "tailored",
+  "status": "dropped",
   "why": "GRC role within commuting range that values communication and control validation, but it's mid-level: 3 yrs progressively responsible experience in cyber/compliance/audit/risk, plus NIST CSF/800-53 and FERPA/GLBA.",
   "first_seen": "2026-11-23",
   "source": "inbox/linkedin-2026-11-23.json (processed same day on request)",
   "verified": true,
   "folder": "University of La Verne - Cybersecurity GRC Analyst",
   "ats": "80 (C), JD keyword coverage 25%",
-  "tailored_on": "2026-11-23"
+  "tailored_on": "2026-11-23",
+  "dropped_on": "2026-11-23",
+  "note": "Dropped by Brandon 2026-11-23 (won't apply)."
  },
  {
   "id": "fti-consultant-cybersecurity",
@@ -1861,14 +1863,16 @@
   "work_mode": "unknown",
   "pay": "$78.5K-$110.5K",
   "score": 3,
-  "status": "tailored",
+  "status": "dropped",
   "why": "IAM and networking are preferred quals he matches, but it's a client-facing consultant role that expects proven hands-on cyber experience (supervising incident analysis, managing researchers), posted in Washington DC.",
   "first_seen": "2026-11-23",
   "source": "inbox/linkedin-2026-11-23.json (processed same day on request)",
   "verified": true,
   "folder": "FTI Consulting - Cybersecurity Consultant",
   "ats": "82 (C), JD keyword coverage 35%",
-  "tailored_on": "2026-11-23"
+  "tailored_on": "2026-11-23",
+  "dropped_on": "2026-11-23",
+  "note": "Dropped by Brandon 2026-11-23 (won't apply)."
  },
  {
   "id": "leidos-network-vuln-remediation-engineer-junior",
@@ -1913,14 +1917,16 @@
   "work_mode": "remote",
   "pay": "not listed",
   "score": 4,
-  "status": "tailored",
+  "status": "dropped",
   "why": "Remote tier-2 role handling MDR and tier-1 escalations; asks 2-3 yrs in a security operations/technical security role plus SIEM, SentinelOne, Rapid7 and Palo Alto he hasn't used. Security+ within 6 months of hire fits his Jan 2027 exam.",
   "first_seen": "2026-11-23",
   "source": "inbox/linkedin-2026-11-23.json (processed same day on request)",
   "verified": true,
   "folder": "Abacus - Cybersecurity Analyst",
   "tailored_on": "2026-11-23",
-  "ats": "81 (C), JD keyword coverage 30%"
+  "ats": "81 (C), JD keyword coverage 30%",
+  "dropped_on": "2026-11-23",
+  "note": "Dropped by Brandon 2026-11-23 (won't apply)."
  },
  {
   "id": "beazley-incident-response-consultant",
@@ -1931,14 +1937,16 @@
   "work_mode": "remote",
   "pay": "not listed (salary + bonus)",
   "score": 4,
-  "status": "tailored",
+  "status": "dropped",
   "why": "Remote and no degree/clearance bar, but asks 1-2 yrs of incident response or forensics plus EDR, SIEM and forensic tools he hasn't used.",
   "first_seen": "2026-11-23",
   "source": "inbox/linkedin-2026-11-23.json (processed same day on request)",
   "verified": true,
   "folder": "Beazley Security - Incident Response Consultant",
   "ats": "80 (C), JD keyword coverage 25%",
-  "tailored_on": "2026-11-23"
+  "tailored_on": "2026-11-23",
+  "dropped_on": "2026-11-23",
+  "note": "Dropped by Brandon 2026-11-23 (won't apply)."
  },
  {
   "id": "sixgen-jr-threat-hunter-purple-team-repost",

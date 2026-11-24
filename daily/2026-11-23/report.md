@@ -82,3 +82,6 @@ Applied today: Mach Industries Security Engineer, Kaygen Cyber Threat Intelligen
 
 ### Abacus (posting text supplied by Brandon)
 - 4 — Analyst, Cybersecurity · Abacus Group · Remote (US). A tier-2 escalation role asking for 2–3 yrs SOC experience plus SIEM, SentinelOne, Rapid7 and Palo Alto; Security+ within 6 months of hire fits your January exam. ATS 81. Files: `daily/2026-11-23/abacus-analyst-cybersecurity/`
+
+## Dropped (Brandon, evening)
+Beazley IR Consultant, Abacus Analyst, La Verne GRC Analyst and FTI Consultant: not applying; files deleted.

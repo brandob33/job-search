@@ -52,6 +52,7 @@ Record in notes.md: score, 2-line why, matched keywords, missing keywords, eligi
 ## Tailoring threshold
 TAILOR_THRESHOLD = 6  (7 -> 5 on 2026-11-21, then 5 -> 6 on 2026-11-21 at Brandon's request: 5 produced too many roles; tailor every role scoring >= 6)
 Below-threshold roles never get files, including roles Brandon sends as links: score them and report first (Brandon, 2026-11-23). Tailor a role under 6 only when he names that specific role and asks for files.
+Every run (Brandon, 2026-11-23): auto-tailor every role scoring 6+. Score-5 and score-4 roles get NO files; list them in the report under "Need your call (5s and 4s)" with link, one-line why and main gap, and ask Brandon which (if any) to tailor. Add "+ K to review (4-5)" to the push notification when there are any. Scores of 3 and below are one-liners, no question.
 No backfill needed. Roles scoring 5 that were already tailored keep their files; just don't tailor new 5s. Score-5 roles go in the report as one-liners without files.
 In report sections, files and pushes below, "7+" means ">= TAILOR_THRESHOLD". For roles scoring 6, add one line in notes.md on the main risk (eligibility, timing, missing requirement).
 
@@ -87,7 +88,7 @@ Rules for the Mac task (every run):
 - New tailored roles (score >= TAILOR_THRESHOLD, status "tailored") go into Applications/Not Yet Applied/<folder>/.
 - Any role with status "applied" in data/roles.json (or listed in Applications Submitted.md) is MOVED (not copied) from Not Yet Applied/ to Applied/<folder>/. Never leave a duplicate in Not Yet Applied.
 - One-time migration (first run after 2026-11-21): create Not Yet Applied/ and Applied/, then move every existing Applications/<folder>/ into the matching subfolder by status. Folders left directly under Applications/ are not allowed after that.
-- Dropped roles (status "dropped" in data/roles.json): delete their folder wherever it is and never recreate it. Dropped 2026-11-21: "Tevora - SOC Intern", "Millennium Space - Cybersecurity Analyst", "Varda - Cybersecurity Intern", "First American - InfoSec Analyst". Dropped 2026-11-23: "PayPal - Cybersecurity Intern Summer 2027", "Verkada - Security Software Engineering Intern".
+- Dropped roles (status "dropped" in data/roles.json): delete their folder wherever it is and never recreate it. Dropped 2026-11-21: "Tevora - SOC Intern", "Millennium Space - Cybersecurity Analyst", "Varda - Cybersecurity Intern", "First American - InfoSec Analyst". Dropped 2026-11-23: "PayPal - Cybersecurity Intern Summer 2027", "Verkada - Security Software Engineering Intern". Also dropped 2026-11-23: "Beazley Security - Incident Response Consultant", "Abacus - Cybersecurity Analyst", "University of La Verne - Cybersecurity GRC Analyst", "FTI Consulting - Cybersecurity Consultant".
 - Cloud runs cannot reach the Mac; they only set status in data/roles.json and data/seen.json (and the "Folder" column in data/applications-submitted.md uses Applications/Applied/<folder>).
 Use a short, readable folder name (e.g., "Tevora - Solutions Intern", "Ventura Foods - Associate AppSec Engineer"); store it as "folder" on the role in data/roles.json so both runs agree.
 
