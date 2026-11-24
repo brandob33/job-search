@@ -1905,18 +1905,21 @@
  },
  {
   "id": "abacus-analyst-cybersecurity",
-  "company": "Abacus",
+  "company": "Abacus Group",
   "title": "Analyst, Cybersecurity",
   "url": "https://www.linkedin.com/jobs/view/4471213836/",
   "location": "Remote (US)",
   "work_mode": "remote",
   "pay": "not listed",
-  "score": null,
-  "status": "unverified",
-  "why": "Couldn't open (Greenhouse job 8007184003 behind abacustechnology.com); needs posting text.",
+  "score": 4,
+  "status": "tailored",
+  "why": "Remote tier-2 role handling MDR and tier-1 escalations; asks 2-3 yrs in a security operations/technical security role plus SIEM, SentinelOne, Rapid7 and Palo Alto he hasn't used. Security+ within 6 months of hire fits his Jan 2027 exam.",
   "first_seen": "2026-11-23",
   "source": "inbox/linkedin-2026-11-23.json (processed same day on request)",
-  "verified": false
+  "verified": true,
+  "folder": "Abacus - Cybersecurity Analyst",
+  "tailored_on": "2026-11-23",
+  "ats": "81 (C), JD keyword coverage 30%"
  },
  {
   "id": "beazley-incident-response-consultant",

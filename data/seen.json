@@ -888,10 +888,10 @@
  },
  "abacus-analyst-cybersecurity": {
   "first_seen": "2026-11-23",
-  "score": null,
+  "score": 4,
   "url": "https://www.linkedin.com/jobs/view/4471213836/",
-  "status": "unverified",
-  "company": "Abacus",
+  "status": "tailored",
+  "company": "Abacus Group",
   "title": "Analyst, Cybersecurity",
   "reason": "Couldn't open the posting."
  },
