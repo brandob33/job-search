@@ -658,16 +658,17 @@
   "description_summary": "GRC/audit-focused consulting internship performing SOC 1/SOC 2 assessments of service organizations, drafting policies and remediation recommendations, and acting as augmented staff in client security/compliance programs. Part of Tevora's paid Consultant Development Program with possible full-time conversion.",
   "score": 5,
   "why": "'SOC' here = SOC 2 audits, not a security operations center; audit-heavy.",
-  "ats_score": "85",
+  "ats_score": "80",
   "first_seen": "2026-11-20",
-  "status": "dropped",
-  "files": "",
+  "status": "tailored",
+  "files": "daily/2026-11-24/tevora-cyber-intern-soc-su27/",
   "folder": "Tevora - SOC Intern",
   "main_risk": "SOC 2 audit/policy-writing heavy; no audit experience; May 31 cohort start.",
   "backfilled": "2026-11-21",
   "verified_on": "2026-11-21",
   "dropped_on": "2026-11-21",
-  "drop_reason": "Brandon: drop score-5 roles (threshold 6)"
+  "drop_reason": "Brandon: drop score-5 roles (threshold 6)",
+  "note": "Un-dropped 2026-11-24 at Brandon's request; tailored below threshold."
  },
  {
   "id": "spacex-security-analyst-soc",
@@ -2068,10 +2069,13 @@
   "pay": "$27/hr",
   "deadline": "None listed",
   "score": 8,
-  "status": "new",
+  "status": "tailored",
   "why": "Most technical Tevora track: shadow network and web app pentests, remediation validation and reporting. Same CDP eligibility he already meets; May 31-Aug 6 Summer cohort fits. Not previously posted for Summer.",
   "first_seen": "2026-11-24",
   "source": "Brandon (Kevin Dick LinkedIn post); verified on jobs.lever.co/tevora",
-  "verified": true
+  "verified": true,
+  "folder": "Tevora - Threat Intern",
+  "files": "daily/2026-11-24/tevora-cyber-intern-threat-su27/",
+  "ats_score": "82"
  }
 ]

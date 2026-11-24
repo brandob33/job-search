@@ -27,3 +27,7 @@ Excluded (logged in seen.json): Twitch Undergrad Security Engineering Intern (Sa
 
 ## Follow-ups due (next 3 days)
 - None. Tevora Solutions is around Dec 4, the Nov 21 batch around Dec 5, and the Nov 23 batch around Dec 7.
+
+## Added this afternoon (Brandon's request)
+- 8 — [Cybersecurity Internship Summer 2027 – Threat](https://jobs.lever.co/tevora/5acd8859-ba7f-4996-9503-13a231376758) · Tevora · Irvine (on-site) · $27/hr · May 31–Aug 6. New Summer cohort of the pentest track (shadow network and web app pentests). ATS 82. Files: `daily/2026-11-24/tevora-cyber-intern-threat-su27/`
+- 5 — [Cybersecurity Internship Summer 2027 – SOC](https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c) · Tevora · Irvine (on-site) · $27/hr. SOC 2 control assessments (audit, not a security operations center). Tailored on request. ATS 80. Files: `daily/2026-11-24/tevora-cyber-intern-soc-su27/`
