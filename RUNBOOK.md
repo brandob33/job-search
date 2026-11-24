@@ -51,6 +51,7 @@ Record in notes.md: score, 2-line why, matched keywords, missing keywords, eligi
 
 ## Tailoring threshold
 TAILOR_THRESHOLD = 6  (7 -> 5 on 2026-11-21, then 5 -> 6 on 2026-11-21 at Brandon's request: 5 produced too many roles; tailor every role scoring >= 6)
+Below-threshold roles never get files, including roles Brandon sends as links: score them and report first (Brandon, 2026-11-23). Tailor a role under 6 only when he names that specific role and asks for files.
 No backfill needed. Roles scoring 5 that were already tailored keep their files; just don't tailor new 5s. Score-5 roles go in the report as one-liners without files.
 In report sections, files and pushes below, "7+" means ">= TAILOR_THRESHOLD". For roles scoring 6, add one line in notes.md on the main risk (eligibility, timing, missing requirement).
 
