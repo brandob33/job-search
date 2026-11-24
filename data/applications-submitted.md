@@ -24,6 +24,7 @@ Tell Claude whenever you apply (or hear back) and this list, the Career Navigato
 | 18 | 2026-11-23 | Astera Labs | [CyberSecurity Engineer Intern](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743021005) | San Jose, CA | $35–$55/hr + $500/wk housing | Applied | Follow up ~Dec 7 if no response | Applications/Applied/Astera Labs - Cybersecurity Engineer Intern |
 | 19 | 2026-11-23 | Mach Industries | [Security Engineer](https://job-boards.greenhouse.io/machindustries/jobs/4507989009) | Huntington Beach, CA (full-time) | $105K–$150K + equity | Applied | Follow up ~Dec 7 if no response | Applications/Applied/Mach Industries - Security Engineer |
 | 20 | 2026-11-23 | Kaygen, Inc. | [Cyber Threat Intelligence Analyst](https://www.linkedin.com/jobs/view/4491873899/) | Los Angeles, CA (hybrid, contract) | $45–$60/hr | Applied | Follow up ~Dec 7 if no response | Applications/Applied/Kaygen - Cyber Threat Intelligence Analyst |
+| 21 | 2026-11-23 | Armadin | [Attack Operations Center Analyst (Nights/Weekends)](https://jobs.ashbyhq.com/armadin/2a74d689-ffdd-4f0f-8b87-749a51906055) | Remote, US (full-time, nights/weekends) | Salary + equity (not listed) | Applied | Follow up ~Dec 7 if no response | Applications/Applied/Armadin - Attack Operations Center Analyst |
 
 ## Status key
 Applied → Recruiter screen → Interview → Offer / Rejected / Withdrawn

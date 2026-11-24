@@ -1894,14 +1894,15 @@
   "work_mode": "remote",
   "pay": "Salary + equity (not listed)",
   "score": 7,
-  "status": "tailored",
+  "status": "applied",
   "why": "Experience can come from classes/projects, and 'manual work with authentication flows, APIs, or sessions' is exactly CommunicAI; Burp/web attacks and LLM background fit. Nights/weekends shift.",
   "first_seen": "2026-11-23",
   "source": "inbox/linkedin-2026-11-23.json (processed same day on request)",
   "verified": true,
   "folder": "Armadin - Attack Operations Center Analyst",
   "ats": "82 (C), JD keyword coverage 35%",
-  "tailored_on": "2026-11-23"
+  "tailored_on": "2026-11-23",
+  "date_applied": "2026-11-23"
  },
  {
   "id": "abacus-analyst-cybersecurity",

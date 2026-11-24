@@ -881,10 +881,11 @@
   "first_seen": "2026-11-23",
   "score": 7,
   "url": "https://jobs.ashbyhq.com/armadin/2a74d689-ffdd-4f0f-8b87-749a51906055",
-  "status": "tailored",
+  "status": "applied",
   "company": "Armadin",
   "title": "Attack Operations Center Analyst (Nights/Weekends)",
-  "reason": "Red-team startup; nights/weekends; couldn't open the posting."
+  "reason": "Red-team startup; nights/weekends; couldn't open the posting.",
+  "date_applied": "2026-11-23"
  },
  "abacus-analyst-cybersecurity": {
   "first_seen": "2026-11-23",
