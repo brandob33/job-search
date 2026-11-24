@@ -1,0 +1,37 @@
+{
+ "date": "2026-11-24",
+ "source": "SimplifyJobs GitHub lists",
+ "postings": [
+  {
+   "feed": "New-Grad-Positions",
+   "company": "Twitch",
+   "title": "Software Development Engineer 1 - Security Platform",
+   "locations": [
+    "Seattle, WA",
+    "SF",
+    "Irvine, CA"
+   ],
+   "where": "socal",
+   "terms": null,
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8931345002",
+   "sponsorship": "Other",
+   "date_posted": "2026-11-04"
+  },
+  {
+   "feed": "New-Grad-Positions",
+   "company": "Amazon",
+   "title": "Software Developer Engineer 1 - Security Platform",
+   "locations": [
+    "Seattle, WA",
+    "SF",
+    "Irvine, CA"
+   ],
+   "where": "socal",
+   "terms": null,
+   "url": "https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform",
+   "sponsorship": "Other",
+   "date_posted": "2026-11-05"
+  }
+ ],
+ "processed": false
+}

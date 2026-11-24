@@ -1,0 +1,9 @@
+{
+ "date": "2026-11-24",
+ "source": "Gmail job-alert digests, last 7 days (read-only)",
+ "note": "No LinkedIn job-alert emails in the last 30 days (LinkedIn alerts may be off or going to another address). Indeed matches were retail/driver/generic. One Handshake lead worth checking.",
+ "postings": [
+  {"company": "NBCUniversal", "title": "Global Security & Intelligence Internships - Summer 2027", "location": "Studio City, CA (onsite)", "pay": "$22-25/hr", "source": "Handshake saved-search digest 2026-11-23", "note": "May be corporate/physical security intelligence rather than cyber; verify on NBCU careers."}
+ ],
+ "processed": false
+}
