@@ -22,6 +22,8 @@ Tell Claude whenever you apply (or hear back) and this list, the Career Navigato
 | 16 | 2026-11-23 | STN Incorporated | [Data Center - SOC Analyst L1](https://to.indeed.com/aag98zjhtrkd) | Remote, US (full-time) | $70K–$90K/yr | Applied | Follow up ~Dec 7 if no response | Applications/Applied/STN - Data Center SOC Analyst L1 |
 | 17 | 2026-11-23 | Muon Space | [Security Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/muonspace/jobs/5294028007) | Mountain View, CA (on-site) | $40/hr | Applied | Follow up ~Dec 7 if no response | Applications/Applied/Muon Space - Security Engineering Intern |
 | 18 | 2026-11-23 | Astera Labs | [CyberSecurity Engineer Intern](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743021005) | San Jose, CA | $35–$55/hr + $500/wk housing | Applied | Follow up ~Dec 7 if no response | Applications/Applied/Astera Labs - Cybersecurity Engineer Intern |
+| 19 | 2026-11-23 | Mach Industries | [Security Engineer](https://job-boards.greenhouse.io/machindustries/jobs/4507989009) | Huntington Beach, CA (full-time) | $105K–$150K + equity | Applied | Follow up ~Dec 7 if no response | Applications/Applied/Mach Industries - Security Engineer |
+| 20 | 2026-11-23 | Kaygen, Inc. | [Cyber Threat Intelligence Analyst](https://www.linkedin.com/jobs/view/4491873899/) | Los Angeles, CA (hybrid, contract) | $45–$60/hr | Applied | Follow up ~Dec 7 if no response | Applications/Applied/Kaygen - Cyber Threat Intelligence Analyst |
 
 ## Status key
 Applied → Recruiter screen → Interview → Offer / Rejected / Withdrawn

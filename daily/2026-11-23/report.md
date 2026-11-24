@@ -66,3 +66,16 @@ From now on, roles asking for up to 3 years are scored, not excluded (RUNBOOK "E
 - 4 — [Technical Compliance Manager Intern](https://www.linkedin.com/jobs/view/4476771995/) · Intuit · San Diego on-site (~1.5 hr)
 
 Excluded: Intuit SWE Intern - Cybersecurity (Mountain View), Lucid Product Security Intern (Newark), LLNL Cybersecurity Intern (Livermore), Athens Services Security Ops Jr. Specialist (physical security), SIXGEN Jr. Threat Hunter repost (Secret).
+
+## Links Brandon supplied (evening)
+Applied today: Mach Industries Security Engineer, Kaygen Cyber Threat Intelligence Analyst. CENIC Information Security Intern is no longer available.
+
+### Tailored
+1. 7 — [Attack Operations Center Analyst (Nights/Weekends)](https://jobs.ashbyhq.com/armadin/2a74d689-ffdd-4f0f-8b87-749a51906055) · Armadin · Remote (US) · salary + equity. Classes and projects count toward the 1+ year, and "manual work with authentication flows, APIs, or sessions" is exactly CommunicAI. Main risk: nights/weekends shift; they'd like HTB/TryHackMe/PortSwigger experience. ATS 82. Files: `daily/2026-11-23/armadin-attack-operations-center-analyst/`
+2. 4 — [Incident Response Consultant](https://ats.rippling.com/beazleysecurity/jobs/5021b2b4-5361-4b1c-81e0-60862b471e44) · Beazley Security · Remote (US). Asks 1-2 yrs IR/forensics plus EDR/SIEM/forensic tools. ATS 80. Files: `daily/2026-11-23/beazley-incident-response-consultant/`
+3. 4 — [Cybersecurity GRC Analyst](https://www.dreamworkhq.com/job/d9ffef52-7124-4154-8f95-3c0284ea2d3c) · University of La Verne · La Verne · $99K–$115K. Mid-level: 3 yrs progressive experience plus NIST CSF/FERPA/GLBA. Original posting: laverne.peopleadmin.com/postings/15831. ATS 80. Files: `daily/2026-11-23/laverne-cybersecurity-grc-analyst/`
+4. 3 — [Consultant, Cybersecurity](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/Consultant--Cybersecurity_JR261538) · FTI Consulting · Washington, DC · $78.5K–$110.5K. Client-facing role that assumes proven IR experience; DC location. ATS 82. Files: `daily/2026-11-23/fti-consultant-cybersecurity/`
+
+### Not tailored
+- [Network Vulnerability Remediation Engineer - Junior](https://www.clearancejobs.com/jobs/9323808/network-vulnerability-remediation-engineer-junior-level) · Leidos · Remote. Requires an **active** DoD Secret clearance (plus Security+ and 2–4 yrs network patching/STIGs), so excluded.
+- Abacus Analyst, Cybersecurity: the link opens Abacus's general vacancies page, not the job. Paste the posting text to get it done.
