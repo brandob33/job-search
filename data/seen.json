@@ -969,5 +969,23 @@
     "status": "tailored",
     "company": "Tevora",
     "title": "Cybersecurity Internship Summer 2027 - Threat"
+  },
+  "twitch-sde1-security-platform-irvine": {
+    "first_seen": "2026-11-25",
+    "score": 5,
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8931345002",
+    "status": "unverified"
+  },
+  "amazon-sde1-security-platform-irvine": {
+    "first_seen": "2026-11-25",
+    "score": 5,
+    "url": "https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform",
+    "status": "unverified"
+  },
+  "nbcu-global-security-intelligence-intern-su27": {
+    "first_seen": "2026-11-25",
+    "score": 3,
+    "url": "https://www.nbcunicareers.com/",
+    "status": "new"
   }
 }
