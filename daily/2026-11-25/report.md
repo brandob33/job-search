@@ -31,3 +31,18 @@ Run notes: no `inbox/linkedin-2026-11-25.json` from the Mac run had reached the 
 
 ## Updated after your reply (posting text + AWS/DynamoDB/AI/Twitch experience)
 - 6 — [Software Dev Engineer I – Security Platform](https://job-boards.greenhouse.io/twitch/jobs/8931345002) · Twitch (req TW9319; the [Amazon listing](https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform) is the same job, so apply once via Twitch) · Irvine on-site · $122.6K–$160K + sign-on + RSUs. Your cloud auth flows, privacy automation and backend Cloud Functions line up with the bonus list, and AWS/DynamoDB and Twitch familiarity help. **Main risk:** the requirements include professional software development and building internal tooling for other developers, and you have neither yet. Go isn't on the resume. ATS 86. Files: `daily/2026-11-25/twitch-sde1-security-platform-irvine/`
+
+## Mac LinkedIn inbox (arrived late, 25 postings)
+4 were already seen (Rivian, Twitch IR Engineer, Northrop Industrial Security, Boot Barn). I couldn't read any LinkedIn or employer posting pages from the cloud, so the 10 local ones below are **not scored yet**. Paste the posting text and I'll score them (and tailor any that hit 6+):
+- [Information Security Analyst](https://www.linkedin.com/jobs/view/4492757091/) · DLA Piper · Los Angeles
+- [Cybersecurity Analyst](https://www.linkedin.com/jobs/view/4494689800/) · Stand8 (staffing) · Commerce
+- [Information Security Analyst](https://www.linkedin.com/jobs/view/4493431931/) · CFS · Pasadena
+- [GRC Cloud Security Analyst](https://www.linkedin.com/jobs/view/4494097272/) · SHEIN · Los Angeles
+- [AI Security Software Engineer (Starshield)](https://www.linkedin.com/jobs/view/4477622203/) · SpaceX · Hawthorne (likely needs clearance eligibility, which you have)
+- [Security Engineer (Blue Team)](https://www.linkedin.com/jobs/view/4434081376/) · SpaceX · Hawthorne
+- [Security Operations Engineer](https://www.linkedin.com/jobs/view/4494693546/) · Karman Space & Defense · Huntington Beach
+- [Security Engineer (App Sec)](https://www.linkedin.com/jobs/view/4494435288/) · Sharp Decisions (staffing) · Irvine
+- [Network Security Engineer](https://www.linkedin.com/jobs/view/4494630732/) · Shaarpro · Irvine
+- [Systems Security Engineer, Night Shift](https://www.linkedin.com/jobs/view/4485027351/) · Sheppard · Los Angeles
+
+Excluded (11): more than 1 hr away: SpaceX Threat Detection and Detection Engineering (Palo Alto), HPE intern (San Jose), Applied Intuition New Grad (Sunnyvale), CRA (Oakland), SF City 1041 (San Francisco), JT4 (Edwards AFB), Qualcomm Security Intern and Northrop 2027 Associate Cyber Systems Engineer (San Diego). Not cyber: ManTech Acquisition Security Analyst. Areté ISSO is a repost of a role already excluded.

@@ -987,5 +987,131 @@
     "score": 3,
     "url": "https://www.nbcunicareers.com/",
     "status": "new"
+  },
+  "mantech-acquisition-security-analyst": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4483099353/",
+    "status": "excluded"
+  },
+  "jt4-cybersecurity-analyst-i": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4486456391/",
+    "status": "excluded"
+  },
+  "spacex-security-analyst-threat-detection": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4494439076/",
+    "status": "excluded"
+  },
+  "charles-river-associates-associate-cybersecurity-incident-re": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4449310272/",
+    "status": "excluded"
+  },
+  "city-and-county-of-san-francisco-cyber-defense-associate-eng": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4493235098/",
+    "status": "excluded"
+  },
+  "aret-cyber-security-analyst-isso": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4473508424/",
+    "status": "excluded"
+  },
+  "qualcomm-security-product-systems-cyber-engineering-internsh": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4468401153/",
+    "status": "excluded"
+  },
+  "hewlett-packard-enterprise-networking-cybersecurity-intern": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4494182573/",
+    "status": "excluded"
+  },
+  "applied-intuition-cybersecurity-software-engineer-new-grad-2": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4461364374/",
+    "status": "excluded"
+  },
+  "northrop-grumman-2027-associate-cyber-systems-engineer-san-d": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4494489371/",
+    "status": "excluded"
+  },
+  "spacex-security-engineer-detection-engineering": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4494439014/",
+    "status": "excluded"
+  },
+  "dla-piper-information-security-analyst": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4492757091/",
+    "status": "unverified"
+  },
+  "stand8-technology-consulting-cybersecurity-analyst": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4494689800/",
+    "status": "unverified"
+  },
+  "cfs-information-security-analyst": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4493431931/",
+    "status": "unverified"
+  },
+  "karman-space-defense-security-operations-engineer": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4494693546/",
+    "status": "unverified"
+  },
+  "shein-grc-cloud-security-analyst": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4494097272/",
+    "status": "unverified"
+  },
+  "spacex-security-engineer-blue-team": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4434081376/",
+    "status": "unverified"
+  },
+  "shaarpro-network-security-engineer": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4494630732/",
+    "status": "unverified"
+  },
+  "sharp-decisions-security-engineer-app-sec": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4494435288/",
+    "status": "unverified"
+  },
+  "spacex-ai-security-software-engineer-starshield": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4477622203/",
+    "status": "unverified"
+  },
+  "sheppard-systems-security-engineer-night-shift-multiple-offi": {
+    "first_seen": "2026-11-25",
+    "score": null,
+    "url": "https://www.linkedin.com/jobs/view/4485027351/",
+    "status": "unverified"
   }
 }
