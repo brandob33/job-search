@@ -1,0 +1,126 @@
+{
+ "date": "2026-11-26",
+ "source": "LinkedIn search (jobs-guest API from signed-in Chrome, last 7 days) + jobs home; read-only",
+ "processed": true,
+ "note": "'Jobs based on your preferences' shows 'No jobs yet' (no preferences set); used 'Jobs where you're more likely to hear back' instead. Descriptions captured in-browser; only qualification excerpts saved here (tool output limits).",
+ "postings": [
+  {
+   "linkedin_job_id": "4459296440",
+   "linkedin_url": "https://www.linkedin.com/jobs/view/4459296440/",
+   "company": "TikTok USDS Joint Venture",
+   "title": "Software Engineer Intern (Security & Privacy)",
+   "location": "San Jose, CA",
+   "pay": "$45/hr",
+   "score": 5,
+   "why": "Security & privacy SWE intern; Bay Area summer OK (Dublin rule). Needs 'currently pursuing a Bachelor's'; summer dates not stated."
+  },
+  {
+   "linkedin_job_id": "4494092980",
+   "linkedin_url": "https://www.linkedin.com/jobs/view/4494092980/",
+   "company": "Illumio",
+   "title": "Engineering Intern, Security Platforms",
+   "location": "San Jose, CA",
+   "pay": "",
+   "score": 5,
+   "why": "General SWE intern on a security platform; requires current full-time bachelor's/master's enrollment."
+  },
+  {
+   "linkedin_job_id": "4480682789",
+   "linkedin_url": "https://www.linkedin.com/jobs/view/4480682789/",
+   "company": "The Aerospace Corporation",
+   "title": "2027 Defensive Cyber Operations Undergrad Intern",
+   "location": "El Segundo, CA",
+   "pay": "$25–30/hr",
+   "score": 4,
+   "why": "Good fit (Python/C, Docker; Security+ and CTFs are pluses) and local, but strictly requires full-time enrollment pursuing a Bachelor's and returning to school after. Capped at 4."
+  },
+  {
+   "linkedin_job_id": "4494488474",
+   "linkedin_url": "https://www.linkedin.com/jobs/view/4494488474/",
+   "company": "Hewlett Packard Enterprise",
+   "title": "Firmware Engineering Security Intern",
+   "location": "Sunnyvale, CA",
+   "pay": "",
+   "score": 4,
+   "why": "Key signing / TPM 2.0 work; needs strong Linux/FreeBSD kernel knowledge he doesn't have."
+  },
+  {
+   "linkedin_job_id": "4481615297",
+   "linkedin_url": "https://www.linkedin.com/jobs/view/4481615297/",
+   "company": "Arrowhead Pharmaceuticals",
+   "title": "Analyst II, Cyber Security (Operational Technology)",
+   "location": "Los Angeles, CA",
+   "pay": "",
+   "score": 4,
+   "why": "Requires 3+ yrs infosec/sysadmin and OT security."
+  },
+  {
+   "linkedin_job_id": "4479432755",
+   "linkedin_url": "https://www.linkedin.com/jobs/view/4479432755/",
+   "company": "The Aerospace Corporation",
+   "title": "2027 Hardware Security Engineering Undergrad Intern",
+   "location": "El Segundo, CA",
+   "pay": "$25–30/hr",
+   "score": 3,
+   "why": "Hardware security focus; strict bachelor's enrollment."
+  },
+  {
+   "linkedin_job_id": "4493828899",
+   "linkedin_url": "https://www.linkedin.com/jobs/view/4493828899/",
+   "company": "BrilliaCore",
+   "title": "Security Analyst Intern",
+   "location": "Culver City, CA",
+   "pay": "",
+   "score": 3,
+   "why": "Posting is an HR consultancy's AI matching service, not a direct employer role."
+  },
+  {
+   "linkedin_job_id": "4494408273",
+   "linkedin_url": "https://www.linkedin.com/jobs/view/4494408273/",
+   "company": "Deloitte",
+   "title": "Cyber ServiceNow Technical Consultant",
+   "location": "Costa Mesa, CA",
+   "pay": "$82.6K–$162.8K",
+   "score": 3,
+   "why": "Requires 2+ yrs hands-on ServiceNow development."
+  },
+  {
+   "linkedin_job_id": "4476661513",
+   "linkedin_url": "https://www.linkedin.com/jobs/view/4476661513/",
+   "company": "Bitdeer",
+   "title": "Security Operations & Detection Engineer",
+   "location": "Los Angeles, CA",
+   "pay": "",
+   "score": 3,
+   "why": "Requires 3+ yrs as primary SOC/IR responder, Kubernetes."
+  },
+  {
+   "linkedin_job_id": "4485331090",
+   "linkedin_url": "https://www.linkedin.com/jobs/view/4485331090/",
+   "company": "Collins Aerospace",
+   "title": "Cyber Software Engineer II",
+   "location": "Anaheim, CA",
+   "pay": "",
+   "score": 2,
+   "why": "Active clearance required before start."
+  },
+  {
+   "linkedin_job_id": "4495200434",
+   "linkedin_url": "https://www.linkedin.com/jobs/view/4495200434/",
+   "company": "Karman Space & Defense",
+   "title": "Cyber Resilience & Recovery Specialist",
+   "location": "Huntington Beach, CA",
+   "pay": "",
+   "score": 2,
+   "why": "Requires 4+ years."
+  }
+ ],
+ "triaged_out_counts": {
+  "already_seen": 24,
+  "senior": 33,
+  "non_security": 10,
+  "far": 15,
+  "physical_security": 6,
+  "already_applied_or_dup": 5
+ }
+}

@@ -12,7 +12,7 @@
   "first_seen": "2026-11-20",
   "score": 7,
   "url": "https://to.indeed.com/aa88qqpmsl79",
-  "status": "applied",
+  "status": "rejected",
   "company": "Ventura Foods",
   "title": "Associate Application Security Engineer",
   "date_applied": "2026-11-21"
@@ -800,18 +800,18 @@
  },
  "crowdstrike-product-eng-intern-threat-detection": {
   "first_seen": "2026-11-23",
-  "score": 3,
+  "score": 2,
   "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Threat-Detection_R30621",
   "status": "excluded",
   "company": "CrowdStrike",
-  "title": "Product Engineering Intern - Threat Detection",
+  "title": "Product Engineering Intern - Threat Detection (R30621)",
   "reason": "Sunnyvale/Redmond hybrid 3 days; already seen (score 4) — location fails"
  },
  "intuit-swe-intern-cybersecurity-su27": {
   "first_seen": "2026-11-23",
-  "score": null,
-  "url": "https://www.linkedin.com/jobs/view/4467715984/",
-  "status": "excluded",
+  "score": 5,
+  "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
+  "status": "new",
   "company": "Intuit",
   "title": "Summer 2027: Software Engineering Intern - Cybersecurity",
   "reason": "Onsite Mountain View."
@@ -827,20 +827,20 @@
  },
  "lucid-product-security-engineering-intern-su27": {
   "first_seen": "2026-11-23",
-  "score": null,
-  "url": "https://www.linkedin.com/jobs/view/4492532988/",
-  "status": "excluded",
+  "score": 4,
+  "url": "https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007",
+  "status": "new",
   "company": "Lucid Motors",
-  "title": "Product Security Engineering Intern, Summer 2027",
+  "title": "Product Security Engineering Intern, Summer 2027 (Product Security - RedTeam)",
   "reason": "Newark, CA (Bay Area)."
  },
  "llnl-cybersecurity-undergrad-intern-su27": {
   "first_seen": "2026-11-23",
-  "score": null,
-  "url": "https://www.linkedin.com/jobs/view/4492783541/",
-  "status": "excluded",
+  "score": 4,
+  "url": "https://jobs.smartrecruiters.com/llnl/3743990016984696",
+  "status": "new",
   "company": "Lawrence Livermore National Laboratory",
-  "title": "Cybersecurity Undergraduate Intern - CCISI Summer 2027",
+  "title": "Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027",
   "reason": "Livermore onsite; undergraduate program."
  },
  "athens-services-security-operations-jr-specialist": {
@@ -1035,9 +1035,11 @@
  },
  "hewlett-packard-enterprise-networking-cybersecurity-intern": {
   "first_seen": "2026-11-25",
-  "score": null,
-  "url": "https://www.linkedin.com/jobs/view/4494182573/",
-  "status": "excluded"
+  "score": 6,
+  "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Networking---Cybersecurity-Intern_1214058",
+  "status": "tailored",
+  "company": "Hewlett Packard Enterprise",
+  "title": "Networking & Cybersecurity Intern (Job 1214058)"
  },
  "applied-intuition-cybersecurity-software-engineer-new-grad-2": {
   "first_seen": "2026-11-25",
@@ -1300,7 +1302,7 @@
   "first_seen": "2026-11-26",
   "score": 7,
   "url": "https://job-boards.greenhouse.io/spacex/jobs/8650240002",
-  "status": "tailored",
+  "status": "closed",
   "company": "SpaceX",
   "title": "Security Analyst (Blue Team) (Level I/II)"
  },
@@ -1308,7 +1310,7 @@
   "first_seen": "2026-11-26",
   "score": 6,
   "url": "https://job-boards.greenhouse.io/spacex/jobs/8201865002",
-  "status": "tailored",
+  "status": "closed",
   "company": "SpaceX",
   "title": "Security Engineer (Security Operations) (Level I/II)"
  },
@@ -1316,7 +1318,7 @@
   "first_seen": "2026-11-26",
   "score": 6,
   "url": "https://job-boards.greenhouse.io/spacex/jobs/8593384002",
-  "status": "tailored",
+  "status": "closed",
   "company": "SpaceX",
   "title": "Security Engineer (Embedded & Networking) (Level 1/2)"
  },
@@ -1654,5 +1656,120 @@
   "company": "Hadrian",
   "title": "Security Engineer, Full Stack",
   "reason": "senior ($160K+) (Built In alert)"
+ },
+ "tiktok-usds-joint-venture-software-engineer-intern-security-": {
+  "first_seen": "2026-11-26",
+  "score": 5,
+  "url": "https://www.linkedin.com/jobs/view/4459296440/",
+  "status": "new",
+  "company": "TikTok USDS Joint Venture",
+  "title": "Software Engineer Intern (Security & Privacy)",
+  "linkedin_url": "https://www.linkedin.com/jobs/view/4459296440/"
+ },
+ "illumio-engineering-intern-security-platforms": {
+  "first_seen": "2026-11-26",
+  "score": 5,
+  "url": "https://www.linkedin.com/jobs/view/4494092980/",
+  "status": "new",
+  "company": "Illumio",
+  "title": "Engineering Intern, Security Platforms",
+  "linkedin_url": "https://www.linkedin.com/jobs/view/4494092980/"
+ },
+ "the-aerospace-corporation-2027-defensive-cyber-operations-un": {
+  "first_seen": "2026-11-26",
+  "score": 4,
+  "url": "https://www.linkedin.com/jobs/view/4480682789/",
+  "status": "new",
+  "company": "The Aerospace Corporation",
+  "title": "2027 Defensive Cyber Operations Undergrad Intern",
+  "linkedin_url": "https://www.linkedin.com/jobs/view/4480682789/"
+ },
+ "hewlett-packard-enterprise-firmware-engineering-security-int": {
+  "first_seen": "2026-11-26",
+  "score": 4,
+  "url": "https://www.linkedin.com/jobs/view/4494488474/",
+  "status": "new",
+  "company": "Hewlett Packard Enterprise",
+  "title": "Firmware Engineering Security Intern",
+  "linkedin_url": "https://www.linkedin.com/jobs/view/4494488474/"
+ },
+ "arrowhead-pharmaceuticals-analyst-ii-cyber-security-operatio": {
+  "first_seen": "2026-11-26",
+  "score": 4,
+  "url": "https://www.linkedin.com/jobs/view/4481615297/",
+  "status": "new",
+  "company": "Arrowhead Pharmaceuticals",
+  "title": "Analyst II, Cyber Security (Operational Technology)",
+  "linkedin_url": "https://www.linkedin.com/jobs/view/4481615297/"
+ },
+ "the-aerospace-corporation-2027-hardware-security-engineering": {
+  "first_seen": "2026-11-26",
+  "score": 3,
+  "url": "https://www.linkedin.com/jobs/view/4479432755/",
+  "status": "excluded",
+  "company": "The Aerospace Corporation",
+  "title": "2027 Hardware Security Engineering Undergrad Intern",
+  "linkedin_url": "https://www.linkedin.com/jobs/view/4479432755/"
+ },
+ "brilliacore-security-analyst-intern": {
+  "first_seen": "2026-11-26",
+  "score": 3,
+  "url": "https://www.linkedin.com/jobs/view/4493828899/",
+  "status": "excluded",
+  "company": "BrilliaCore",
+  "title": "Security Analyst Intern",
+  "linkedin_url": "https://www.linkedin.com/jobs/view/4493828899/"
+ },
+ "deloitte-cyber-servicenow-technical-consultant": {
+  "first_seen": "2026-11-26",
+  "score": 3,
+  "url": "https://www.linkedin.com/jobs/view/4494408273/",
+  "status": "excluded",
+  "company": "Deloitte",
+  "title": "Cyber ServiceNow Technical Consultant",
+  "linkedin_url": "https://www.linkedin.com/jobs/view/4494408273/"
+ },
+ "bitdeer-security-operations-detection-engineer": {
+  "first_seen": "2026-11-26",
+  "score": 3,
+  "url": "https://www.linkedin.com/jobs/view/4476661513/",
+  "status": "excluded",
+  "company": "Bitdeer",
+  "title": "Security Operations & Detection Engineer",
+  "linkedin_url": "https://www.linkedin.com/jobs/view/4476661513/"
+ },
+ "collins-aerospace-cyber-software-engineer-ii": {
+  "first_seen": "2026-11-26",
+  "score": 2,
+  "url": "https://www.linkedin.com/jobs/view/4485331090/",
+  "status": "excluded",
+  "company": "Collins Aerospace",
+  "title": "Cyber Software Engineer II",
+  "linkedin_url": "https://www.linkedin.com/jobs/view/4485331090/"
+ },
+ "karman-space-defense-cyber-resilience-recovery-specialist": {
+  "first_seen": "2026-11-26",
+  "score": 2,
+  "url": "https://www.linkedin.com/jobs/view/4495200434/",
+  "status": "excluded",
+  "company": "Karman Space & Defense",
+  "title": "Cyber Resilience & Recovery Specialist",
+  "linkedin_url": "https://www.linkedin.com/jobs/view/4495200434/"
+ },
+ "intuit-cybersecurity-compliance-intern-2027": {
+  "first_seen": "2026-11-26",
+  "score": 4,
+  "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-cybersecurity-compliance-intern/27595/101955844192",
+  "status": "new",
+  "company": "Intuit",
+  "title": "Summer 2027: Cybersecurity Compliance Intern"
+ },
+ "google-security-engineering-intern-2027": {
+  "first_seen": "2026-11-26",
+  "score": 2,
+  "url": "https://www.google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern",
+  "status": "excluded",
+  "company": "Google",
+  "title": "Security Engineering Intern, BS/MS, Summer 2027"
  }
 }

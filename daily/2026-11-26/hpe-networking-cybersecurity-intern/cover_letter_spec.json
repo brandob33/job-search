@@ -1,0 +1,12 @@
+{
+ "date": "November 26, 2026",
+ "company": "Hewlett Packard Enterprise",
+ "role": "Networking & Cybersecurity Intern (Job 1214058)",
+ "greeting": "Dear HPE SASE & Security Hiring Team,",
+ "paragraphs": [
+  "I'm applying for the Networking & Cybersecurity Intern role with HPE Networking's SASE & Security organization in San Jose. My B.S. in Computer Science from UC Irvine specialized in Networked Systems, and secure networking, Zero Trust and identity are exactly where I want to build depth. I spend summers in Dublin, CA, so San Jose is an easy commute for a Summer 2027 internship.",
+  "Most of my hands-on security work is on CommunicAI, an AI-powered iOS app I built and still operate on the App Store, backed by Google Cloud. I own its identity and access management end to end: Sign in with Apple with a nonce and SHA-256 hashing, Google OAuth, and email/password with server-enforced verification, plus Firebase App Check (App Attest) on every backend request. I wrote role-based access-control rules that block IDOR, privilege escalation and message spoofing, and 36 adversarial unit tests try to break them. Server-side Cloud Functions enforce authentication, input validation and rate limiting.",
+  "My coursework covered computer networks, operating systems, and security and privacy, including RSA, elliptic-curve cryptography and TLS. In labs I used Wireshark and Burp Suite to study MITM, ARP poisoning, DNS spoofing, SQL injection and XSS. I script in Python and Node.js and use Git daily. I'm also studying for the CompTIA Security+ exam in January. As captain of UC Irvine's NCAA Division I track and field team, I'm used to clear communication, taking feedback and managing my time.",
+  "I'd welcome the chance to help build, test and document SASE and Zero Trust solutions with your team this summer. I'm available for Summer 2027."
+ ]
+}

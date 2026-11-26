@@ -1,6 +1,6 @@
 # Daily cyber job search: 2026-11-26 (Thanksgiving)
 
-**10 new roles scored, 3 at 6+ (all SpaceX Hawthorne, full-time).** No new Summer 2027 internships turned up today. 39 postings were skipped or excluded (8 already seen, 31 senior, closed, AI-trainer, out of area or non-security).
+**Corrected: the 3 SpaceX roles from Part A don't exist. Part B added 1 tailored role (HPE, San Jose summer intern).** No new Summer 2027 internships turned up today. 39 postings were skipped or excluded (8 already seen, 31 senior, closed, AI-trainer, out of area or non-security).
 
 > ⚠️ **Repo push blocked this run.** brandob33/job-search isn't in this scheduled task's authorized repos, so today's commit is local only. Files were delivered in chat. Fix: in a new claude.ai chat, add the repo with push access and recreate the scheduled task there.
 
@@ -19,17 +19,13 @@
 - [Stand8 — Cybersecurity Analyst](https://www.linkedin.com/jobs/view/4494689800/) · Commerce hybrid · $105–115K · needs SIEM/Intune/M365 security
 - [CENIC — Operations Intern](https://www.linkedin.com/jobs/view/4491517493/) · La Mirada hybrid · $25/hr, ≤20 hrs/wk · his LinkedIn tracker says "clicked apply". Ask whether he finished applying.
 
-## New today: tailored (6+)
-1. [SpaceX — Security Analyst (Blue Team) (Level I/II)](https://job-boards.greenhouse.io/spacex/jobs/8650240002) · Hawthorne, on-site · L1 $95–115K, L2 $110–130K · no deadline · **score 7**: only needs a STEM BS + OS auditing / network-host collection tools; SIEM/IR are preferred only. Risk: full-time start, no SIEM. This is his 2nd Blue Team app (Security Engineer (Blue Team) already applied). Files: `daily/2026-11-26/spacex-security-analyst-blue-team/`
-2. [SpaceX — Security Engineer (Security Operations) (Level I/II)](https://job-boards.greenhouse.io/spacex/jobs/8201865002) · Hawthorne, on-site · L1 $130–150K · **score 6**: BS meets the basic bar, and his security engineering and automation fit. **Main risk:** full preferred list not captured; SecOps usually wants SIEM/IR. Files: `daily/2026-11-26/spacex-security-engineer-security-operations/`
-3. [SpaceX — Security Engineer (Embedded & Networking) (Level 1/2)](https://job-boards.greenhouse.io/spacex/jobs/8593384002) · Hawthorne (or Cape Canaveral) · L1 $130–155K · **score 6**: OAuth/OIDC, App Attest, crypto/TLS and C/C++/Python match. **Main risk:** PKI/SAML/TPM/HSM and OS internals are missing. Files: `daily/2026-11-26/spacex-security-engineer-embedded-networking/`
-
-ATS (ResumeNext) for all three: 63–65. The missing keywords are real gaps (SIEM, IR, PKI, OS auditing), so none were added.
+## New today: tailored (6+), CORRECTED
+~~SpaceX Security Analyst (Blue Team), Security Engineer (SecOps), Security Engineer (Embedded & Networking)~~: **all 3 postings don't exist** (Brandon checked). A helper agent marked them verified, but they weren't. Discard those files. They're marked closed and get no Mac folders. From now on the main session verifies every posting itself before tailoring (RUNBOOK updated).
+- Brandon found [SpaceX Security Analyst (Threat Detection)](https://www.linkedin.com/jobs/view/4494439076/): **Palo Alto**, full-time, on-site. Fails the location rule (Dublin counts for summer roles only), so it's capped at 4. Already in seen.json as excluded.
 
 ## Need your call (5s and 4s): files for which?
-- [SpaceX — Security Engineer (Identity and Access Management)](https://job-boards.greenhouse.io/spacex/jobs/8077340002) · Hawthorne · $130–175K · 5: strong IAM topic fit, but requires BS + 2 yrs incl. 1+ yr enterprise IAM.
+- SpaceX Security Engineer (IAM) and SpaceX Embedded OT (5s): came from the same agent run as the missing SpaceX roles; treat as unverified.
 - [CrowdStrike — Engineer II, Software Assurance, Product Security](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328) · Remote US · $100–145K · 5: AppSec/supply-chain fit; Engineer II level, GitHub admin/SCA. Workday close date (Sep 16) passed but it was reposted Nov 25. Verify it's open.
-- [SpaceX — Security Engineer (Embedded OT)](https://job-boards.greenhouse.io/spacex/jobs/8593388002) · Hawthorne · $130–180K · 5: same bar as Embedded & Networking, but OT-focused with extended hours.
 - [Lendistry — Security Engineer I](https://www.builtinla.com/job/security-engineer-i/11823352) · Tustin, in-office · $84–118K · 4: requires 2–4 yrs SOC/IR with SIEM/EDR (his core gaps).
 - [Bechtel — 27 Intern, Cybersecurity Engr](https://www.linkedin.com/jobs/view/4471685146/) · US (various) · 4: Summer 2027 cyber intern, but no SoCal site confirmed.
 
@@ -52,3 +48,26 @@ ATS (ResumeNext) for all three: 63–65. The missing keywords are real gaps (SIE
 ## Sources checked
 Indeed (7 queries), SimplifyJobs feed (0 new), Gmail alerts (Built In: 5 senior roles; Indeed: non-security), target companies (Tevora, Impulse, SpaceX, Trace3), Greenhouse/Lever/Ashby/Workday, Built In LA, USAJobs, CalCareers, governmentjobs.com (OC/LA cities), Wellfound, and the unprocessed inbox/linkedin-2026-11-25-prefs.json (now processed).
 Tip: Panasonic Avionics (Irvine) posts security interns each year. Its 2027 reqs aren't up yet.
+
+## Applications update
+- Ventura Foods — Associate Application Security Engineer: **rejected** (email reported by Brandon 11/26). Tracker and Applications Submitted updated.
+
+## LinkedIn (Mac step)
+Searched the last 7 days (cyber/security intern, security analyst, junior security engineer, SOC, infosec analyst, AppSec × OC/LA/Long Beach + CA remote; plus Bay Area internships). 107 results; 93 triaged out (24 seen, 33 senior, 15 far, 21 non-cyber/physical/dup). His "Jobs based on your preferences" list is empty ("No jobs yet": no LinkedIn job preferences set), so I used "more likely to hear back" instead. Opened 11.
+
+**New summer location rule (Brandon):** Summer positions within ~1 hr of **Dublin, CA** now count. RUNBOOK and profile are updated. Previously excluded Bay Area internships were re-scored below.
+
+### Tailored (6+)
+1. [HPE — Networking & Cybersecurity Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Networking---Cybersecurity-Intern_1214058) · San Jose, on-site · $35–41/hr · **score 6**: networking/IAM/Python/Git match your Networked Systems degree and CommunicAI. It accepts "other accredited ... technical program" and names recent grads. Verified open in Chrome. **Main risk:** no Summer 2027 dates stated, so confirm it's summer. ATS 71. Files: `daily/2026-11-26/hpe-networking-cybersecurity-intern/`
+
+### Need your call (5s and 4s)
+- [Intuit — Summer 2027 SWE Intern, Cybersecurity](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616) · Mountain View hybrid · $45.50–82/hr · 5: AppSec-leaning; needs a "degree-seeking program". Does your certificate count?
+- [TikTok USDS — SWE Intern (Security & Privacy)](https://www.linkedin.com/jobs/view/4459296440/) · San Jose · $45/hr · 5: "currently pursuing a Bachelor's"; dates not stated.
+- [Illumio — Engineering Intern, Security Platforms](https://www.linkedin.com/jobs/view/4494092980/) · San Jose · 5: general SWE; requires full-time bachelor's/master's enrollment.
+- [Lucid — Product Security Engineering Intern](https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007) · Newark · $53–72/hr · 4: great fit, but needs Bachelor's/Master's enrollment with proof.
+- [Aerospace Corp — 2027 Defensive Cyber Operations Undergrad Intern](https://www.linkedin.com/jobs/view/4480682789/) · El Segundo · $25–30/hr · 4: good fit, strict bachelor's enrollment.
+- [LLNL — Cybersecurity Undergrad Intern (CCISI)](https://jobs.smartrecruiters.com/llnl/3743990016984696) · Livermore · $23–32/hr · 4: continuing undergrad only. (A Graduate Intern CCISI posting also exists; not checked.)
+- Intuit Cybersecurity Compliance Intern (4: compliance frameworks gap), HPE Firmware Security Intern (4: kernel/TPM), Arrowhead Analyst II OT (4: 3+ yrs).
+
+### Below 4
+BrilliaCore Security Analyst Intern (HR-consultancy matching posting), Aerospace HW Security Undergrad Intern, Deloitte Cyber ServiceNow Consultant, Bitdeer SecOps Engineer, Collins Cyber SWE II (active clearance), Karman Cyber Resilience (4+ yrs), CrowdStrike Threat Detection Intern (master's only), Google Security Eng Intern (deadline passed).

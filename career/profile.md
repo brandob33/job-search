@@ -25,6 +25,7 @@
 - Based in Costa Mesa, CA
 - On-site/hybrid within ~1 hour commute (Orange County, LA, Long Beach, Inland Empire edge, north San Diego County)
 - Remote roles open to California residents count
+- Summer only: also lives in Dublin, CA (East Bay). Summer positions within ~1 hr of Dublin (Tri-Valley, East Bay, San Jose/Silicon Valley, SF/Peninsula) count. Not for full-time or year-round roles. (Added 2026-11-26)
 
 ## Key Differentiators
 - UCI B.S. Computer Science, specialization in Networked Systems
