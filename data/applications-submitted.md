@@ -25,6 +25,7 @@ Tell Claude whenever you apply (or hear back) and this list, the Career Navigato
 | 19 | 2026-11-23 | Mach Industries | [Security Engineer](https://job-boards.greenhouse.io/machindustries/jobs/4507989009) | Huntington Beach, CA (full-time) | $105K–$150K + equity | Applied | Follow up ~Dec 7 if no response | Applications/Applied/Mach Industries - Security Engineer |
 | 20 | 2026-11-23 | Kaygen, Inc. | [Cyber Threat Intelligence Analyst](https://www.linkedin.com/jobs/view/4491873899/) | Los Angeles, CA (hybrid, contract) | $45–$60/hr | Applied | Follow up ~Dec 7 if no response | Applications/Applied/Kaygen - Cyber Threat Intelligence Analyst |
 | 21 | 2026-11-23 | Armadin | [Attack Operations Center Analyst (Nights/Weekends)](https://jobs.ashbyhq.com/armadin/2a74d689-ffdd-4f0f-8b87-749a51906055) | Remote, US (full-time, nights/weekends) | Salary + equity (not listed) | Rejected | Rejection email Nov 25; no action | Applications/Applied/Armadin - Attack Operations Center Analyst |
+| 22 | 2026-11-25 | Tevora | [Cybersecurity Internship Summer 2027 – Threat](https://jobs.lever.co/tevora/5acd8859-ba7f-4996-9503-13a231376758) | Irvine, CA (on-site) | $27/hr | Applied | Kevin Dick (Director, Threat Services) DM'd; follow up ~Dec 9 if no response | Applications/Applied/Tevora - Threat Intern |
 
 ## Status key
 Applied → Recruiter screen → Interview → Offer / Rejected / Withdrawn

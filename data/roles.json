@@ -2072,14 +2072,16 @@
     "pay": "$27/hr",
     "deadline": "None listed",
     "score": 8,
-    "status": "tailored",
+    "status": "applied",
     "why": "Most technical Tevora track: shadow network and web app pentests, remediation validation and reporting. Same CDP eligibility he already meets; May 31-Aug 6 Summer cohort fits. Not previously posted for Summer.",
     "first_seen": "2026-11-24",
     "source": "Brandon (Kevin Dick LinkedIn post); verified on jobs.lever.co/tevora",
     "verified": true,
     "folder": "Tevora - Threat Intern",
     "files": "daily/2026-11-24/tevora-cyber-intern-threat-su27/",
-    "ats_score": "82"
+    "ats_score": "82",
+    "date_applied": "2026-11-25",
+    "contact": "Kevin Dick, Director Threat Services (LinkedIn DM 2026-11-25)"
   },
   {
     "id": "twitch-sde1-security-platform-irvine",
