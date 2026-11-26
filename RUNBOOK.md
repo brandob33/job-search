@@ -36,7 +36,21 @@ daily/YYYY-MM-DD/                that day's output:
 4. SimplifyJobs GitHub lists (added 2026-11-24 at Brandon's request): run `python3 tools/simplify_feed.py --days 3 --out inbox/simplify-<date>.json`. It reads the structured listings.json behind github.com/SimplifyJobs/New-Grad-Positions and SimplifyJobs/Summer2027-Internships, keeps active security-titled roles in SoCal or remote (US), and skips URLs already in seen.json. Security roles are rare there (a handful a month), mostly "Software Engineer - Security" titles; score them like any other role (SWE-heavy roles usually land 4-6).
 5. Gmail job-alert emails (added 2026-11-24): search `newer_than:2d` from LinkedIn job alerts (jobalerts-noreply@linkedin.com, jobs-listings@linkedin.com), Indeed (match.indeed.com), Handshake (notifications.joinhandshake.com), Built In, Simplify, ZipRecruiter, Glassdoor, Dice. Read each digest with get_thread (bodies are long: strip URLs before reading). Pull only security/cyber/IT-security roles that fit the location rule; ignore retail, driver, and generic SWE matches. Find the posting on the employer's site before scoring (alert links are tracking redirects). Read-only: never reply to, label, or delete these emails.
 Exclude: 4+ yrs required (see Experience rule below), active clearance already required, non-security helpdesk, gig "AI trainer" postings, roles already in data/seen.json (unless the posting materially changed or reopened).
-Verify each new role is open by fetching the posting. Save posting text to the role folder notes.
+Verify each new role is open by fetching the posting (or, for LinkedIn inbox roles, using the Mac run's `description` and `employer_page_open`). Save posting text to the role folder notes.
+
+## 8:10 Mac LinkedIn run: capture full postings (Brandon, 2026-11-25)
+Cloud runs cannot open LinkedIn (robots-blocked) or most ATS pages, so the Mac run (Claude in Chrome, signed in) must capture everything needed to score and tailor. Every run:
+- Search as before (last 7 days; cyber/security internships, security analyst, junior security engineer, SOC analyst; OC, Irvine, Long Beach, LA, plus CA remote). Skip ids already in data/seen.json (git pull first).
+- For EACH new posting, open the job page and record in inbox/linkedin-<date>.json:
+  - `linkedin_job_id`, `linkedin_url`, `company`, `title`, `location`, `work_mode` (onsite/hybrid/remote as shown on the job page), `posted`, `pay` (if shown), `seniority` (LinkedIn label), `applicants` (if shown)
+  - `description`: the FULL "About the job" text, copied verbatim after clicking "See more" (plain text, no truncation, up to ~15,000 chars)
+  - `apply_url`: the employer/ATS URL behind "Apply" (open it and copy the final URL from the address bar; close the tab without submitting anything). Use "easy_apply" if it is LinkedIn Easy Apply only.
+  - `employer_page_open`: true/false/unknown after loading apply_url (false if the ATS says closed/no longer accepting)
+  - `status_note`: anything odd (closed, reposted, staffing agency, clearance required)
+- Read-only: never click Apply/submit, save, message, or follow anything.
+- If a page fails to load or LinkedIn rate-limits, keep going, set `"capture_error": "<what happened>"` on that posting, and still write the file. Cap at ~30 postings; prefer local and intern/entry roles when capping.
+- Commit and push the inbox file to main by 8:30 so the 8:35 cloud run can use it.
+Cloud run: treat `description` as the saved posting text and `employer_page_open` as the open check. Score these roles normally and tailor 6+. Postings with no description stay "unverified" and are listed in the report for Brandon to paste. If today's inbox file is missing at the start, do the other sources first, then `git pull` again before writing the report. If it lands after the report is pushed, process it in a follow-up commit and send an updated report.
 
 ## Experience rule (Brandon, 2026-11-23)
 Brandon counts about 2 years of hands-on security work (labs, projects) and about 4 years of CS work including school. He has no security internships or jobs.
