@@ -1196,5 +1196,104 @@
     "score": 5,
     "url": "https://www.linkedin.com/jobs/view/4495253876/",
     "status": "new"
+  },
+  "general-matter-infosec-engineer-intern-su27": {
+    "first_seen": "2026-11-26",
+    "score": 7,
+    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5448019008",
+    "status": "tailored",
+    "company": "General Matter",
+    "title": "Summer 2027 Internship - Information Security Engineer",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/4487226304/"
+  },
+  "space-kinetic-it-development-program": {
+    "first_seen": "2026-11-26",
+    "score": 6,
+    "url": "https://grnh.se/ibp9y3z08us",
+    "status": "tailored",
+    "company": "Space Kinetic",
+    "title": "IT Development Program (3 Months - Path to Hire)",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/4465084438/"
+  },
+  "10a-labs-research-fellow": {
+    "first_seen": "2026-11-26",
+    "score": 6,
+    "url": "https://grnh.se/jwgqmp859us",
+    "status": "tailored",
+    "company": "10a Labs",
+    "title": "Research Fellow",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/4478619792/"
+  },
+  "fox-technology-internship-su27": {
+    "first_seen": "2026-11-26",
+    "score": 5,
+    "url": "https://www.foxcareers.com/Search/JobDetail/R50033966",
+    "status": "new",
+    "company": "Fox Corporation",
+    "title": "Summer 2027 FOX Technology Internship Program (Cybersecurity track)",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/4472488632/"
+  },
+  "coast-ccd-cybersecurity-apprenticeship": {
+    "first_seen": "2026-11-26",
+    "score": 5,
+    "url": "https://www.governmentjobs.com/jobs/3972933-0/cybersecurity-apprenticeship/",
+    "status": "new",
+    "company": "Coast Community College District",
+    "title": "Cybersecurity Apprenticeship",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/4476445077/"
+  },
+  "cenic-operations-intern": {
+    "first_seen": "2026-11-26",
+    "score": 5,
+    "url": "https://www.linkedin.com/jobs/view/4491517493/",
+    "status": "new",
+    "company": "CENIC",
+    "title": "CENIC Operations Intern",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/4491517493/"
+  },
+  "mitre-cs-se-internships-el-segundo": {
+    "first_seen": "2026-11-26",
+    "score": 4,
+    "url": "https://www.linkedin.com/jobs/view/4461205361/",
+    "status": "excluded",
+    "company": "MITRE",
+    "title": "Internships in Computer Science or Software Engineering",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/4461205361/"
+  },
+  "trace3-innovation-research-intern": {
+    "first_seen": "2026-11-26",
+    "score": 3,
+    "url": "https://www.linkedin.com/jobs/view/4483654197/",
+    "status": "excluded",
+    "company": "Trace3",
+    "title": "Innovation Research Intern",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/4483654197/"
+  },
+  "trinzic-kbr-di-cs-intern": {
+    "first_seen": "2026-11-26",
+    "score": 2,
+    "url": "https://www.linkedin.com/jobs/view/4488074812/",
+    "status": "excluded",
+    "company": "Trinzic (KBR)",
+    "title": "Defense & Intel - Computer Science Internship",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/4488074812/"
+  },
+  "aerospace-sw-systems-acq-grad-intern-2027": {
+    "first_seen": "2026-11-26",
+    "score": 1,
+    "url": "https://www.linkedin.com/jobs/view/4491959576/",
+    "status": "excluded",
+    "company": "The Aerospace Corporation",
+    "title": "2027 Software Systems Engineer and Acquisition Grad Intern",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/4491959576/"
+  },
+  "gi-trmci-paid-intern-su27": {
+    "first_seen": "2026-11-26",
+    "score": 3,
+    "url": "https://www.linkedin.com/jobs/view/4478076563/",
+    "status": "excluded",
+    "company": "General Infomatics (GI)",
+    "title": "TRMCi Paid Intern Program Summer 2027",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/4478076563/"
   }
 }

@@ -1,0 +1,12 @@
+{
+ "date": "November 26, 2026",
+ "company": "10a Labs",
+ "role": "Research Fellow",
+ "greeting": "Dear 10a Labs Team,",
+ "paragraphs": [
+  "I'm applying for the Research Fellow role. Adversarial red teaming and model evaluations for AI systems sit right where my interests in security and AI meet, and I'd like to contribute to the research that helps safety and security teams stay ahead. I finished my B.S. in Computer Science at UC Irvine in June 2026.",
+  "I built and operate CommunicAI, an AI-powered iOS app on the App Store that runs on Gemini Flash and Google Cloud. Shipping it taught me how AI features get abused and how to defend them. I enforce server-side authentication, input validation and per-user and global rate limits, and I verify purchases server-side to stop fraud. I wrote role-based access-control rules that block IDOR, privilege escalation and message spoofing, and I test them with 36 adversarial unit tests. I'm comfortable with prompt engineering and retrieval-augmented generation, and I script in Python.",
+  "I work well independently and can turn messy findings into short, clear write-ups. I'm studying for the CompTIA Security+ exam in January. As captain of UC Irvine's NCAA Division I track and field team, I'm used to managing my own schedule and delivering on time.",
+  "I'd be glad to talk about how I can support your research, and I'm available to start soon, working remotely from Southern California."
+ ]
+}

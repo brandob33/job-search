@@ -1,0 +1,40 @@
+{
+ "headline": "Research Fellow Candidate | AI Security & Trust and Safety",
+ "summary": "Computer Science graduate (B.S., UC Irvine) seeking the 10a Labs Research Fellow role. Built and secure an AI-powered app on Gemini Flash, with abuse prevention, rate limiting and adversarial testing. Python scripting, prompt engineering and RAG; interested in AI red teaming and online threat research.",
+ "skills": [
+  [
+   "AI",
+   "Google Gemini (Gemini Flash), Prompt Engineering, Retrieval-Augmented Generation (RAG), ETL & Data Engineering"
+  ],
+  [
+   "Security",
+   "Abuse Prevention & Rate Limiting, IAM, OAuth 2.0 / OIDC, RBAC, Input Validation, SQL Injection, XSS, CSRF, MITM"
+  ],
+  [
+   "Languages & Scripting",
+   "Python, JavaScript / Node.js, SQL, Swift, C/C++, Java"
+  ],
+  [
+   "Tools",
+   "Burp Suite, Wireshark, Docker, Git, Firebase App Check (App Attest)"
+  ],
+  [
+   "Cloud",
+   "Google Cloud Platform (Firebase, Cloud Functions), AWS, DynamoDB"
+  ],
+  [
+   "Cryptography",
+   "RSA, Elliptic-Curve Cryptography (ECC), SHA-256 Hashing, TLS"
+  ]
+ ],
+ "communicai_bullets": [
+  "Built server-authoritative Cloud Functions enforcing authentication, input validation, and per-user and global rate limiting (5 rewrites per user/day); added server-side Apple receipt verification to prevent subscription fraud.",
+  "Designed role-based access-control rules that block insecure direct object references (IDOR), privilege escalation, and message spoofing; validated with 36 adversarial unit tests.",
+  "Implemented multi-provider authentication (Sign in with Apple with nonce + SHA-256 hashing, Google OAuth, and email/password with server-enforced verification) and Firebase App Check (App Attest) on every backend request.",
+  "Implemented privacy controls including full account and data deletion and scheduled data-retention cleanup, and kept all credentials and secrets out of version control."
+ ],
+ "coursework": "Relevant Coursework: Security and Privacy, Computer Networks, Operating Systems, Software Engineering",
+ "replace": {
+  "Run front-of-house service (expediting, to-go orders, bussing, and direct customer interaction).": "Handle front-of-house service, including expediting, to-go orders, bussing, and direct customer interaction."
+ }
+}
