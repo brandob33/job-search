@@ -35,6 +35,9 @@ daily/YYYY-MM-DD/                that day's output:
 3. `inbox/linkedin-*.json` written by the Mac step (any not yet processed), plus any unprocessed `inbox/simplify-*.json` and `inbox/gmail-*.json`; set "processed": true after scoring.
 4. SimplifyJobs GitHub lists (added 2026-11-24 at Brandon's request): run `python3 tools/simplify_feed.py --days 3 --out inbox/simplify-<date>.json`. It reads the structured listings.json behind github.com/SimplifyJobs/New-Grad-Positions and SimplifyJobs/Summer2027-Internships, keeps active security-titled roles in SoCal or remote (US), and skips URLs already in seen.json. Security roles are rare there (a handful a month), mostly "Software Engineer - Security" titles; score them like any other role (SWE-heavy roles usually land 4-6).
 5. Gmail job-alert emails (added 2026-11-24): search `newer_than:2d` from LinkedIn job alerts (jobalerts-noreply@linkedin.com, jobs-listings@linkedin.com), Indeed (match.indeed.com), Handshake (notifications.joinhandshake.com), Built In, Simplify, ZipRecruiter, Glassdoor, Dice. Read each digest with get_thread (bodies are long: strip URLs before reading). Pull only security/cyber/IT-security roles that fit the location rule; ignore retail, driver, and generic SWE matches. Find the posting on the employer's site before scoring (alert links are tracking redirects). Read-only: never reply to, label, or delete these emails.
+6. Government boards (added 2026-11-26, from Career Navigator search-jobs): USAJobs (keywords: cybersecurity, information security, IT specialist INFOSEC, Pathways student intern; locations: Orange County, Los Angeles, Long Beach, Seal Beach, El Segundo/LA AFB, remote), CalCareers (calcareers.ca.gov: Information Technology Associate/Specialist I with security focus, Information Security Officer trainee), and county/city boards on governmentjobs.com (Orange County, City of Irvine, Costa Mesa, Anaheim, Santa Ana, Huntington Beach, Long Beach, LA County, City of LA) for IT security, cyber and information security intern/analyst roles. Many of these state a close date: record it as the deadline. Note citizenship or clearance-eligibility lines (he's a US citizen, clearance-eligible).
+7. Target companies (added 2026-11-26): check each company in career/profile.md "Target Companies" every run for new security/IT-security internship or entry roles, directly on its careers/ATS page (Greenhouse/Lever/Workday/Pinpoint `site:` queries if the page can't be fetched). Already-applied requisitions stay skipped via seen.json; new reqs at these companies get a one-line "Target company" tag in the report.
+8. Wellfound (added 2026-11-26): search wellfound.com for security engineer/analyst intern or junior roles, LA/OC or remote-US. Startup listings often lack pay or level: score what's there and flag missing fields. Expect few hits.
 Exclude: 4+ yrs required (see Experience rule below), active clearance already required, non-security helpdesk, gig "AI trainer" postings, roles already in data/seen.json (unless the posting materially changed or reopened).
 Verify each new role is open by fetching the posting (or, for LinkedIn inbox roles, the Mac step's saved `description`). Save posting text to the role folder notes.
 
@@ -54,16 +57,17 @@ There is ONE scheduled task, "Job search (daily, Mac)", at 8:34 Pacific. It is t
 If Brandon never replies, Part A was the day's run (no LinkedIn).
 One-off postings: when Brandon pastes posting text in chat, score it like any role (cheapest path, no browser).
 
-## Experience rule (Brandon, 2026-11-23)
+## Experience rule (Brandon, 2026-11-23; loosened 2026-11-26)
 Brandon counts about 2 years of hands-on security work (labs, projects) and about 4 years of CS work including school. He has no security internships or jobs.
-- Don't exclude roles that ask for up to 3 years, or "1-3 years" / "X years or equivalent". Score them normally. Seniority fit gets a deduction when the posting clearly means paid work experience; say so in the why.
+- Score leniently (Brandon, 2026-11-26): unless a posting REQUIRES 4+ years, do not let years of experience drag the score down. Up to 3 years required (including "1-3 years", "2+ years", "3 years or equivalent"): at most -1 total for seniority, and none when the posting allows equivalent experience, projects or education. "Preferred" years never cost points.
 - Exclude only when 4+ years are required, or the posting requires prior professional security employment with no equivalent allowed.
+- When a skill or tool is "preferred"/"nice to have", missing it costs little. Judge required quals generously when his projects or coursework plausibly cover them (e.g., "experience with access control" is met by CommunicAI).
 - Never write a years-of-experience number on a resume or cover letter. The resume claims only what is in ExperienceLibrary.json.
 
 ## Scoring (1-10)
 Weights: Required quals met 40% | Keyword/skill match 25% | Eligibility (location, enrollment/grad window, citizenship) 20% | Seniority fit 15%.
 - Hard eligibility fail (e.g., requires active TS clearance, must graduate between dates he can't meet and posting is strict, >1hr onsite) -> cap at 4 and say why.
-- Grad-window mismatch where posting says "currently enrolled" -> he qualifies (certificate program). Where it says "pursuing a bachelor's" -> flag, -1.
+- Grad-window mismatch where posting says "currently enrolled" -> he qualifies (certificate program). Where it says "pursuing a bachelor's" -> flag it, no deduction unless the posting is strict about it.
 - AppSec/product security/IAM roles usually fit better than pure SOC roles; score honestly.
 Record in notes.md: score, 2-line why, matched keywords, missing keywords, eligibility flags.
 

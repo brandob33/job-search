@@ -12,7 +12,11 @@
 - Spring 2027 part-time internships only if low-hour / flexible around school and track
 
 ## Target Companies
-(none specified yet)
+- Tevora (all CDP tracks applied 2026)
+- Impulse Space
+- SpaceX
+- Trace3
+(Brandon can add more; the daily run checks these every day)
 
 ## Compensation Floor
 - Open to paid and unpaid roles
