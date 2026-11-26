@@ -2458,6 +2458,31 @@
     "status": "tailored",
     "files": "daily/2026-11-25/opensesame-security-compliance-intern-su27/",
     "folder": "OpenSesame - Security and Compliance Intern",
-    "main_risk": "Must submit a <=5 min YouTube video; no GRC tool/framework experience."
+    "main_risk": "Must submit a <=5 min YouTube video; no GRC tool/framework experience.",
+    "note": "Resume/CL updated 2026-11-25 for CommunicAI = AI-powered (Gemini Flash)."
+  },
+  {
+    "id": "impulse-space-it-service-delivery-intern-su27",
+    "company": "Impulse Space",
+    "title": "Information Technology Intern, Service Delivery (Summer 2027)",
+    "location": "Redondo Beach, CA",
+    "work_mode": "onsite",
+    "type": "internship",
+    "season": "Summer 2027",
+    "pay": "$30/hr",
+    "deadline": "None listed",
+    "url": "https://impulsespace.pinpointhq.com/postings/6ca1131c-5fc0-4f79-ade9-245d225f0f8e/applications/new",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/4495235756/",
+    "source": "LinkedIn preferences feed (Mac live session)",
+    "verified": true,
+    "verified_on": "2026-11-25",
+    "score": 6,
+    "why": "Local paid IT internship fitting his networking background; IT ops, not security.",
+    "main_risk": "No hands-on IT support/imaging/VLAN/ticketing experience.",
+    "ats_score": "70",
+    "first_seen": "2026-11-25",
+    "status": "tailored",
+    "files": "daily/2026-11-25/impulse-space-it-service-delivery-intern-su27/",
+    "folder": "Impulse Space - IT Service Delivery Intern"
   }
 ]

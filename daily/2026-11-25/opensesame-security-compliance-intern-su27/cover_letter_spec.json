@@ -1,6 +1,12 @@
-{"date":"November 25, 2026","company":"OpenSesame","role":"Security and Compliance Internship - Summer 2027","greeting":"Dear OpenSesame Security and Compliance Team,",
-"paragraphs":[
-"I'm applying for the Summer 2027 Security and Compliance Internship. I want to start my career in security, and your team covers the parts I most want to learn: ISO 27001 and SOC 2 compliance, audit evidence, vendor risk and security awareness. I also like that you treat AI as part of how the work gets done, not a side topic. I finished my B.S. in Computer Science at UC Irvine in June 2026, so I'm within your 12-month window.",
-"The closest I've come to compliance work is owning the security and privacy controls of CommunicAI, an iOS app I built and still operate on the App Store. I implemented full account and data deletion and automated, scheduled data-retention cleanup, and I keep all credentials and secrets out of version control. I wrote role-based access-control rules that block IDOR, privilege escalation and message spoofing, and I check them with 36 adversarial unit tests. I also built the app's authentication with Sign in with Apple, Google OAuth and verified email/password. That work taught me to think about what a control promises and how to show it actually holds, which is a lot of what audit evidence is.",
-"I build with AI regularly, including prompt engineering and retrieval-augmented generation, and I'd enjoy finding a compliance workflow where it saves real time. I'm studying for the CompTIA Security+ exam in January. As captain of UC Irvine's NCAA Division I track and field team, I'm used to managing a full schedule and delivering on deadlines.",
-"I'm available full-time, remotely, for the June 17 to August 28 program, and I'd be glad to talk more."]}
+{
+ "date": "November 25, 2026",
+ "company": "OpenSesame",
+ "role": "Security and Compliance Internship - Summer 2027",
+ "greeting": "Dear OpenSesame Security and Compliance Team,",
+ "paragraphs": [
+  "I'm applying for the Summer 2027 Security and Compliance Internship. I want to start my career in security, and your team covers the parts I most want to learn: ISO 27001 and SOC 2 compliance, audit evidence, vendor risk and security awareness. I also like that you treat AI as part of how the work gets done, not a side topic. I finished my B.S. in Computer Science at UC Irvine in June 2026, so I'm within your 12-month window.",
+  "The closest I've come to compliance work is owning the security and privacy controls of CommunicAI, an AI-powered iOS app I built and still operate on the App Store, running on Gemini Flash and Google Cloud. I implemented full account and data deletion and automated, scheduled data-retention cleanup, and I keep all credentials and secrets out of version control. I wrote role-based access-control rules that block IDOR, privilege escalation and message spoofing, and I check them with 36 adversarial unit tests. That work taught me to think about what a control promises and how to show it actually holds, which is a lot of what audit evidence is.",
+  "Building CommunicAI on Gemini Flash is also how I learned to work with AI day to day, including prompt engineering, and it would make a natural demo for the creative project. I'd enjoy finding a compliance workflow where AI saves real time. I'm studying for the CompTIA Security+ exam in January, and as captain of UC Irvine's NCAA Division I track and field team, I'm used to managing a full schedule and delivering on deadlines.",
+  "I'm available full-time, remotely, for the June 17 to August 28 program, and I'd be glad to talk more."
+ ]
+}

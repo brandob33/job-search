@@ -1,6 +1,6 @@
 {
  "headline": "Security and Compliance Intern Candidate | Cyber Security Analyst",
- "summary": "Computer Science graduate (UC Irvine, 2026) seeking OpenSesame's remote Summer 2027 Security and Compliance Internship. Built and operate a production iOS app, owning its security and privacy controls: access control, authentication, data deletion, and retention. Builds with AI (prompt engineering, RAG); eager to learn ISO 27001 and SOC 2 compliance.",
+ "summary": "Computer Science graduate (UC Irvine, 2026) seeking OpenSesame's remote Summer 2027 Security and Compliance Internship. Built and operate an AI-powered iOS app (Gemini Flash on Google Cloud), owning its security and privacy controls: access control, authentication, data deletion, and retention. Eager to learn ISO 27001 and SOC 2.",
  "skills": [
   [
    "Security",
@@ -8,7 +8,7 @@
   ],
   [
    "Data & AI",
-   "Prompt Engineering, Retrieval-Augmented Generation (RAG), ETL & Data Engineering, Feature Engineering"
+   "Google Gemini (Gemini Flash), Prompt Engineering, Retrieval-Augmented Generation (RAG), ETL & Data Engineering"
   ],
   [
    "Cryptography",

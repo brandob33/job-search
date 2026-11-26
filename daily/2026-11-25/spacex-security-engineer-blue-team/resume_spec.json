@@ -1,0 +1,40 @@
+{
+ "headline": "Security Engineer Candidate | Blue Team | Detection & Automation",
+ "summary": "Computer Science graduate (B.S., UC Irvine, Networked Systems) seeking the SpaceX Security Engineer (Blue Team) role in Hawthorne. Builds Python and Node.js automation and ETL pipelines and owns the security of a production AI iOS app. Eager to grow in threat detection, incident response, and security operations.",
+ "skills": [
+  [
+   "Languages",
+   "Python, C/C++, JavaScript / Node.js, Java, Swift, SQL"
+  ],
+  [
+   "Data & Automation",
+   "ETL Pipelines & Data Engineering, Feature Engineering, Serverless Automation (Cloud Functions), REST APIs, Gemini Flash"
+  ],
+  [
+   "Security",
+   "Packet Analysis, MITM, ARP Poisoning, DNS Spoofing, SQL Injection, XSS, CSRF, Buffer Overflow, IAM, OAuth 2.0 / OIDC, RBAC, Rate Limiting, Secrets Management"
+  ],
+  [
+   "Security & Networking Tools",
+   "Wireshark, Burp Suite, Docker, Git, Firebase App Check (App Attest)"
+  ],
+  [
+   "Cloud & Databases",
+   "AWS, Google Cloud Platform (Firebase, Firestore), DynamoDB, SQL (MySQL), MongoDB, Redis"
+  ],
+  [
+   "Cryptography",
+   "RSA, Elliptic-Curve Cryptography (ECC), SHA-256 Hashing, TLS"
+  ]
+ ],
+ "communicai_bullets": [
+  "Built server-authoritative Cloud Functions enforcing authentication, input validation, and per-user and global rate limiting (5 rewrites per user/day); added server-side Apple receipt verification to detect and block subscription fraud.",
+  "Designed role-based access-control rules that block insecure direct object references (IDOR), privilege escalation, and message spoofing; validated with 36 adversarial unit tests.",
+  "Implemented multi-provider authentication (Sign in with Apple with nonce + SHA-256 hashing, Google OAuth, and email/password with server-enforced verification) and Firebase App Check (App Attest) on every backend request.",
+  "Implemented privacy controls including full account and data deletion and scheduled data-retention cleanup, and kept all credentials and secrets out of version control."
+ ],
+ "coursework": "Relevant Coursework: Security and Privacy, Computer Networks, Operating Systems, Software Engineering",
+ "replace": {
+  "Run front-of-house service (expediting, to-go orders, bussing, and direct customer interaction).": "Handle front-of-house service, including expediting, to-go orders, bussing, and direct customer interaction."
+ }
+}

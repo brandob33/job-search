@@ -1,0 +1,12 @@
+{
+ "date": "November 25, 2026",
+ "company": "Impulse Space",
+ "role": "Information Technology Intern, Service Delivery (Summer 2027)",
+ "greeting": "Dear Impulse Space IT Service Delivery Team,",
+ "paragraphs": [
+  "I'm applying for the Summer 2027 IT Service Delivery Internship in Redondo Beach. I want hands-on time with the systems that keep a spacecraft company running: networks, end-user devices and the processes behind onboarding and support. I'm local to Irvine/Orange County, a U.S. citizen, and I finished my B.S. in Computer Science at UC Irvine with a specialization in Networked Systems.",
+  "My networking background comes from coursework in Computer Networks and Operating Systems and from lab work with Wireshark, where I captured and analyzed traffic to study DNS, TLS, MITM and ARP poisoning. I've also run a production system end to end. I built and operate CommunicAI, an AI-powered iOS app on the App Store that runs on Gemini Flash and Google Cloud. I own its account access: sign-in with Apple, Google and verified email, role-based access rules tested with 36 adversarial unit tests, and full account deletion. Keeping that running has meant a lot of troubleshooting, plus writing Node.js Cloud Functions to automate routine work like scheduled data cleanup.",
+  "I like work where details matter and people are counting on you. As captain of UC Irvine's NCAA Division I track and field team, I coordinate with coaches and teammates every day, and in restaurant jobs I trained new crew members and kept service accurate during rushes. I'm also studying for the CompTIA Security+ exam in January.",
+  "I'm available for the full 12-week Summer 2027 program on-site in Redondo Beach, and I'd welcome the chance to talk about how I can support your team."
+ ]
+}

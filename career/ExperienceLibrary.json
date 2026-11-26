@@ -55,6 +55,7 @@
         "REST APIs"
       ],
       "Data & AI": [
+        "Google Gemini (Gemini Flash)",
         "ETL & Data Engineering",
         "Feature Engineering",
         "Retrieval-Augmented Generation (RAG)",
@@ -87,6 +88,11 @@
         "date": "2026-11-25",
         "source": "Brandon (chat)",
         "text": "Has experience with DynamoDB, AWS, AI, and Twitch (streaming and viewing). Added AWS and DynamoDB to skills_section. No project details given yet, so no bullets. Twitch familiarity is for cover letters only."
+      },
+      {
+        "date": "2026-11-25",
+        "source": "Brandon (chat)",
+        "text": "CommunicAI uses AI: Google Gemini Flash on Google Cloud. Resume may call CommunicAI AI-powered and list Gemini Flash."
       }
     ]
   },
@@ -97,7 +103,7 @@
       "company": "CommunicAI (personal project)",
       "title": "Developer — iOS Application (Live on the App Store)",
       "dates": "2025 – Present",
-      "summary": "Production iOS app built in Swift on Firebase / Google Cloud with Node.js Cloud Functions; owned authentication, access control, input validation and abuse prevention.",
+      "summary": "Production AI-powered iOS app built in Swift on Firebase / Google Cloud with Node.js Cloud Functions, using Google Gemini Flash; owned authentication, access control, input validation and abuse prevention.",
       "achievements": [
         {
           "id": "exp-communicai-a1",
@@ -139,7 +145,9 @@
         "Secure SDLC",
         "IDOR prevention",
         "Fraud prevention",
-        "Data retention / privacy"
+        "Data retention / privacy",
+        "Google Gemini (Gemini Flash)",
+        "Generative AI integration"
       ]
     },
     {

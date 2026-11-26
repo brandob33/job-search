@@ -1086,9 +1086,12 @@
   },
   "spacex-security-engineer-blue-team": {
     "first_seen": "2026-11-25",
-    "score": null,
-    "url": "https://www.linkedin.com/jobs/view/4434081376/",
-    "status": "unverified"
+    "score": 6,
+    "url": "https://boards.greenhouse.io/spacex/jobs/8611223002",
+    "status": "tailored",
+    "company": "SpaceX",
+    "title": "Security Engineer (Blue Team)",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/4434081376/"
   },
   "shaarpro-network-security-engineer": {
     "first_seen": "2026-11-25",
@@ -1131,5 +1134,23 @@
     "company": "OpenSesame",
     "title": "Security and Compliance Internship - Summer 2027",
     "linkedin_url": "https://www.linkedin.com/jobs/view/4495243905/"
+  },
+  "impulse-space-it-service-delivery-intern-su27": {
+    "first_seen": "2026-11-25",
+    "score": 6,
+    "url": "https://impulsespace.pinpointhq.com/postings/6ca1131c-5fc0-4f79-ade9-245d225f0f8e/applications/new",
+    "status": "tailored",
+    "company": "Impulse Space",
+    "title": "Information Technology Intern, Service Delivery (Summer 2027)",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/4495235756/"
+  },
+  "northrop-associate-cyber-systems-engineer-sd-2027": {
+    "first_seen": "2026-11-25",
+    "score": 3,
+    "url": "https://www.linkedin.com/jobs/view/4494489371/",
+    "status": "excluded",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Cyber Systems Engineer - San Diego",
+    "reason": "Requires ACTIVE Secret clearance at start; San Diego >1hr"
   }
 }

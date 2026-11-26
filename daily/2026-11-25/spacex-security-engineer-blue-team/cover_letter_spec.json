@@ -1,0 +1,12 @@
+{
+ "date": "November 25, 2026",
+ "company": "SpaceX",
+ "role": "Security Engineer (Blue Team)",
+ "greeting": "Dear SpaceX Security Operations Team,",
+ "paragraphs": [
+  "I'm applying for the Security Engineer (Blue Team) role in Hawthorne. Building the detection tooling and data pipelines that let a SOC catch real adversaries, in an environment that launches rockets, is the defensive work I most want to do. I finished my B.S. in Computer Science at UC Irvine, specializing in Networked Systems, I'm local to Irvine/Orange County, and I'm a U.S. citizen.",
+  "I write Python and Node.js regularly, and I've worked with ETL and data-engineering pipelines. I also built and operate CommunicAI, an AI-powered iOS app on the App Store running on Gemini Flash and Google Cloud, and I own its security. My server-authoritative Cloud Functions enforce authentication, input validation and rate limiting, and they verify Apple receipts server-side to catch subscription fraud. I wrote role-based access-control rules that block IDOR, privilege escalation and message spoofing, and 36 adversarial unit tests try to break them. Thinking like an attacker to find where a control fails is the habit I'd bring to detection engineering and adversary emulation.",
+  "On the offensive side, I've used Wireshark and Burp Suite in labs to study MITM, ARP poisoning, DNS spoofing, SQL injection and XSS, including what each attack leaves behind. I haven't run a SIEM or worked an incident professionally yet. I'm studying for the CompTIA Security+ exam in January, and I learn quickly under pressure. As captain of UC Irvine's NCAA Division I track and field team, I'm used to long days and weekend commitments.",
+  "I'd welcome the chance to help the Blue Team close visibility gaps, and I'm ready to work fully on-site, including extended hours when the mission needs it."
+ ]
+}

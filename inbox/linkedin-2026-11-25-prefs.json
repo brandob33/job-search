@@ -52,7 +52,8 @@
       "notes": "$30/hr; IT not security",
       "seen_in_earlier_inbox": false,
       "source_list": "LinkedIn 'Jobs based on your preferences'",
-      "quick_score": 6
+      "quick_score": 6,
+      "already_tailored": true
     },
     {
       "linkedin_job_id": "4471685146",

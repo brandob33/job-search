@@ -14,3 +14,5 @@ Matched keywords: Security and Compliance Internship, OpenSesame, Summer 2027, r
 Missing keywords (not added): Drata, evidence collection, vendor risk, GDPR, Trust Center, phishing simulation, security awareness, JIRA, Confluence, B2B SaaS, Claude
 ATS (ResumeNext): 66. The missing terms are real gaps. Structure deductions come from the base resume.
 Resume: 1 page (render-checked).
+
+Update 2026-11-25: Brandon confirmed CommunicAI uses AI (Gemini Flash on Google Cloud). The resume now calls it AI-powered and lists Gemini Flash, and the cover letter points to it as a creative-project demo.
