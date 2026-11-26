@@ -1,0 +1,40 @@
+{
+ "headline": "Security and Compliance Intern Candidate | Cyber Security Analyst",
+ "summary": "Computer Science graduate (UC Irvine, 2026) seeking OpenSesame's remote Summer 2027 Security and Compliance Internship. Built and operate a production iOS app, owning its security and privacy controls: access control, authentication, data deletion, and retention. Builds with AI (prompt engineering, RAG); eager to learn ISO 27001 and SOC 2 compliance.",
+ "skills": [
+  [
+   "Security",
+   "Access Control (RBAC), IAM, OAuth 2.0 / OIDC, Data Privacy & Retention, Secrets Management, Secure SDLC, Input Validation, Rate Limiting, SQL Injection, XSS, CSRF, Packet Analysis"
+  ],
+  [
+   "Data & AI",
+   "Prompt Engineering, Retrieval-Augmented Generation (RAG), ETL & Data Engineering, Feature Engineering"
+  ],
+  [
+   "Cryptography",
+   "RSA, Elliptic-Curve Cryptography (ECC), SHA-256 Hashing, TLS"
+  ],
+  [
+   "Security & Networking Tools",
+   "Wireshark, Burp Suite, Firebase App Check (App Attest), Docker, Git"
+  ],
+  [
+   "Cloud & Backend",
+   "AWS, Google Cloud Platform (Firebase, Firestore, Cloud Functions), Serverless Architecture, REST APIs"
+  ],
+  [
+   "Languages",
+   "Python, JavaScript / Node.js, Swift, C/C++, Java, SQL"
+  ]
+ ],
+ "communicai_bullets": [
+  "Implemented privacy controls including full account and data deletion and scheduled data-retention cleanup, and kept all credentials and secrets out of version control.",
+  "Designed role-based access-control rules that block insecure direct object references (IDOR), privilege escalation, and message spoofing; validated with 36 adversarial unit tests.",
+  "Implemented multi-provider authentication (Sign in with Apple with nonce + SHA-256 hashing, Google OAuth, and email/password with server-enforced verification) and Firebase App Check (App Attest) on every backend request.",
+  "Built server-authoritative Cloud Functions enforcing authentication, input validation, and per-user and global rate limiting (5 rewrites per user/day); added server-side Apple receipt verification to prevent subscription fraud."
+ ],
+ "coursework": "Relevant Coursework: Security and Privacy, Computer Networks, Operating Systems, Software Engineering",
+ "replace": {
+  "Run front-of-house service (expediting, to-go orders, bussing, and direct customer interaction).": "Handle front-of-house service, including expediting, to-go orders, bussing, and direct customer interaction."
+ }
+}

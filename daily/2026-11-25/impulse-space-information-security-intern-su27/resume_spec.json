@@ -1,0 +1,40 @@
+{
+ "headline": "Information Security Intern Candidate | Cyber Security Analyst",
+ "summary": "Computer Science graduate (B.S., UC Irvine) seeking the Impulse Space Summer 2027 Information Security Internship in Redondo Beach. Built and operate a production iOS app, owning its authentication, access-control policy, and abuse prevention. Eager to build skills in security operations, vulnerability management, and compliance.",
+ "skills": [
+  [
+   "Security",
+   "Authentication, Access Control (RBAC), IAM, OAuth 2.0 / OIDC, Input Validation, Secure SDLC, Rate Limiting, Secrets Management, Packet Analysis, MITM, ARP Poisoning, DNS Spoofing, SQL Injection, XSS, CSRF"
+  ],
+  [
+   "Cryptography / Encryption",
+   "Encryption: RSA, Elliptic-Curve Cryptography (ECC), SHA-256 Hashing, TLS"
+  ],
+  [
+   "Security & Networking Tools",
+   "Wireshark, Burp Suite, Firebase App Check (App Attest), Docker, Git"
+  ],
+  [
+   "Languages",
+   "Python, JavaScript / Node.js, Swift, C/C++, Java, SQL"
+  ],
+  [
+   "Cloud & Backend",
+   "AWS, Google Cloud Platform (Firebase, Firestore, Cloud Functions), Serverless Architecture, REST APIs"
+  ],
+  [
+   "Databases",
+   "DynamoDB, SQL (MySQL), MongoDB, Redis"
+  ]
+ ],
+ "communicai_bullets": [
+  "Implemented multi-provider authentication (Sign in with Apple with nonce + SHA-256 hashing, Google OAuth, and email/password with server-enforced verification) and Firebase App Check (App Attest) on every backend request.",
+  "Designed role-based access-control policy rules that block vulnerabilities such as insecure direct object references (IDOR), privilege escalation, and message spoofing; validated the controls with 36 adversarial unit tests.",
+  "Built server-authoritative Cloud Functions enforcing authentication, input validation, and per-user and global rate limiting (5 rewrites per user/day); added server-side Apple receipt verification to prevent subscription fraud.",
+  "Implemented privacy controls including full account and data deletion and scheduled data-retention cleanup, and kept all credentials and secrets out of version control."
+ ],
+ "coursework": "Relevant Coursework: Security and Privacy, Computer Networks, Operating Systems, Software Engineering",
+ "replace": {
+  "Run front-of-house service (expediting, to-go orders, bussing, and direct customer interaction).": "Handle front-of-house service, including expediting, to-go orders, bussing, and direct customer interaction."
+ }
+}
