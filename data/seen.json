@@ -800,12 +800,12 @@
   },
   "crowdstrike-product-eng-intern-threat-detection": {
     "first_seen": "2026-11-23",
-    "score": 4,
-    "url": "https://www.linkedin.com/jobs/view/4492645361/",
-    "status": "new",
+    "score": 3,
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Threat-Detection_R30621",
+    "status": "excluded",
     "company": "CrowdStrike",
     "title": "Product Engineering Intern - Threat Detection",
-    "reason": "Sunnyvale (>1 hr) caps it at 4; couldn't open the posting."
+    "reason": "Sunnyvale/Redmond hybrid 3 days; already seen (score 4) — location fails"
   },
   "intuit-swe-intern-cybersecurity-su27": {
     "first_seen": "2026-11-23",
@@ -1158,5 +1158,37 @@
     "company": "Northrop Grumman",
     "title": "2027 Associate Cyber Systems Engineer - San Diego",
     "reason": "Requires ACTIVE Secret clearance at start; San Diego >1hr"
+  },
+  "crowdstrike-product-eng-intern-falcon-guardian": {
+    "first_seen": "2026-11-26",
+    "score": 3,
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Falcon-Guardian_R30622",
+    "status": "excluded",
+    "company": "CrowdStrike",
+    "reason": "Grad window Dec 2027–Spring 2028 (4-yr enrollment); Sunnyvale/Redmond hybrid"
+  },
+  "crowdstrike-insider-risk-engineering-intern-su27": {
+    "first_seen": "2026-11-26",
+    "score": 3,
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Insider-Risk-Engineering-Intern---Summer-2027_R30718",
+    "status": "excluded",
+    "company": "CrowdStrike",
+    "reason": "Grad window Dec 2027–Dec 2028; Arlington/Redmond/Sunnyvale"
+  },
+  "crowdstrike-global-public-sector-launch-intern-su27": {
+    "first_seen": "2026-11-26",
+    "score": 1,
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Global-Public-Sector-Launch-Intern---Summer-2027_R30598",
+    "status": "excluded",
+    "company": "CrowdStrike",
+    "reason": "Business/econ role; grad 2029–2030"
+  },
+  "crowdstrike-security-advisor-i-falcon-complete-remote": {
+    "first_seen": "2026-11-26",
+    "score": 3,
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Security-Advisor-I--Falcon-Complete--Remote-_R30838",
+    "status": "excluded",
+    "company": "CrowdStrike",
+    "reason": "2+ yrs professional cyber + certs (SANS/ISC2) required; customer-facing; $85–120K"
   }
 }
