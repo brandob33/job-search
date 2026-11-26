@@ -1,0 +1,12 @@
+{
+ "date": "November 26, 2026",
+ "company": "Lucid Motors",
+ "role": "Product Security Engineering Intern, Summer 2027",
+ "greeting": "Dear Lucid Product Security Team,",
+ "paragraphs": [
+  "A red team that assesses both vehicle systems and the applications around them is the kind of team I want to learn from, and the internship leans on building tools, which is what I enjoy most. I'm applying for the Product Security Engineering Intern role in Newark. I studied Computer Science at UC Irvine (Networked Systems) and I'm currently enrolled in UCI's certificate program. I spend summers in Dublin, CA, within commuting distance of Newark.",
+  "Most of my hands-on security work is on CommunicAI, an AI-powered iOS app I built and still operate on the App Store, running on Gemini Flash and Google Cloud. I own its security end to end. I wrote role-based access-control rules meant to stop IDOR, privilege escalation and message spoofing, then wrote 36 adversarial unit tests to try to break them. My server-side Cloud Functions are the app's backend API: they enforce authentication, input validation and rate limiting and verify Apple receipts to block subscription fraud. Writing both the controls and the attacks against them is the closest thing I have to your vulnerability validation work.",
+  "In coursework and labs I used Burp Suite and Wireshark to carry out SQL injection, XSS, MITM, ARP poisoning and DNS spoofing, and I've studied buffer overflow attacks. I program in Python, C/C++, JavaScript and Java and use Git and Docker. I haven't done fuzzing, static analysis or firmware work yet, and I'd be glad to start there. I'm also preparing for the CompTIA Security+ exam in January 2027. As captain of UC Irvine's NCAA Division I track and field team, I'm used to explaining problems clearly and working through them with others.",
+  "I'd welcome the chance to build tools for your assessments. I'm available for a 12-week internship in Summer 2027."
+ ]
+}

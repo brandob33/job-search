@@ -1,0 +1,13 @@
+Security Engineer I — B.S.D. Capital, Inc. dba Lendistry
+Source: https://www.builtinla.com/job/security-engineer-i/11823352 (fetched 2026-11-26; text condensed by fetch tool). Also listed on https://builtin.com/company/b-s-d-capital-inc-dba-lendistry/jobs among current jobs.
+Employer ATS (board only; req not visible to fetch tool, JS-rendered): https://lendistry.wd108.myworkdayjobs.com/Careers_Join_Us
+Location: In-office — 1735 Flight Way, Suite #450, Tustin, CA 92782; also Los Angeles, CA
+Pay: $84,000–$118,000 base (variable comp not included)
+Level (Built In): mid. Posted ~12 days ago ("Be an Early Applicant").
+
+Responsibilities: monitor and triage security alerts from SIEM, EDR, email security and cloud tools; lead incident response playbooks, document timelines/evidence, maintain incident records; provide status updates to stakeholders; maintain playbooks and tune SIEM/EDR detections; run vulnerability scanning and track remediation SLAs; support vendor security assessments and audit evidence collection (SOC 2, ISO 27001); build security metrics; automate repetitive tasks with scripting.
+
+Required: 2–4 years in cybersecurity engineering, SOC operations or incident response; hands-on SIEM and EDR for triage/investigation; NIST SP 800-61 and MITRE ATT&CK; AWS and/or Azure security services and cloud logging; vulnerability management incl. CVSS; SOC 2 and ISO 27001; basic Python/PowerShell scripting; strong communication.
+Preferred: Bachelor's or equivalent; Security+, CySA+, GCIH, SC-200 or AWS Security Specialty.
+Benefits: medical, dental, vision, 401(k) match, PTO.
+Status: Built In page loads, no closed/expired notice, "Posted 12 Days Ago / Be an Early Applicant"; Lendistry company page on builtin.com lists it as a current job. No Apply button visible to fetch tool (Built In requires login to apply).

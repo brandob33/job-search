@@ -1,0 +1,40 @@
+{
+ "headline": "Cybersecurity Analyst Candidate | Identity, Network & Cloud Security",
+ "summary": "Computer Science graduate (B.S., UC Irvine, Networked Systems) seeking the Stand8 Cybersecurity Analyst role in Commerce. Secured authentication and cloud infrastructure for a live app: SSO/OAuth, role-based access control, rate limiting. Studies network attacks (DNS, MITM); Security+ exam January 2027.",
+ "skills": [
+  [
+   "Identity & Access",
+   "OAuth 2.0 / OIDC, IAM, RBAC, Firebase App Check (App Attest), Secrets Management, Rate Limiting"
+  ],
+  [
+   "Network Security",
+   "Threat Actor TTPs (MITM, ARP Poisoning, DNS Spoofing, SQL Injection, XSS, CSRF), Wireshark, Burp Suite"
+  ],
+  [
+   "Cloud",
+   "Google Cloud Platform (Firebase, Firestore, Cloud Functions), AWS, DynamoDB"
+  ],
+  [
+   "Scripting & Automation",
+   "Python, JavaScript / Node.js, Serverless Automation (Cloud Functions)"
+  ],
+  [
+   "Cryptography",
+   "RSA, Elliptic-Curve Cryptography (ECC), SHA-256 Hashing, TLS"
+  ],
+  [
+   "Languages & Tools",
+   "C/C++, Java, Swift, SQL (MySQL), Docker, Git"
+  ]
+ ],
+ "communicai_bullets": [
+  "Implemented multi-provider authentication (Sign in with Apple with nonce + SHA-256 hashing, Google OAuth, and email/password with server-enforced verification) and Firebase App Check (App Attest) on every backend request.",
+  "Designed role-based access-control rules that block insecure direct object references (IDOR), privilege escalation, and message spoofing; validated with 36 adversarial unit tests.",
+  "Built server-authoritative Cloud Functions enforcing authentication, input validation, and per-user and global rate limiting (5 rewrites per user/day); added server-side Apple receipt verification to detect and block subscription fraud.",
+  "Implemented privacy controls including full account and data deletion and scheduled data-retention cleanup, and kept all credentials and secrets out of version control."
+ ],
+ "coursework": "Relevant Coursework: Security and Privacy, Computer Networks, Operating Systems, Software Engineering",
+ "replace": {
+  "Run front-of-house service (expediting, to-go orders, bussing, and direct customer interaction).": "Handle front-of-house service, including expediting, to-go orders, bussing, and direct customer interaction."
+ }
+}

@@ -1,0 +1,26 @@
+Cyber Advanced Threat Response & Forensics Consultant — Deloitte & Touche LLP (Job ID 352373)
+Source: https://apply.deloitte.com/en_US/careers/JobDetail/Cyber-Advanced-Threat-Response-Forensics-Consultant/352373 (fetched 2026-11-26; text condensed by fetch tool)
+Locations: 74 US locations including Costa Mesa, CA
+Pay: $82,600–$162,800 (estimate, not adjusted for geographic differential)
+Recruiting for this role ends on 12/31/2026.
+Travel: up to 50% on average. Limited visa sponsorship may be available.
+
+Role: early-career cyber professional on the Cyber Defense and Resilience team, with 1-3 years of incident response experience, supporting clients' incident response programs across readiness, response, and recovery, and helping build internal crisis response and technical resilience offerings.
+
+Responsibilities:
+- Support full incident response engagements: investigation, containment, remediation, recovery, post-incident work.
+- Write and review incident reports, technical documentation, and client communications.
+- Lead or join technical working sessions and client discussions.
+- Help design and improve crisis and incident response capabilities aligned to ISO 27001, NIST, and CIS.
+- Identify ways to improve monitoring, detection, and response, and help implement them.
+- Apply current practices and technologies to improve service quality and consistency.
+- Mentor junior staff; collaborate with US and US-India teams.
+- Contribute to methodologies, assets, and market offerings.
+- Support security awareness, training, knowledge sharing; track evolving threats.
+
+Required:
+- 1-3+ years of hands-on experience in cyber defense and resilience (incident response, cyber resilience, or cyber transformation support)
+- Bachelor's degree
+- Ability to travel up to 50% on average
+Preferred: none listed.
+Status: "Apply now" button present; no closed notice.

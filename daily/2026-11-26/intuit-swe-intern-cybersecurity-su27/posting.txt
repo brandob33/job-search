@@ -1,0 +1,11 @@
+Summer 2027: Software Engineering Intern - Cybersecurity — Intuit (Job ID 24119)
+Source: https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616 (fetched 2026-11-26; text condensed by fetch tool)
+Location: Mountain View, CA (hybrid at an Intuit office set by team/role); relocation stipend
+Pay: expected base $35.50–$81.92/hr; Mountain View $45.50–$82/hr; may be eligible for cash bonus and equity
+Dates (12 weeks): Cohort 1 May 17 – Aug 6, 2027; Cohort 2 Jun 14 – Sep 3, 2027
+Team: Cybersecurity (CTREC) supporting TurboTax, QuickBooks, Credit Karma, Mailchimp. Placements may cover identity and authentication, data protection, fraud and abuse prevention, secure development tooling, or threat operations.
+
+Responsibilities: design, build and test front-end, back-end or full-stack features supporting Intuit's cybersecurity mission; write well-tested code and take part in code reviews; use AI-assisted development tools and share learnings; debug and resolve defects across the stack; work with engineers, security specialists and product managers to turn requirements into software; support deployment and maintenance of shipped features.
+Must-haves: currently enrolled in a degree-seeking program (associate's through PhD or equivalent) with expected graduation after the internship ends; legally authorized to work in the US full-time for the internship; able to work hybrid at an Intuit office; comfort with Git-based workflows and code review; familiarity with AI tools and interest in applying AI to real problems; Agile/SDLC familiarity; strong problem solving and record of delivering; self-starter; excellent verbal and written communication.
+Preferred: React and/or AWS/GCP depending on placement; security domain knowledge (not required; training provided).
+Status: page shows "Apply Now" button (Intuit Avature application); no closed notice.

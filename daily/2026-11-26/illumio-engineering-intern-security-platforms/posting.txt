@@ -1,0 +1,18 @@
+Illumio — Engineering Intern, Security Platforms
+Source: https://jobs.ashbyhq.com/illumio/95bc7491-9b2f-493c-9297-e9cb36a63b45 (Ashby; captured via fetch summary, full text partially JS-rendered; details cross-checked with freehire.me/zapply.jobs mirrors). Posted ~Nov 23, 2026.
+Location: Onsite, Illumio HQ, Sunnyvale, CA. Pay: $37/hr (per mirror) + stipend perks. 12 weeks, start May 24, 2027 or June 21, 2027.
+
+About: Illumio, leader in ransomware and breach containment; breach containment platform built on the Illumio AI Security Graph across hybrid multi-cloud. Interns get a real project with customer impact, mentorship, pair programming, code reviews, design discussions.
+
+Possible teams:
+- Integrations: connectors and APIs bringing cloud, firewall, and security tool data into Illumio.
+- Insights: data pipelines, analytics, and AI-powered tools for spotting suspicious traffic and investigating findings.
+- Network Posture: analyzing traffic, policies, and vulnerabilities to find security gaps.
+- Unified Events Platform: services combining audit and system events, with search, investigation, and log export.
+- Unified Console: shared user experiences and APIs for sign-in, access control, and management.
+
+Responsibilities: Own a project or feature from discovery through delivery. Build connectors, pipelines, APIs, analytics, backend services, or UIs. Write maintainable code, troubleshoot issues, improve reliability and performance. Collaborate with engineers, designers, and product managers. Explain technical decisions and share progress.
+
+Qualifications: Currently enrolled full-time in a bachelor's or master's program in computer science, software engineering, or a related field. Coding experience in at least one language such as Java, Python, Go, or JavaScript/TypeScript. Understanding of data structures, algorithms, and debugging. Familiarity with Git and collaborative development. Curiosity about customer problems and clear communication.
+Nice to have: Exposure to APIs, cloud computing, databases, web development, distributed systems, or AI/ML.
+Work authorization: valid U.S. work authorization for full internship; no internship visa sponsorship.

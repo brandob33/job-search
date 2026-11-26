@@ -1,0 +1,12 @@
+{
+ "date": "November 26, 2026",
+ "company": "Intuit",
+ "role": "Summer 2027: Software Engineering Intern - Cybersecurity (Job ID 24119)",
+ "greeting": "Dear Intuit Cybersecurity Recruiting Team,",
+ "paragraphs": [
+  "Your cybersecurity interns build real software for identity, fraud prevention and data protection across TurboTax, QuickBooks and Credit Karma, and those are the exact problems I've been solving on my own app. I'm applying for the Summer 2027 Software Engineering Intern - Cybersecurity role in Mountain View. I studied Computer Science at UC Irvine (Networked Systems) and I'm currently enrolled in UCI's certificate program. I spend summers in Dublin, CA, so the hybrid schedule works well for me.",
+  "Most of my hands-on security work is on CommunicAI, an AI-powered iOS app I built and still operate on the App Store, running on Gemini Flash and Google Cloud. I own its security end to end. I implemented multi-provider authentication: Sign in with Apple with a nonce and SHA-256 hashing, Google OAuth, and email/password with server-enforced verification, plus Firebase App Check on every backend request. My Cloud Functions enforce input validation and rate limiting and verify Apple receipts to block subscription fraud. I wrote role-based access-control rules that stop IDOR and privilege escalation, and 36 adversarial unit tests check them. Building on Gemini Flash taught me how to put AI to work on a real product carefully.",
+  "Outside that project, I've used Wireshark and Burp Suite in coursework to study MITM, ARP poisoning, SQL injection and XSS, and I'm taking the CompTIA Security+ exam in January 2027. I also built TracKing, a race-timing app for an NCAA Division I coach, which taught me to turn a user's real workflow into requirements. As captain of UC Irvine's Division I track and field team, I'm used to clear communication and owning what I commit to.",
+  "I'd welcome the chance to ship secure features with your team. I'm available for either Summer 2027 cohort."
+ ]
+}

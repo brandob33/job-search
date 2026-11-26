@@ -1,0 +1,11 @@
+Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute (CCISI) - Summer 2027 — Lawrence Livermore National Laboratory
+Source: https://jobs.smartrecruiters.com/llnl/3743990016984696 (fetched 2026-11-26; text condensed by fetch tool)
+Location: Livermore, CA, full-time on-site. Multiple openings.
+Pay: $23.26–$31.62/hr, step based on most recently completed academic year
+Dates: start between May 17 and Jun 21, 2027; flexible end through Sep 24, 2027
+
+Duties: technical and research support on cybersecurity and critical infrastructure projects alongside scientists and engineers; supervised research in network analysis, intrusion detection, reverse engineering, incident response, malware analysis, systems programming, threat characterization, ICS/OT security, tool development, AI/ML; gather and analyze data; join research planning; attend at least one seminar/training per week; present work in at least one seminar or poster.
+Required: apply basic CS principles to cybersecurity problems; communication incl. presenting; teamwork; coursework/experience in some of: machine learning, network analysis, intrusion detection, cryptography, reverse engineering, incident response, malware analysis, ICS/OT; programming in C/C++, Java or Python; coursework/experience with some tools such as Wireshark, Ghidra, Splunk, Zeek, Suricata/Snort, GDB.
+Desired: GPA 3.0+.
+Eligibility: continuing college/university student in good standing pursuing an undergraduate degree in Cybersecurity, CS, Engineering, Math or related. Those graduating with a bachelor's in Spring 2027 or starting grad school Fall 2027 are directed to the Cybersecurity Graduate Intern - CCISI posting. Work must be performed by a U.S. person; assignments >179 days/yr need a federal background investigation; post-offer drug test (incl. marijuana). No clearance required.
+Status: page shows "I'm interested" apply buttons; no closed notice.

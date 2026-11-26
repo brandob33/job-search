@@ -1,0 +1,13 @@
+Product Security Engineering Intern, Summer 2027 — Lucid Motors (Greenhouse job 5290941007; team: Product Security - RedTeam)
+Source: https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007 (job-boards.greenhouse.io/lucidmotors/jobs/5290941007 302-redirects here; fetched 2026-11-26; text condensed by fetch tool)
+Location: Newark, CA, fully in-person (lab + office); must start onsite day one; own housing/transport; relocation case-by-case
+Pay: $53–$72 (unit not stated, hourly implied), non-negotiable, depends on location and degree level
+Dates: 12 weeks, May–Aug or Jun–Sep 2027, flexible end date. No deadline listed.
+
+Team does security research and assessments across vehicle systems and applications.
+Responsibilities: build software tools for code analysis, security testing and vulnerability validation; build web interfaces, backend APIs and data-processing features for managing security assessments and findings; write scripts and integrations to automate tasks and connect security tools; investigate software issues by reviewing code, reproducing failures and debugging in test environments; write automated tests and participate in code reviews; document implementation details and test results.
+Required: programming in at least one of Python, C/C++, Java, JavaScript/TypeScript; data structures and basic software design; Git, command-line tools, debugging, writing tests; read unfamiliar code, investigate problems, explain technical findings.
+Preferred: web development, REST APIs, databases; static analysis, compilers, fuzz testing, vulnerability research; embedded systems, firmware analysis, emulation; Linux, Docker, CI, build automation; security coursework, personal projects, open-source, CTF.
+Enrollment: currently enrolled in a Bachelor's or Master's program at an accredited university; proof of enrollment in current or next program. Fields: Automotive Eng, Computer Eng, CS or related.
+Other: medical/dental/vision day 1 for full-time interns; background check and drug screen; apply via Lucid Careers site.
+Status: page shows "APPLY" button; no closed notice.

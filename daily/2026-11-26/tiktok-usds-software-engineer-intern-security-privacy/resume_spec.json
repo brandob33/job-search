@@ -1,0 +1,36 @@
+{
+ "headline": "Software Engineer Intern Candidate | Security & Privacy Engineering",
+ "summary": "Computer Science graduate (B.S., UC Irvine, Networked Systems) seeking the TikTok USDS Software Engineer Intern (Security & Privacy) role for Summer 2027. Built and secured a live cloud app: authentication, access control, privacy controls, abuse prevention. Strong CS fundamentals in Python, Java, C/C++, and Swift.",
+ "skills": [
+  [
+   "Languages",
+   "Python, Java, C/C++, Swift, JavaScript / Node.js, SQL (MySQL)"
+  ],
+  [
+   "Security & Privacy",
+   "IAM, OAuth 2.0 / OIDC, RBAC, Rate Limiting, Secrets Management, Threat Actor TTPs (MITM, ARP Poisoning, DNS Spoofing, SQL Injection, XSS, CSRF)"
+  ],
+  [
+   "Cloud & Data",
+   "Google Cloud Platform (Firebase, Firestore, Cloud Functions), AWS, DynamoDB, MongoDB, Redis"
+  ],
+  [
+   "Tools",
+   "Git, Docker, Burp Suite, Wireshark, Firebase App Check (App Attest)"
+  ],
+  [
+   "Cryptography",
+   "RSA, Elliptic-Curve Cryptography (ECC), SHA-256 Hashing, TLS"
+  ]
+ ],
+ "communicai_bullets": [
+  "Implemented multi-provider authentication (Sign in with Apple with nonce + SHA-256 hashing, Google OAuth, and email/password with server-enforced verification) and Firebase App Check (App Attest) on every backend request.",
+  "Designed role-based access-control rules that block insecure direct object references (IDOR), privilege escalation, and message spoofing; validated with 36 adversarial unit tests.",
+  "Implemented privacy controls including full account and data deletion and scheduled data-retention cleanup, and kept all credentials and secrets out of version control.",
+  "Built server-authoritative Cloud Functions enforcing authentication, input validation, and per-user and global rate limiting (5 rewrites per user/day); added server-side Apple receipt verification to detect and block subscription fraud."
+ ],
+ "coursework": "Relevant Coursework: Security and Privacy, Computer Networks, Operating Systems, Software Engineering",
+ "replace": {
+  "Run front-of-house service (expediting, to-go orders, bussing, and direct customer interaction).": "Handle front-of-house service, including expediting, to-go orders, bussing, and direct customer interaction."
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "headline": "Software Engineering Intern Candidate | Security Platforms & Cloud Backend",
+ "summary": "Computer Science graduate (B.S., UC Irvine, Networked Systems) seeking Illumio's Engineering Intern, Security Platforms role for Summer 2027. Built and operates a production AI-powered app on Google Cloud: REST APIs, serverless backend services, sign-in and access control. Python, Java, JavaScript/Node.js, Git; network traffic analysis in Wireshark.",
+ "skills": [
+  [
+   "Languages",
+   "Python, Java, JavaScript / Node.js, C/C++, Swift, SQL"
+  ],
+  [
+   "Cloud & Backend",
+   "Google Cloud Platform (Firebase, Firestore, Cloud Functions), AWS, Serverless Architecture, REST APIs"
+  ],
+  [
+   "Security",
+   "IAM, OAuth 2.0 / OIDC, RBAC, Input Validation, Rate Limiting, Secrets Management, Secure SDLC, Packet Analysis"
+  ],
+  [
+   "Databases",
+   "SQL (MySQL), DynamoDB, MongoDB, Redis"
+  ],
+  [
+   "Data & AI",
+   "Google Gemini (Gemini Flash), ETL & Data Engineering, Retrieval-Augmented Generation (RAG), Prompt Engineering"
+  ],
+  [
+   "Tools",
+   "Git, Docker, Wireshark, Burp Suite, Firebase App Check (App Attest)"
+  ]
+ ],
+ "communicai_bullets": [
+  "Built server-authoritative Cloud Functions enforcing authentication, input validation, and per-user and global rate limiting (5 rewrites per user/day); added server-side Apple receipt verification to detect and block subscription fraud.",
+  "Implemented multi-provider authentication (Sign in with Apple with nonce + SHA-256 hashing, Google OAuth, and email/password with server-enforced verification) and Firebase App Check (App Attest) on every backend request.",
+  "Designed role-based access-control rules that block insecure direct object references (IDOR), privilege escalation, and message spoofing; validated with 36 adversarial unit tests.",
+  "Implemented privacy controls including full account and data deletion and scheduled data-retention cleanup, and kept all credentials and secrets out of version control."
+ ],
+ "coursework": "Relevant Coursework: Security and Privacy, Computer Networks, Operating Systems, Software Engineering",
+ "replace": {
+  "Run front-of-house service (expediting, to-go orders, bussing, and direct customer interaction).": "Handle front-of-house service, including expediting, to-go orders, bussing, and direct customer interaction."
+ }
+}

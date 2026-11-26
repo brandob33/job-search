@@ -1,0 +1,12 @@
+{
+ "date": "November 26, 2026",
+ "company": "Bechtel",
+ "role": "27 Intern | US | Cybersecurity Engr (Req. 297662)",
+ "greeting": "Dear Bechtel Internship Recruiting Team,",
+ "paragraphs": [
+  "Securing the control systems behind power plants, refineries and other large infrastructure is a different problem from securing a web app, and that's why your Cybersecurity Engineering internship caught my attention. I studied Computer Science at UC Irvine with a specialization in Networked Systems and I'm currently enrolled in UCI's certificate program.",
+  "Most of my hands-on security work is on CommunicAI, an AI-powered iOS app I built and still operate on the App Store, running on Gemini Flash and Google Cloud. I own its security end to end. I wrote role-based access-control rules that stop IDOR, privilege escalation and message spoofing, and 36 adversarial unit tests try to break them. My server-side Cloud Functions enforce authentication, input validation and rate limiting, and every backend request is checked with Firebase App Check. That project taught me to design controls first and then test them the way an attacker would.",
+  "My networking coursework is the closest fit to your ICS work. In labs I used Wireshark to capture and analyze MITM, ARP poisoning and DNS spoofing attacks, and Burp Suite for SQL injection and XSS. I haven't worked with PLCs, HMIs or ICS standards yet, and I'd expect to learn the NIST-based guidance your team applies from the ground up. I'm preparing for the CompTIA Security+ exam in January 2027. As captain of UC Irvine's NCAA Division I track and field team, I report to coaches regularly and keep teammates on a shared plan, which maps well to status reporting on a project team.",
+  "I'd welcome the chance to help evaluate vendor products and build out test configurations with your team. I'm available for the full Summer 2027 internship."
+ ]
+}

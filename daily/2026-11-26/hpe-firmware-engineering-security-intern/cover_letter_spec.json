@@ -1,0 +1,12 @@
+{
+ "date": "November 26, 2026",
+ "company": "Hewlett Packard Enterprise",
+ "role": "Firmware Engineering Security Intern (Job 1214254)",
+ "greeting": "Dear HPE Firmware Security Hiring Team,",
+ "paragraphs": [
+  "I'm applying for the Firmware Engineering Security Intern role in Sunnyvale. Key signing infrastructure, TPM 2.0 and post-quantum signatures are the part of security I most want to learn, and your posting describes it as a learning role. I finished my B.S. in Computer Science at UC Irvine, specializing in Networked Systems, and I spend summers in Dublin, CA, so Sunnyvale is an easy commute.",
+  "My cryptography background comes from coursework, where I worked through RSA, elliptic-curve cryptography, SHA-256 and TLS, and from operating systems and networks classes. I write C/C++ and Python. In practice, I've used these ideas on CommunicAI, an iOS app I built and run on the App Store. It uses Firebase App Check with Apple's App Attest, so every backend request carries a device attestation, and Sign in with Apple with a nonce and SHA-256 hashing. Server-side Cloud Functions enforce authentication and input validation, and I keep all credentials and secrets out of version control.",
+  "I want to be honest about the gaps. I haven't worked inside the Linux or FreeBSD kernels, written Rust, or used a TPM directly, and I haven't built a code-signing pipeline. I learn quickly by building, and I'd start on TCG's TPM 2.0 material and ML-DSA before the summer. I'm also taking the CompTIA Security+ exam in January. As captain of UC Irvine's NCAA Division I track and field team, I'm used to steady work, feedback and clear communication.",
+  "I'd welcome the chance to help harden HPE's signing and TPM-based product security while learning from your team. I'm available for Summer 2027."
+ ]
+}

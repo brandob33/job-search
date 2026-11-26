@@ -1,0 +1,12 @@
+{
+ "date": "November 26, 2026",
+ "company": "FOX",
+ "role": "Summer 2027 FOX Technology Internship Program (R50033966)",
+ "greeting": "Dear FOX Tech Internship Team,",
+ "paragraphs": [
+  "I'm applying to the Summer 2027 FOX Technology Internship Program, with Cybersecurity as my first-choice area, AI/ML and Emerging Tech second, and Los Angeles as my preferred office. FOX reaches huge live audiences through news, sports and streaming, and keeping those platforms and accounts safe at that scale is the problem I want to learn on. I finished my B.S. in Computer Science at UC Irvine, specializing in Networked Systems, and I'm currently enrolled in UC Irvine's Accelerated Certificate Program in Data Science.",
+  "Most of my hands-on security work is on CommunicAI, an AI-powered iOS app I built and still run on the App Store, using Gemini Flash on Google Cloud. I own its security end to end. My Cloud Functions enforce authentication, input validation and rate limiting, and they verify Apple receipts server-side to detect and block subscription fraud. I wrote role-based access-control rules that stop IDOR, privilege escalation and message spoofing, and 36 adversarial unit tests try to break them. I write Python, SQL and Node.js regularly.",
+  "In coursework and labs I've used Wireshark and Burp Suite to study attacks like MITM, ARP poisoning, DNS spoofing, SQL injection and XSS. I'm taking the CompTIA Security+ exam in January. I haven't held a security internship yet, so FOX's real projects and Master Classes are exactly the next step I'm looking for. As captain of UC Irvine's NCAA Division I track and field team, I'm used to showing up prepared and working closely with coaches and teammates.",
+  "I'm available for the full Summer 2027 program and would be glad to talk about where I could help your cybersecurity team."
+ ]
+}

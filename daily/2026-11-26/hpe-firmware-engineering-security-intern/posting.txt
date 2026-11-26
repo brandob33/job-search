@@ -1,0 +1,19 @@
+Hewlett Packard Enterprise — Firmware Engineering Intern (listed as "Firmware Engineering Security Intern"), Job 1214254
+Source: https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254 (captured via fetch summary)
+Location: Sunnyvale, CA (onsite, primarily HPE office). Pay: $40.00–$46.00/hr (California).
+
+Description: HPE seeks a software engineer interested in learning software and hardware security, key management, and post-quantum computing. The intern will help:
+- Design and develop enhancements to key signing infrastructure.
+- Design and develop product security features using the TPM 2.0 security chip.
+
+Required:
+- Pursuing a bachelor's and/or master's in engineering, computer science, or related technical field, or equivalent experience.
+- Knowledge of software and security engineering, including software signing.
+- Experience with open-source software; understanding of code provenance and maintaining it over time.
+- Strong knowledge of the Linux and FreeBSD kernels.
+- Coding skills in C/C++, Python, and Rust; ability to learn other languages.
+- Strong problem-solving, written and verbal communication skills.
+Preferred:
+- Familiarity with CPU architectures and Hardware Root of Trust (HRoT).
+- Familiarity with TPM 2.0 and devID (Trusted Computing Group).
+- Familiarity with post-quantum computing and signature algorithms such as ML-DSA.

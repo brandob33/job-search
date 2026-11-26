@@ -1,0 +1,12 @@
+{
+ "company": "Stand8 Technology Consulting",
+ "role": "Cybersecurity Analyst",
+ "greeting": "Dear Stand8 Hiring Team,",
+ "paragraphs": [
+  "I'm applying for the Cybersecurity Analyst role in Commerce. The mix of identity, endpoint, email and network security across on-premises and cloud environments is the broad foundation I want to build early in my career. I finished my B.S. in Computer Science at UC Irvine, specializing in Networked Systems, and I'm local to Irvine/Orange County. Your posting's emphasis on SSO, OAuth and MFA lines up closely with the authentication work I've already done.",
+  "Most of my hands-on security work is on CommunicAI, an AI-powered iOS app I built and still operate on the App Store, backed by Google Cloud. I implemented its authentication: Sign in with Apple with a nonce and SHA-256 hashing, Google OAuth, and email/password with server-enforced verification, plus Firebase App Check on every backend request. I wrote role-based access-control rules that block IDOR and privilege escalation, validated with 36 adversarial unit tests, and server-side Cloud Functions enforce input validation and rate limiting.",
+  "In coursework and labs I've used Wireshark and Burp Suite to study DNS spoofing, ARP poisoning, MITM and web attacks. I'm upfront that I haven't administered SIEM, Intune or Microsoft 365 security in a production environment yet; I'm studying for the CompTIA Security+ exam in January to strengthen that base. As captain of UC Irvine's NCAA Division I track and field team, I'm used to managing several priorities on a deadline.",
+  "I learn new tools quickly and document what I learn, and I'd welcome the chance to get up to speed on your security platforms and contribute. I'm available to start in Summer 2027 or sooner."
+ ],
+ "date": "November 26, 2026"
+}

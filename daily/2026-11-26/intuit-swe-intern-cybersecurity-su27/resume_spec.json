@@ -1,0 +1,44 @@
+{
+ "headline": "Software Engineering Intern Candidate | Cybersecurity",
+ "summary": "Computer Science graduate (B.S., UC Irvine, Networked Systems) applying for Intuit's Summer 2027 Software Engineering Intern - Cybersecurity role (Mountain View, hybrid). Builds and ships features for a production AI iOS app (Gemini Flash, Google Cloud), owning identity and authentication, fraud prevention and data protection through secure development.",
+ "skills": [
+  [
+   "Software Engineering",
+   "Python, JavaScript / Node.js, Swift, Java, C/C++, SQL, REST APIs, Git"
+  ],
+  [
+   "Security",
+   "IAM, OAuth 2.0 / OIDC, RBAC, Input Validation, Secure SDLC, Rate Limiting, Secrets Management, SQL Injection, XSS, CSRF"
+  ],
+  [
+   "Cloud",
+   "Google Cloud Platform (Firebase, Firestore, Cloud Functions), AWS, Serverless Architecture"
+  ],
+  [
+   "AI",
+   "Google Gemini (Gemini Flash), Prompt Engineering, Retrieval-Augmented Generation (RAG)"
+  ],
+  [
+   "Security & Networking Tools",
+   "Burp Suite, Wireshark, Docker, Firebase App Check (App Attest)"
+  ],
+  [
+   "Databases",
+   "DynamoDB, SQL (MySQL), MongoDB, Redis"
+  ],
+  [
+   "Cryptography",
+   "RSA, Elliptic-Curve Cryptography (ECC), SHA-256 Hashing, TLS"
+  ]
+ ],
+ "communicai_bullets": [
+  "Implemented multi-provider authentication (Sign in with Apple with nonce + SHA-256 hashing, Google OAuth, and email/password with server-enforced verification) and Firebase App Check (App Attest) on every backend request.",
+  "Built server-authoritative Cloud Functions enforcing authentication, input validation, and per-user and global rate limiting (5 rewrites per user/day); added server-side Apple receipt verification to detect and block subscription fraud.",
+  "Designed role-based access-control rules that block insecure direct object references (IDOR), privilege escalation, and message spoofing; validated with 36 adversarial unit tests.",
+  "Implemented privacy controls including full account and data deletion and scheduled data-retention cleanup, and kept all credentials and secrets out of version control."
+ ],
+ "coursework": "Relevant Coursework: Security and Privacy, Computer Networks, Operating Systems, Software Engineering",
+ "replace": {
+  "Run front-of-house service (expediting, to-go orders, bussing, and direct customer interaction).": "Handle front-of-house service, including expediting, to-go orders, bussing, and direct customer interaction."
+ }
+}

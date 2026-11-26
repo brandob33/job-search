@@ -809,11 +809,11 @@
  },
  "intuit-swe-intern-cybersecurity-su27": {
   "first_seen": "2026-11-23",
-  "score": 5,
+  "score": 7,
   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
-  "status": "new",
+  "status": "tailored",
   "company": "Intuit",
-  "title": "Summer 2027: Software Engineering Intern - Cybersecurity",
+  "title": "Summer 2027: Software Engineering Intern - Cybersecurity (Job ID 24119)",
   "reason": "Onsite Mountain View."
  },
  "intuit-technical-compliance-manager-intern-su27": {
@@ -827,20 +827,20 @@
  },
  "lucid-product-security-engineering-intern-su27": {
   "first_seen": "2026-11-23",
-  "score": 4,
+  "score": 7,
   "url": "https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007",
-  "status": "new",
+  "status": "tailored",
   "company": "Lucid Motors",
-  "title": "Product Security Engineering Intern, Summer 2027 (Product Security - RedTeam)",
+  "title": "Product Security Engineering Intern, Summer 2027 (RedTeam)",
   "reason": "Newark, CA (Bay Area)."
  },
  "llnl-cybersecurity-undergrad-intern-su27": {
   "first_seen": "2026-11-23",
-  "score": 4,
+  "score": 6,
   "url": "https://jobs.smartrecruiters.com/llnl/3743990016984696",
-  "status": "new",
+  "status": "tailored",
   "company": "Lawrence Livermore National Laboratory",
-  "title": "Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027",
+  "title": "Cybersecurity Undergraduate Intern - CCISI, Summer 2027",
   "reason": "Livermore onsite; undergraduate program."
  },
  "athens-services-security-operations-jr-specialist": {
@@ -1069,7 +1069,9 @@
   "first_seen": "2026-11-25",
   "score": 5,
   "url": "https://www.linkedin.com/jobs/view/4494689800/",
-  "status": "new"
+  "status": "tailored",
+  "company": "Stand8 Technology Consulting",
+  "title": "Cybersecurity Analyst"
  },
  "cfs-information-security-analyst": {
   "first_seen": "2026-11-25",
@@ -1196,8 +1198,10 @@
  "deloitte-cyber-atr-forensics-consultant": {
   "first_seen": "2026-11-26",
   "score": 5,
-  "url": "https://www.linkedin.com/jobs/view/4495253876/",
-  "status": "new"
+  "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Cyber-Advanced-Threat-Response-Forensics-Consultant/352373",
+  "status": "tailored",
+  "company": "Deloitte",
+  "title": "Cyber Advanced Threat Response & Forensics Consultant (352373)"
  },
  "general-matter-infosec-engineer-intern-su27": {
   "first_seen": "2026-11-26",
@@ -1228,10 +1232,10 @@
  },
  "fox-technology-internship-su27": {
   "first_seen": "2026-11-26",
-  "score": 5,
+  "score": 7,
   "url": "https://www.foxcareers.com/Search/JobDetail/R50033966",
-  "status": "new",
-  "company": "Fox Corporation",
+  "status": "tailored",
+  "company": "FOX",
   "title": "Summer 2027 FOX Technology Internship Program (Cybersecurity track)",
   "linkedin_url": "https://www.linkedin.com/jobs/view/4472488632/"
  },
@@ -1239,7 +1243,7 @@
   "first_seen": "2026-11-26",
   "score": 5,
   "url": "https://www.governmentjobs.com/jobs/3972933-0/cybersecurity-apprenticeship/",
-  "status": "new",
+  "status": "passed",
   "company": "Coast Community College District",
   "title": "Cybersecurity Apprenticeship",
   "linkedin_url": "https://www.linkedin.com/jobs/view/4476445077/"
@@ -1248,7 +1252,7 @@
   "first_seen": "2026-11-26",
   "score": 5,
   "url": "https://www.linkedin.com/jobs/view/4491517493/",
-  "status": "new",
+  "status": "excluded",
   "company": "CENIC",
   "title": "CENIC Operations Intern",
   "linkedin_url": "https://www.linkedin.com/jobs/view/4491517493/"
@@ -1326,7 +1330,7 @@
   "first_seen": "2026-11-26",
   "score": 5,
   "url": "https://job-boards.greenhouse.io/spacex/jobs/8077340002",
-  "status": "new",
+  "status": "passed",
   "company": "SpaceX",
   "title": "Security Engineer (Identity and Access Management) (Level I/II)"
  },
@@ -1334,7 +1338,7 @@
   "first_seen": "2026-11-26",
   "score": 5,
   "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328",
-  "status": "new",
+  "status": "passed",
   "company": "CrowdStrike",
   "title": "Engineer II, Software Assurance, Product Security (Remote)"
  },
@@ -1342,31 +1346,31 @@
   "first_seen": "2026-11-26",
   "score": 5,
   "url": "https://job-boards.greenhouse.io/spacex/jobs/8593388002",
-  "status": "new",
+  "status": "passed",
   "company": "SpaceX",
   "title": "Security Engineer (Embedded OT) (Level 1/2)"
  },
  "lendistry-security-engineer-i": {
   "first_seen": "2026-11-26",
-  "score": 4,
-  "url": "https://www.builtinla.com/job/security-engineer-i/11823352",
-  "status": "new",
-  "company": "B.S.D. Capital, Inc. dba Lendistry",
+  "score": 5,
+  "url": "https://www.builtinla.com/job/security-engineer-i/11823352 (employer Workday board: https://lendistry.wd108.myworkdayjobs.com/Careers_Join_Us)",
+  "status": "tailored",
+  "company": "Lendistry (B.S.D. Capital, Inc.)",
   "title": "Security Engineer I"
  },
  "bechtel-27-intern-cybersecurity-engr": {
   "first_seen": "2026-11-26",
   "score": 4,
-  "url": "https://www.linkedin.com/jobs/view/4471685146/",
-  "status": "new",
+  "url": "https://bechtel.jobs.hr.cloud.sap/job/27-Intern-US-Cybersecurity-Engr/1433422400/",
+  "status": "tailored",
   "company": "Bechtel",
-  "title": "27 Intern | US | Cybersecurity Engr"
+  "title": "27 Intern | US | Cybersecurity Engr (Req. 297662)"
  },
  "skyworks-cybersecurity-coop-spring27": {
   "first_seen": "2026-11-26",
   "score": 3,
   "url": "https://www.linkedin.com/jobs/view/4456788005/",
-  "status": "excluded",
+  "status": "passed",
   "company": "Skyworks Solutions",
   "title": "Cybersecurity Winter/Spring Co-Op (Jan - June '27)"
  },
@@ -1659,45 +1663,45 @@
  },
  "tiktok-usds-joint-venture-software-engineer-intern-security-": {
   "first_seen": "2026-11-26",
-  "score": 5,
+  "score": 6,
   "url": "https://www.linkedin.com/jobs/view/4459296440/",
-  "status": "new",
+  "status": "tailored",
   "company": "TikTok USDS Joint Venture",
-  "title": "Software Engineer Intern (Security & Privacy)",
+  "title": "Software Engineer Intern (Security & Privacy) - 2027 Summer",
   "linkedin_url": "https://www.linkedin.com/jobs/view/4459296440/"
  },
  "illumio-engineering-intern-security-platforms": {
   "first_seen": "2026-11-26",
-  "score": 5,
-  "url": "https://www.linkedin.com/jobs/view/4494092980/",
-  "status": "new",
+  "score": 7,
+  "url": "https://jobs.ashbyhq.com/illumio/95bc7491-9b2f-493c-9297-e9cb36a63b45/application",
+  "status": "tailored",
   "company": "Illumio",
   "title": "Engineering Intern, Security Platforms",
   "linkedin_url": "https://www.linkedin.com/jobs/view/4494092980/"
  },
  "the-aerospace-corporation-2027-defensive-cyber-operations-un": {
   "first_seen": "2026-11-26",
-  "score": 4,
-  "url": "https://www.linkedin.com/jobs/view/4480682789/",
-  "status": "new",
+  "score": 6,
+  "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
+  "status": "tailored",
   "company": "The Aerospace Corporation",
-  "title": "2027 Defensive Cyber Operations Undergrad Intern",
+  "title": "2027 Defensive Cyber Operations Undergrad Intern (R017011)",
   "linkedin_url": "https://www.linkedin.com/jobs/view/4480682789/"
  },
  "hewlett-packard-enterprise-firmware-engineering-security-int": {
   "first_seen": "2026-11-26",
   "score": 4,
-  "url": "https://www.linkedin.com/jobs/view/4494488474/",
-  "status": "new",
+  "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254",
+  "status": "tailored",
   "company": "Hewlett Packard Enterprise",
-  "title": "Firmware Engineering Security Intern",
+  "title": "Firmware Engineering Security Intern (Workday: Firmware Engineering Intern, 1214254)",
   "linkedin_url": "https://www.linkedin.com/jobs/view/4494488474/"
  },
  "arrowhead-pharmaceuticals-analyst-ii-cyber-security-operatio": {
   "first_seen": "2026-11-26",
   "score": 4,
   "url": "https://www.linkedin.com/jobs/view/4481615297/",
-  "status": "new",
+  "status": "passed",
   "company": "Arrowhead Pharmaceuticals",
   "title": "Analyst II, Cyber Security (Operational Technology)",
   "linkedin_url": "https://www.linkedin.com/jobs/view/4481615297/"

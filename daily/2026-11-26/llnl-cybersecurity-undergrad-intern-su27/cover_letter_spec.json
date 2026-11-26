@@ -1,0 +1,12 @@
+{
+ "date": "November 26, 2026",
+ "company": "Lawrence Livermore National Laboratory",
+ "role": "Cybersecurity Undergraduate Intern - CCISI, Summer 2027",
+ "greeting": "Dear CCISI Selection Committee,",
+ "paragraphs": [
+  "The Cyber and Critical Infrastructure Summer Institute pairs interns with lab scientists on real research, and network analysis and critical infrastructure security are the areas I most want to go deeper in. I studied Computer Science at UC Irvine with a specialization in Networked Systems and I'm currently enrolled in UCI's certificate program. I spend summers in Dublin, CA, a short drive from the Lab.",
+  "My networking and security coursework is the core of my fit. In labs I used Wireshark to capture and analyze MITM, ARP poisoning and DNS spoofing attacks, used Burp Suite for SQL injection and XSS, and studied buffer overflows and cryptography (RSA, elliptic-curve cryptography, SHA-256). I program in C/C++, Java and Python. I haven't used Ghidra, Zeek or Splunk yet, and I'd expect to learn them quickly in a research setting.",
+  "Most of my hands-on security work is on CommunicAI, an AI-powered iOS app I built and still operate on the App Store, running on Gemini Flash and Google Cloud. I own its security end to end. I wrote role-based access-control rules that stop IDOR, privilege escalation and message spoofing, and 36 adversarial unit tests try to break them. I'm also taking the CompTIA Security+ exam in January 2027. As captain of UC Irvine's NCAA Division I track and field team, I'm comfortable presenting to a group and working on a team toward a shared goal, which suits the Institute's weekly seminars and poster session.",
+  "I'd welcome the chance to support your researchers this summer. I'm available for the full Summer 2027 session."
+ ]
+}

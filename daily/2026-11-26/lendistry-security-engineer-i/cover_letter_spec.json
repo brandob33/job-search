@@ -1,0 +1,12 @@
+{
+ "date": "November 26, 2026",
+ "company": "Lendistry",
+ "role": "Security Engineer I",
+ "greeting": "Dear Lendistry Hiring Team,",
+ "paragraphs": [
+  "Lendistry gets capital to small businesses that traditional banks often pass over, and that kind of lending runs on customer trust. I'd like to help protect it as your Security Engineer I in Tustin. I finished my B.S. in Computer Science at UC Irvine in June 2026, specializing in Networked Systems, and I live in Irvine, a short drive from your office.",
+  "Most of my hands-on security work is on CommunicAI, an AI-powered iOS app I built and still operate on the App Store, running on Gemini Flash and Google Cloud. I own its security end to end. My server-side Cloud Functions enforce authentication, input validation and rate limiting, and they verify Apple receipts to detect and block subscription fraud. I wrote role-based access-control rules that stop IDOR, privilege escalation and message spoofing, and 36 adversarial unit tests try to break them. I automate that backend in Node.js and write Python regularly, which is where I'd start on your repetitive security tasks.",
+  "I'll be direct about the gaps. I haven't triaged alerts in a SIEM or EDR console, run a production vulnerability scanner or worked a real incident, and I'm still learning frameworks like NIST 800-61 and MITRE ATT&CK. What I do have: coursework and labs where I used Wireshark and Burp Suite to study MITM, ARP poisoning, DNS spoofing, SQL injection and XSS, and a CompTIA Security+ exam scheduled for January 2027. As captain of UC Irvine's NCAA Division I track and field team, I'm used to giving clear status updates and following a plan when things get stressful.",
+  "I'd welcome the chance to learn your alert and incident workflow and take real work off the team's plate. I'm available to start in Summer 2027 or sooner."
+ ]
+}

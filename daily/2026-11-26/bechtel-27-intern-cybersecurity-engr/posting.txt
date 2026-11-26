@@ -1,0 +1,13 @@
+27 Intern | US | Cybersecurity Engr — Bechtel (Requisition ID 297662)
+Source: https://bechtel.jobs.hr.cloud.sap/job/27-Intern-US-Cybersecurity-Engr/1433422400/ (Bechtel's SAP SuccessFactors careers site behind jobs.bechtel.com; fetched 2026-11-26; text condensed by fetch tool)
+LinkedIn: https://www.linkedin.com/jobs/view/4471685146/ (blocked to fetch tool by robots.txt)
+Location: "Various Work Locations USA"; project overview: "may include Houston, TX, Reston, VA, or various project sites." No California location listed.
+Relocation: Limited (e.g. Development Assignment). Must be able and willing to relocate and/or travel to domestic or international project jobsites.
+Pay: $25.12–$28.49/hr; 15% uplift for New York City or San Francisco positions.
+Dates: not listed (Summer 2027 intern class).
+
+Summary: Cybersecurity Engineering interns work in multidisciplinary teams supporting industrial control system (ICS) cybersecurity services on projects, during design or after design is complete.
+Responsibilities: assist with control system network design; evaluate vendor cybersecurity products and write evaluation results; apply NIST-based and other standards to cybersecurity work; set up and troubleshoot cybersecurity test configurations; program logic and Human Machine Interfaces (HMIs) for testing rigs; assist with patch management for the Technical Center; report status on design and development activities; support special projects such as the ICS Trainer System.
+Basic qualifications: currently enrolled in a four-year B.S. program in Computer Science or Electrical, Chemical, Mechanical or Electro-Mechanical Engineering at an accredited institution; at least one year of completed undergraduate study; eligible to work in the US without sponsorship now or in future; able/willing to relocate or travel to jobsites; pass drug screen and background check.
+Required knowledge/skills (as listed): currently enrolled in an M.S. program in CS/EE/ChemE/ME (conflicts with basic quals; unclear); relevant coursework and strong GPA; excellent written and oral communication.
+Status: page shows "Apply now" button; no closed notice.

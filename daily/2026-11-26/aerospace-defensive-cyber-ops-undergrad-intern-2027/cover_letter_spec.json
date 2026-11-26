@@ -1,0 +1,12 @@
+{
+ "date": "November 26, 2026",
+ "company": "The Aerospace Corporation",
+ "role": "2027 Defensive Cyber Operations Undergrad Intern (R017011)",
+ "greeting": "Dear Cyberspace Combat Department Hiring Team,",
+ "paragraphs": [
+  "I'm applying for the 2027 Defensive Cyber Operations Undergrad Intern role in El Segundo. Building defenses for space vehicles and mission systems is security work with real stakes, and I want to learn vulnerability research and reverse engineering from engineers who do it for the Space Force, NRO and NASA. I finished my B.S. in Computer Science at UC Irvine, specializing in Networked Systems, and I'm now enrolled in UC Irvine's certificate program. I'm a U.S. citizen and eligible to obtain a security clearance.",
+  "Most of my hands-on security work is on CommunicAI, an AI-powered iOS app I built and still run on the App Store, backed by Google Cloud. Server-side Cloud Functions enforce authentication, input validation and rate limiting, and verify Apple receipts to block subscription fraud. I wrote role-based access-control rules that stop IDOR, privilege escalation and message spoofing, and 36 adversarial unit tests try to break them. That habit of attacking my own code is what draws me to vulnerability research.",
+  "In coursework and labs I've studied buffer overflows, SQL injection, XSS, MITM, ARP poisoning and DNS spoofing, using Wireshark and Burp Suite. I write Python and C/C++ and use Docker. I haven't used Ghidra or IDA Pro yet or competed in CTFs, and I plan to start both before the summer. I'm taking the CompTIA Security+ exam in January. As captain of UC Irvine's NCAA Division I track and field team, I'm used to clear communication with coaches, which carries over to briefing customers.",
+  "I'd welcome the chance to help build prototype defenses with your team. I'm available full-time for Summer 2027."
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "date": "November 26, 2026",
+ "company": "Deloitte",
+ "role": "Cyber Advanced Threat Response & Forensics Consultant (352373)",
+ "greeting": "Dear Deloitte Cyber Defense and Resilience Hiring Team,",
+ "paragraphs": [
+  "I'm applying for the Cyber Advanced Threat Response & Forensics Consultant role in Costa Mesa. Incident response work across many clients and industries is where I want to build my career, and your team covers the full cycle from readiness through recovery. I finished my B.S. in Computer Science at UC Irvine, specializing in Networked Systems, and I'm local to Irvine/Orange County.",
+  "Most of my hands-on security work is on CommunicAI, an AI-powered iOS app I built and still operate on the App Store, running on Gemini Flash and Google Cloud. I own its security end to end. My server-side Cloud Functions enforce authentication, input validation and rate limiting, and they verify Apple receipts to detect and block subscription fraud. I wrote role-based access-control rules that stop IDOR, privilege escalation and message spoofing, and 36 adversarial unit tests try to break them. Building those defenses taught me to think about how an attacker gets in and what evidence they leave behind.",
+  "In coursework and labs I've used Wireshark and Burp Suite to study attacker techniques: MITM, ARP poisoning, DNS spoofing, SQL injection and XSS. To be direct, I haven't worked a client incident yet, and I'm still learning frameworks like NIST and ISO 27001. I'm studying for the CompTIA Security+ exam in January. As captain of UC Irvine's NCAA Division I track and field team, I'm used to staying calm under pressure and communicating clearly, which matters when a client is in the middle of a crisis.",
+  "I'd welcome the chance to support your engagements and learn from your responders. I'm available to start in Summer 2027 or sooner."
+ ]
+}

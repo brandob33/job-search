@@ -1,0 +1,44 @@
+{
+ "headline": "Product Security Engineering Intern Candidate | Application Security",
+ "summary": "Computer Science graduate (B.S., UC Irvine, Networked Systems) applying for Lucid Motors' Product Security Engineering Intern (RedTeam), Summer 2027, in Newark. Builds and security-tests his own production app backend: REST APIs, access control, 36 adversarial unit tests for web vulnerabilities. Python, C/C++, JavaScript; Burp Suite, Wireshark.",
+ "skills": [
+  [
+   "Offensive Security",
+   "SQL Injection, XSS, CSRF, Buffer Overflow, MITM, ARP Poisoning, DNS Spoofing, Packet Analysis"
+  ],
+  [
+   "Languages",
+   "Python, C/C++, JavaScript / Node.js, Java, Swift, SQL"
+  ],
+  [
+   "Security & Networking Tools",
+   "Burp Suite, Wireshark, Docker, Git, Firebase App Check (App Attest)"
+  ],
+  [
+   "Application Security",
+   "IAM, OAuth 2.0 / OIDC, RBAC, Input Validation, Secure SDLC, Rate Limiting, Secrets Management"
+  ],
+  [
+   "Backend & Cloud",
+   "REST APIs, Serverless Architecture, Google Cloud Platform (Firebase, Firestore, Cloud Functions), AWS"
+  ],
+  [
+   "Databases",
+   "SQL (MySQL), MongoDB, Redis, DynamoDB"
+  ],
+  [
+   "Cryptography",
+   "RSA, Elliptic-Curve Cryptography (ECC), SHA-256 Hashing, TLS"
+  ]
+ ],
+ "communicai_bullets": [
+  "Designed role-based access-control rules that block insecure direct object references (IDOR), privilege escalation, and message spoofing; validated with 36 adversarial unit tests.",
+  "Built server-authoritative Cloud Functions enforcing authentication, input validation, and per-user and global rate limiting (5 rewrites per user/day); added server-side Apple receipt verification to detect and block subscription fraud.",
+  "Implemented multi-provider authentication (Sign in with Apple with nonce + SHA-256 hashing, Google OAuth, and email/password with server-enforced verification) and Firebase App Check (App Attest) on every backend request.",
+  "Implemented privacy controls including full account and data deletion and scheduled data-retention cleanup, and kept all credentials and secrets out of version control."
+ ],
+ "coursework": "Relevant Coursework: Security and Privacy, Computer Networks, Operating Systems, Software Engineering",
+ "replace": {
+  "Run front-of-house service (expediting, to-go orders, bussing, and direct customer interaction).": "Handle front-of-house service, including expediting, to-go orders, bussing, and direct customer interaction."
+ }
+}

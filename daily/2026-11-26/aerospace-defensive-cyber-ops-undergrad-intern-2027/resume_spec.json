@@ -1,0 +1,40 @@
+{
+ "headline": "Defensive Cyber Operations Intern Candidate | Application & Network Security",
+ "summary": "Computer Science graduate (B.S., UC Irvine, Networked Systems) seeking The Aerospace Corporation's 2027 Defensive Cyber Operations Undergrad Intern role. Codes in Python and C/C++; containerization with Docker; secured a production AI app on Google Cloud. Cybersecurity labs on buffer overflow, SQLi, XSS, MITM. U.S. citizen; Security+ exam January 2027.",
+ "skills": [
+  [
+   "Vulnerability Classes",
+   "Buffer Overflow, SQL Injection, XSS, CSRF, MITM, ARP Poisoning, DNS Spoofing, Packet Analysis"
+  ],
+  [
+   "Languages",
+   "Python, C/C++, JavaScript / Node.js, Java, Swift, SQL"
+  ],
+  [
+   "Security & Networking Tools",
+   "Docker, Wireshark, Burp Suite, Git, Firebase App Check (App Attest)"
+  ],
+  [
+   "Security",
+   "IAM, OAuth 2.0 / OIDC, RBAC, Input Validation, Rate Limiting, Secrets Management, Secure SDLC"
+  ],
+  [
+   "Cryptography",
+   "RSA, Elliptic-Curve Cryptography (ECC), SHA-256 Hashing, TLS"
+  ],
+  [
+   "Cloud & AI",
+   "Google Cloud Platform (Firebase, Firestore, Cloud Functions), AWS, Google Gemini (Gemini Flash)"
+  ]
+ ],
+ "communicai_bullets": [
+  "Designed role-based access-control rules that block insecure direct object references (IDOR), privilege escalation, and message spoofing; validated with 36 adversarial unit tests.",
+  "Built server-authoritative Cloud Functions enforcing authentication, input validation, and per-user and global rate limiting (5 rewrites per user/day); added server-side Apple receipt verification to detect and block subscription fraud.",
+  "Implemented multi-provider authentication (Sign in with Apple with nonce + SHA-256 hashing, Google OAuth, and email/password with server-enforced verification) and Firebase App Check (App Attest) on every backend request.",
+  "Implemented privacy controls including full account and data deletion and scheduled data-retention cleanup, and kept all credentials and secrets out of version control."
+ ],
+ "coursework": "Relevant Coursework: Security and Privacy, Computer Networks, Operating Systems, Software Engineering",
+ "replace": {
+  "Run front-of-house service (expediting, to-go orders, bussing, and direct customer interaction).": "Handle front-of-house service, including expediting, to-go orders, bussing, and direct customer interaction."
+ }
+}

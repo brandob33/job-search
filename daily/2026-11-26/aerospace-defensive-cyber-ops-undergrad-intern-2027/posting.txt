@@ -1,0 +1,26 @@
+The Aerospace Corporation — 2027 Defensive Cyber Operations Undergrad Intern (R017011)
+Source: https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011 (captured via fetch summary)
+Location: El Segundo, CA, 100% onsite, full-time. Pay: $25.00–$30.00/hr. No temporary housing assistance.
+
+Cyberspace Combat Department, Information Systems and Cyber Division. Team of cybersecurity engineers designing and deploying cyber solutions to protect space assets; customers include Space Force Space Systems Command, NRO, NASA.
+Responsibilities:
+- Research and develop on-board defensive capabilities for space vehicles.
+- Build prototype tools to improve mission system security using containerization, cloud, and AI.
+- Conduct vulnerability research and reverse engineering on space-related software.
+- Communicate project status and technical findings to customers; give technical demonstrations.
+- Training and mentorship provided.
+Minimum qualifications:
+- Currently enrolled full-time in an accredited bachelor's program in Computer Science, Computer Engineering, Cybersecurity, or related field.
+- Available full-time for at least 10 weeks outside the school term; returning to school full-time afterward.
+- Minimum GPA 3.0; official transcripts required.
+- Interest in reverse engineering and vulnerability research.
+- Experience building small to mid-size projects in Python, C, or Rust.
+- Experience with containerization tools such as Docker or Kubernetes.
+- Ability to obtain and maintain a U.S. security clearance (U.S. citizenship required).
+Preferred:
+- Security+ or other security certification.
+- Hands-on experience with Ghidra or IDA Pro.
+- Experience with ground or space technology.
+- Capture-The-Flag participation.
+- Active security clearance.
+- GPA 3.5+.

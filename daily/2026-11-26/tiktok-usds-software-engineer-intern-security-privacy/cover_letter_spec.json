@@ -1,0 +1,12 @@
+{
+ "company": "TikTok USDS Joint Venture",
+ "role": "Software Engineer Intern (Security & Privacy) - 2027 Summer",
+ "greeting": "Dear USDS Security & Privacy Hiring Team,",
+ "paragraphs": [
+  "I'm applying for the Software Engineer Intern role on USDS's Security and Privacy team for Summer 2027. Building the tools that protect U.S. user data on a platform this large is the kind of security engineering I want to learn. I finished my B.S. in Computer Science at UC Irvine, specializing in Networked Systems. I spend summers in Dublin, CA, so San Jose is an easy commute.",
+  "Most of my hands-on security work is on CommunicAI, an AI-powered iOS app I built and still operate on the App Store, backed by Google Cloud. I own its security and privacy end to end. I implemented multi-provider authentication (Sign in with Apple with a nonce and SHA-256 hashing, Google OAuth, and verified email/password) and Firebase App Check on every backend request. I wrote role-based access-control rules that block IDOR, privilege escalation and message spoofing, tested with 36 adversarial unit tests, and I built full account and data deletion plus scheduled data-retention cleanup.",
+  "My coursework covered data structures, operating systems, computer networks, and security and privacy, and I write Python, Java, C/C++ and Swift. In labs I used Burp Suite and Wireshark to study SQL injection, XSS and MITM attacks. I'm studying for the CompTIA Security+ exam in January. As captain of UC Irvine's NCAA Division I track and field team, I'm used to owning my work and communicating clearly with a team.",
+  "I'd welcome the chance to build security and privacy tooling with your team, and I'm available for Summer 2027."
+ ],
+ "date": "November 26, 2026"
+}
