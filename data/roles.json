@@ -2433,9 +2433,10 @@
     "eligibility_notes": "Currently pursuing a degree (certificate program counts); ITAR U.S. person; on-site Redondo Beach; 12 weeks May/June to Aug/Sept 2027.",
     "ats_score": "71",
     "first_seen": "2026-11-25",
-    "status": "tailored",
+    "status": "applied",
     "files": "daily/2026-11-25/impulse-space-information-security-intern-su27/",
-    "folder": "Impulse Space - Information Security Intern"
+    "folder": "Impulse Space - Information Security Intern",
+    "date_applied": "2026-11-26"
   },
   {
     "id": "opensesame-security-compliance-intern-su27",
@@ -2457,11 +2458,12 @@
     "eligibility_notes": "Current student or graduated within past 12 months; remote anywhere in US; full-time Jun 17 - Aug 28, 2027.",
     "ats_score": "66",
     "first_seen": "2026-11-25",
-    "status": "tailored",
+    "status": "deferred",
     "files": "daily/2026-11-25/opensesame-security-compliance-intern-su27/",
     "folder": "OpenSesame - Security and Compliance Intern",
     "main_risk": "Must submit a <=5 min YouTube video; no GRC tool/framework experience.",
-    "note": "Resume/CL updated 2026-11-25 for CommunicAI = AI-powered (Gemini Flash)."
+    "note": "Resume/CL updated 2026-11-25 for CommunicAI = AI-powered (Gemini Flash).",
+    "deferred_reason": "Brandon paused 2026-11-26: recording the required video on Nov 27, then applying. Deadline Feb 14, 2027."
   },
   {
     "id": "impulse-space-it-service-delivery-intern-su27",
@@ -2483,8 +2485,9 @@
     "main_risk": "No hands-on IT support/imaging/VLAN/ticketing experience.",
     "ats_score": "70",
     "first_seen": "2026-11-25",
-    "status": "tailored",
+    "status": "applied",
     "files": "daily/2026-11-25/impulse-space-it-service-delivery-intern-su27/",
-    "folder": "Impulse Space - IT Service Delivery Intern"
+    "folder": "Impulse Space - IT Service Delivery Intern",
+    "date_applied": "2026-11-26"
   }
 ]
