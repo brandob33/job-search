@@ -1,0 +1,12 @@
+{
+ "date": "November 26, 2026",
+ "company": "SpaceX",
+ "role": "Security Engineer (Embedded & Networking) (Level 1/2)",
+ "greeting": "Dear SpaceX Information Security Team,",
+ "paragraphs": [
+  "I'm applying for the Security Engineer (Embedded & Networking) role in Hawthorne. Securing devices and networks that have to work in orbit and on the launch pad is the engineering problem I find most interesting, and my degree focus was networked systems. I finished my B.S. in Computer Science at UC Irvine and I'm local to Irvine/Orange County.",
+  "Most of my hands-on security work is on CommunicAI, an AI-powered iOS app I built and still operate on the App Store, backed by Google Cloud. I own its security end to end. I implemented multi-provider authentication: Sign in with Apple with a nonce and SHA-256 hashing, Google OAuth, and email/password with server-enforced verification. Firebase App Check (App Attest) attests the device on every backend request. On the server, Cloud Functions enforce authentication, input validation and rate limiting, and role-based access-control rules block IDOR and privilege escalation, validated by 36 adversarial unit tests.",
+  "Beyond Swift and Node.js, I code in C/C++, Python and Java, and my coursework covered operating systems, computer networks, and security and privacy, including RSA, elliptic-curve cryptography and TLS. In labs I've used Wireshark and Burp Suite to study MITM, ARP poisoning and DNS spoofing. I'm studying for the CompTIA Security+ exam in January. As captain of UC Irvine's NCAA Division I track and field team, I'm used to owning a goal and working through problems until they're solved.",
+  "I'd welcome the chance to build security into SpaceX's embedded and networked systems, and I'm available to start in Summer 2027."
+ ]
+}

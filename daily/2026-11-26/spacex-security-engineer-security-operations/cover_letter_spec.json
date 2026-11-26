@@ -1,0 +1,12 @@
+{
+ "date": "November 26, 2026",
+ "company": "SpaceX",
+ "role": "Security Engineer (Security Operations) (Level I/II)",
+ "greeting": "Dear SpaceX Information Security Team,",
+ "paragraphs": [
+  "I'm applying for the Security Engineer role on SpaceX's Security Operations team in Hawthorne. I want to build the tooling that lets a security team detect and respond quickly, and doing that for the company launching Falcon and Starlink is a rare place to learn it. I finished my B.S. in Computer Science at UC Irvine, specializing in Networked Systems, and I'm local to Irvine/Orange County.",
+  "Most of my hands-on security work is on CommunicAI, an AI-powered iOS app I built and still operate on the App Store, backed by Google Cloud. I own its security end to end. My server-authoritative Cloud Functions enforce authentication, input validation and per-user and global rate limiting, and they verify Apple receipts server-side to detect and block subscription fraud. I designed role-based access-control rules that stop IDOR, privilege escalation and message spoofing, and I validate them with 36 adversarial unit tests. Every backend request is checked with Firebase App Check (App Attest).",
+  "I automate in Python and Node.js, and in coursework and labs I've used Wireshark and Burp Suite to study MITM, ARP poisoning, DNS spoofing, SQL injection and XSS. I haven't run a production SOC or incident yet, and I'm studying for the CompTIA Security+ exam in January to build that foundation. As captain of UC Irvine's NCAA Division I track and field team, I balance a full training load with school and work, so I know how to stay organized when the pace picks up.",
+  "I'd welcome the chance to build and operate SecOps tooling with your team, and I'm available to start in Summer 2027."
+ ]
+}
