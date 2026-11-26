@@ -38,19 +38,20 @@ daily/YYYY-MM-DD/                that day's output:
 Exclude: 4+ yrs required (see Experience rule below), active clearance already required, non-security helpdesk, gig "AI trainer" postings, roles already in data/seen.json (unless the posting materially changed or reopened).
 Verify each new role is open by fetching the posting (or, for LinkedIn inbox roles, the Mac step's saved `description`). Save posting text to the role folder notes.
 
-## Mac step: asks first, runs on "go" (Brandon, 2026-11-25)
-Cloud runs can't open LinkedIn (blocked for automated reads) or most ATS pages. Brandon's Mac isn't always awake at a fixed time. So the scheduled task "Job search Mac sync + LinkedIn" fires at 8:47 (after the 8:34 cloud list), sends a push "Ready to start: reply go once your Mac is awake", and does nothing else until Brandon replies "go" in that chat. Then, in order:
+## Daily task: one merged run (Brandon, 2026-11-26)
+There is ONE scheduled task, "Job search (daily, Mac)", at 8:34 Pacific. It is tied to Brandon's Mac, so it starts when the Mac is awake (sometimes hours late; Brandon accepted the delay). The old cloud-only 8:34 task "Daily cyber job search" is disabled. The prompt is in handoffs/mac-step-prompt.md.
+- Part A (automatic): every non-LinkedIn source in "Search", scoring, tailoring, report, delivery, then a push: "<N> new roles, <M> scored 6+: <top two>. Reply go for LinkedIn + folder sync." No browser and no Mac writes before "go".
+- Part B (on "go" in that chat):
 1. Mac reachable check (remote-devices). If it's still unreachable, say so and wait for another "go".
 2. LinkedIn capture in Brandon's signed-in Chrome (Claude in Chrome), read-only: never apply, save, message, connect or follow. Token budget:
-   - Search results first. Pull only title/company/location/link from the results list with a page-text or JS extraction, never screenshots. Search last 7 days: cyber/security internships, security analyst, junior security engineer, SOC analyst; OC, Irvine, Long Beach, LA, plus CA remote.
+   - Search results first. Pull only title/company/location/link from the results list with a page-text or JS extraction, never screenshots. Search last 7 days: cyber/security internships, security analyst, junior security engineer, SOC analyst; OC, Irvine, Long Beach, LA, plus CA remote. Also read his "Jobs based on your preferences" list (linkedin.com/jobs, "Show all"). The jobs-guest listing endpoints (/jobs-guest/jobs/api/seeMoreJobPostings/search and /jobs-guest/jobs/api/jobPosting/<id>) return clean HTML from inside a linkedin.com tab. Pace them (~1-2 s apart) because they rate-limit with 429. The external apply URL is in the logged-in /jobs/view/<id>/ page as a safety/go?url= link.
    - Triage before opening anything. Drop ids already in data/seen.json (git pull first), roles more than ~1 hr from Costa Mesa (Bay Area, San Diego proper, Edwards, out of state unless remote-CA), titles that are senior/lead/manager/principal, and non-cyber "security" (guard, industrial/acquisition security).
-   - Open only the survivors (cap 15). Extract just the job description element's text (JS/innerText after expanding "See more"), not the whole page.
-   - Record per posting in inbox/linkedin-<date>.json: linkedin_job_id, linkedin_url, company, title, location, work_mode, posted, pay, seniority, description (full text), apply_url (employer link if exposed in the page; "easy_apply" if Easy Apply; don't click through to the ATS), status_note, capture_error if any. Also list the triaged-out postings briefly (title, company, reason) so they go into seen.json.
-3. Score and tailor in the same session, following the rest of this RUNBOOK (description = saved posting text; LinkedIn "Apply"/"Easy Apply" button present = open). Tailor 6+, write a short addendum to daily/<date>/report.md, update seen.json/roles.json, set the inbox file "processed": true, commit and push.
-4. Sync the Mac folder per "Mac folder layout" (reports, new Application folders, CareerNavigator files).
+   - Open only the survivors (cap 15). Extract just the job description text, not the whole page.
+   - Record per posting in inbox/linkedin-<date>.json: linkedin_job_id, linkedin_url, company, title, location, work_mode, posted, pay, seniority, description (full text), apply_url (employer link if exposed; "easy_apply" if Easy Apply), status_note, capture_error if any. Also list the triaged-out postings briefly (title, company, reason) so they go into seen.json.
+3. Score and tailor in the same session, following the rest of this RUNBOOK. Tailor 6+, add a "LinkedIn (Mac step)" section to daily/<date>/report.md, update seen.json/roles.json, set the inbox file "processed": true, commit and push.
+4. Sync the Mac folder per "Mac folder layout" (reports, new Application folders for Part A and Part B roles, CareerNavigator files). Closed or dropped roles' folders go to "Job Search/_to_delete/" (deletes are disabled on the Mac).
 5. Send each new 6+ role's resume + cover letter (per Delivery rules) and a one-message ranked list. No push needed (Brandon is in the chat).
-If Brandon never replies, nothing runs that day; the 8:34 cloud list still goes out without LinkedIn.
-The 8:34 cloud run no longer waits for a LinkedIn inbox file; it still processes any unprocessed inbox file it finds.
+If Brandon never replies, Part A was the day's run (no LinkedIn).
 One-off postings: when Brandon pastes posting text in chat, score it like any role (cheapest path, no browser).
 
 ## Experience rule (Brandon, 2026-11-23)
@@ -92,7 +93,7 @@ In report sections, files and pushes below, "7+" means ">= TAILOR_THRESHOLD". Fo
 - Roles with status "deferred" (Brandon chose to wait): list them in the next report under "Saved for later" with deadline; don't re-tailor.
 - In the report, never re-suggest applied roles; list applied roles whose follow-up date is within 3 days under "Follow-ups due".
 
-## Mac folder layout (written by the 9:12 Mac task)
+## Mac folder layout (written in Part B of the daily task)
 Restructured 2026-11-21 at Brandon's request: Applications is the head folder with exactly two subfolders.
 Job Search/
   Applications Submitted.md
