@@ -1,0 +1,44 @@
+{
+ "headline": "Software Development Engineer I Candidate | Security Platform",
+ "summary": "Computer Science graduate (B.S., UC Irvine) seeking the Twitch Security Platform SDE I role. Built and operate a production iOS app whose backend services own cloud authentication and authorization flows, privacy automation, and abuse prevention.",
+ "skills": [
+  [
+   "Languages",
+   "Python, JavaScript / Node.js, Java, C/C++, Swift, SQL"
+  ],
+  [
+   "Cloud & Backend",
+   "AWS, Google Cloud Platform (Firebase, Firestore, Cloud Functions), Serverless, REST APIs"
+  ],
+  [
+   "Databases",
+   "DynamoDB, SQL (MySQL), MongoDB, Redis"
+  ],
+  [
+   "Security",
+   "IAM, OAuth 2.0 / OIDC, RBAC, Input Validation, Secure SDLC, Rate Limiting, Secrets Management, XSS"
+  ],
+  [
+   "Data & AI",
+   "ETL Pipelines & Data Engineering, Retrieval-Augmented Generation (RAG), Prompt Engineering"
+  ],
+  [
+   "Developer Tooling",
+   "Git, Docker, Wireshark, Burp Suite, Firebase App Check (App Attest)"
+  ],
+  [
+   "Cryptography",
+   "RSA, Elliptic-Curve Cryptography (ECC), SHA-256 Hashing, TLS"
+  ]
+ ],
+ "communicai_bullets": [
+  "Implemented cloud authentication flows (Sign in with Apple with nonce + SHA-256 hashing, Google OAuth, and email/password with server-enforced verification) and Firebase App Check (App Attest) on every backend request.",
+  "Built server-authoritative Node.js Cloud Functions enforcing authentication, input validation, and per-user and global rate limiting (5 rewrites per user/day); added server-side Apple receipt verification against subscription fraud.",
+  "Implemented privacy controls, including full account and data deletion and automated, scheduled data-retention cleanup, and kept all credentials and secrets out of version control.",
+  "Designed role-based Firestore authorization rules that block insecure direct object references (IDOR), privilege escalation, and message spoofing; validated with 36 adversarial unit tests."
+ ],
+ "coursework": "Relevant Coursework: Software Engineering, Security and Privacy, Computer Networks, Operating Systems",
+ "replace": {
+  "Run front-of-house service (expediting, to-go orders, bussing, and direct customer interaction).": "Handle front-of-house service, including expediting, to-go orders, bussing, and direct customer interaction."
+ }
+}

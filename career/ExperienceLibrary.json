@@ -1,7 +1,7 @@
 {
   "meta": {
     "created": "2026-11-18",
-    "updated": "2026-11-20",
+    "updated": "2026-11-25",
     "version": "1.1",
     "description": "Structured experience units for Brandon Burns, built from Brandon_Burns_Resume.docx (2026-11-20). Source of truth for tailored resumes — never add claims not present here.",
     "source_files": [
@@ -49,6 +49,7 @@
         "Git"
       ],
       "Cloud & Backend": [
+        "AWS",
         "Google Cloud Platform (Firebase, Firestore, Cloud Functions)",
         "Serverless Architecture",
         "REST APIs"
@@ -60,6 +61,7 @@
         "Prompt Engineering"
       ],
       "Databases": [
+        "DynamoDB",
         "SQL (MySQL)",
         "MongoDB",
         "Redis"
@@ -79,6 +81,13 @@
       "Vulnerability scanning (Nessus/Qualys)",
       "NIST CSF / 800-53 / MITRE ATT&CK",
       "Professional security work experience"
+    ],
+    "stated_additions": [
+      {
+        "date": "2026-11-25",
+        "source": "Brandon (chat)",
+        "text": "Has experience with DynamoDB, AWS, AI, and Twitch (streaming and viewing). Added AWS and DynamoDB to skills_section. No project details given yet, so no bullets. Twitch familiarity is for cover letters only."
+      }
     ]
   },
   "units": [

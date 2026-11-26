@@ -1,6 +1,6 @@
 # Cyber Job Search — Wed, Nov 25, 2026
 
-**3 new roles, 0 scored 6+.** 2 need your call (score 5). Roles skipped as already seen: 25 (all of the Nov 23 LinkedIn inbox, plus the repeat Indeed results: UnderDefense, Vibrant IAM, ProCircular, TherapyNotes, the Tevora Lever tracks, Varda, Disney Cybersecurity Spring 2027).
+**3 new roles (2 are the same job), 1 scored 6+ after your update.** Roles skipped as already seen: 25 (all of the Nov 23 LinkedIn inbox, plus the repeat Indeed results: UnderDefense, Vibrant IAM, ProCircular, TherapyNotes, the Tevora Lever tracks, Varda, Disney Cybersecurity Spring 2027).
 
 Heads up: no recruiter replies in the last 24h besides the Armadin and two SpaceX (Starlink) updates already logged as rejected. No interviews on today's calendar.
 
@@ -10,8 +10,7 @@ Run notes: no `inbox/linkedin-2026-11-25.json` from the Mac run had reached the 
 - None.
 
 ## Need your call (5s and 4s)
-- 5 — [Software Development Engineer 1 – Security Platform](https://job-boards.greenhouse.io/twitch/jobs/8931345002) · Twitch · Irvine, CA (also Seattle/SF) · new grad · pay not verified. Local new-grad role on a security platform team. **Main gap:** it is a software engineering role first (security tooling at scale), and I couldn't read the posting to confirm quals or that it's still open (Simplify lists it as active, posted Nov 4). Want files?
-- 5 — [Software Dev Engineer I – Security Platform](https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform) · Amazon · Irvine, CA (also Seattle/SF) · new grad. Probably the Amazon-side listing of the same Twitch team req. Apply to one, not both. **Main gap:** same as above.
+- None left. See the Twitch update below.
 
 ## New today — below 4
 - 3 — Global Security & Intelligence Internships – Summer 2027 · NBCUniversal · Studio City (on-site) · $22–25/hr. From a Handshake digest. Physical/corporate security intelligence, not cyber. NBCU's cyber internships are listed in New York.
@@ -29,3 +28,6 @@ Run notes: no `inbox/linkedin-2026-11-25.json` from the Mac run had reached the 
 
 ## Follow-ups due (next 3 days)
 - None. Tevora Solutions is around Dec 4, the Nov 21 batch around Dec 5, the Nov 23 batch around Dec 7.
+
+## Updated after your reply (posting text + AWS/DynamoDB/AI/Twitch experience)
+- 6 — [Software Dev Engineer I – Security Platform](https://job-boards.greenhouse.io/twitch/jobs/8931345002) · Twitch (req TW9319; the [Amazon listing](https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform) is the same job, so apply once via Twitch) · Irvine on-site · $122.6K–$160K + sign-on + RSUs. Your cloud auth flows, privacy automation and backend Cloud Functions line up with the bonus list, and AWS/DynamoDB and Twitch familiarity help. **Main risk:** the requirements include professional software development and building internal tooling for other developers, and you have neither yet. Go isn't on the resume. ATS 86. Files: `daily/2026-11-25/twitch-sde1-security-platform-irvine/`

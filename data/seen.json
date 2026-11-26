@@ -972,15 +972,15 @@
   },
   "twitch-sde1-security-platform-irvine": {
     "first_seen": "2026-11-25",
-    "score": 5,
+    "score": 6,
     "url": "https://job-boards.greenhouse.io/twitch/jobs/8931345002",
-    "status": "unverified"
+    "status": "tailored"
   },
   "amazon-sde1-security-platform-irvine": {
     "first_seen": "2026-11-25",
-    "score": 5,
+    "score": 6,
     "url": "https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform",
-    "status": "unverified"
+    "status": "duplicate"
   },
   "nbcu-global-security-intelligence-intern-su27": {
     "first_seen": "2026-11-25",
