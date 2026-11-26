@@ -15,7 +15,7 @@ tools/base/                      unpacked base docx used by tailor.py
 tools/coverletter.js             builds cover letter .docx from a JSON spec
 data/seen.json                   every role ever evaluated {id: {first_seen, score, url, status}}
 data/roles.json                  full scored list (latest state of every role)
-inbox/linkedin-YYYY-MM-DD.json   roles found by the 8:10 Mac run (LinkedIn, signed in)
+inbox/linkedin-YYYY-MM-DD.json   roles captured by the Mac step after Brandon says "go" (LinkedIn, signed in)
 daily/YYYY-MM-DD/                that day's output:
     report.md                    the morning list
     <role-id>/resume.docx, cover_letter.docx, notes.md
@@ -32,25 +32,26 @@ daily/YYYY-MM-DD/                that day's output:
 ## Search (sources, in order)
 1. Indeed MCP (`mcp__Indeed__search_jobs`, `get_job_details`) — many queries x locations (Irvine, Santa Ana, Long Beach, Los Angeles, El Segundo, Anaheim, remote), with and without job_type=internship.
 2. WebSearch / WebFetch: company career pages and ATS boards (Greenhouse, Lever, Workday, iCIMS), Handshake previews, Built In LA, Simplify, Dice, LinkedIn job pages.
-3. `inbox/linkedin-*.json` written by the Mac run that morning (and any unprocessed earlier ones), plus any unprocessed `inbox/simplify-*.json` and `inbox/gmail-*.json`; set "processed": true after scoring.
+3. `inbox/linkedin-*.json` written by the Mac step (any not yet processed), plus any unprocessed `inbox/simplify-*.json` and `inbox/gmail-*.json`; set "processed": true after scoring.
 4. SimplifyJobs GitHub lists (added 2026-11-24 at Brandon's request): run `python3 tools/simplify_feed.py --days 3 --out inbox/simplify-<date>.json`. It reads the structured listings.json behind github.com/SimplifyJobs/New-Grad-Positions and SimplifyJobs/Summer2027-Internships, keeps active security-titled roles in SoCal or remote (US), and skips URLs already in seen.json. Security roles are rare there (a handful a month), mostly "Software Engineer - Security" titles; score them like any other role (SWE-heavy roles usually land 4-6).
 5. Gmail job-alert emails (added 2026-11-24): search `newer_than:2d` from LinkedIn job alerts (jobalerts-noreply@linkedin.com, jobs-listings@linkedin.com), Indeed (match.indeed.com), Handshake (notifications.joinhandshake.com), Built In, Simplify, ZipRecruiter, Glassdoor, Dice. Read each digest with get_thread (bodies are long: strip URLs before reading). Pull only security/cyber/IT-security roles that fit the location rule; ignore retail, driver, and generic SWE matches. Find the posting on the employer's site before scoring (alert links are tracking redirects). Read-only: never reply to, label, or delete these emails.
 Exclude: 4+ yrs required (see Experience rule below), active clearance already required, non-security helpdesk, gig "AI trainer" postings, roles already in data/seen.json (unless the posting materially changed or reopened).
-Verify each new role is open by fetching the posting (or, for LinkedIn inbox roles, using the Mac run's `description` and `employer_page_open`). Save posting text to the role folder notes.
+Verify each new role is open by fetching the posting (or, for LinkedIn inbox roles, the Mac step's saved `description`). Save posting text to the role folder notes.
 
-## 8:10 Mac LinkedIn run: capture full postings (Brandon, 2026-11-25)
-Cloud runs cannot open LinkedIn (robots-blocked) or most ATS pages, so the Mac run (Claude in Chrome, signed in) must capture everything needed to score and tailor. Every run:
-- Search as before (last 7 days; cyber/security internships, security analyst, junior security engineer, SOC analyst; OC, Irvine, Long Beach, LA, plus CA remote). Skip ids already in data/seen.json (git pull first).
-- For EACH new posting, open the job page and record in inbox/linkedin-<date>.json:
-  - `linkedin_job_id`, `linkedin_url`, `company`, `title`, `location`, `work_mode` (onsite/hybrid/remote as shown on the job page), `posted`, `pay` (if shown), `seniority` (LinkedIn label), `applicants` (if shown)
-  - `description`: the FULL "About the job" text, copied verbatim after clicking "See more" (plain text, no truncation, up to ~15,000 chars)
-  - `apply_url`: the employer/ATS URL behind "Apply" (open it and copy the final URL from the address bar; close the tab without submitting anything). Use "easy_apply" if it is LinkedIn Easy Apply only.
-  - `employer_page_open`: true/false/unknown after loading apply_url (false if the ATS says closed/no longer accepting)
-  - `status_note`: anything odd (closed, reposted, staffing agency, clearance required)
-- Read-only: never click Apply/submit, save, message, or follow anything.
-- If a page fails to load or LinkedIn rate-limits, keep going, set `"capture_error": "<what happened>"` on that posting, and still write the file. Cap at ~30 postings; prefer local and intern/entry roles when capping.
-- Commit and push the inbox file to main by 8:30 so the 8:35 cloud run can use it.
-Cloud run: treat `description` as the saved posting text and `employer_page_open` as the open check. Score these roles normally and tailor 6+. Postings with no description stay "unverified" and are listed in the report for Brandon to paste. If today's inbox file is missing at the start, do the other sources first, then `git pull` again before writing the report. If it lands after the report is pushed, process it in a follow-up commit and send an updated report.
+## Mac step: asks first, runs on "go" (Brandon, 2026-11-25)
+Cloud runs can't open LinkedIn (blocked for automated reads) or most ATS pages. Brandon's Mac isn't always awake at a fixed time. So the scheduled task "Job search Mac sync + LinkedIn" fires at 8:47 (after the 8:34 cloud list), sends a push "Ready to start: reply go once your Mac is awake", and does nothing else until Brandon replies "go" in that chat. Then, in order:
+1. Mac reachable check (remote-devices). If it's still unreachable, say so and wait for another "go".
+2. LinkedIn capture in Brandon's signed-in Chrome (Claude in Chrome), read-only: never apply, save, message, connect or follow. Token budget:
+   - Search results first. Pull only title/company/location/link from the results list with a page-text or JS extraction, never screenshots. Search last 7 days: cyber/security internships, security analyst, junior security engineer, SOC analyst; OC, Irvine, Long Beach, LA, plus CA remote.
+   - Triage before opening anything. Drop ids already in data/seen.json (git pull first), roles more than ~1 hr from Costa Mesa (Bay Area, San Diego proper, Edwards, out of state unless remote-CA), titles that are senior/lead/manager/principal, and non-cyber "security" (guard, industrial/acquisition security).
+   - Open only the survivors (cap 15). Extract just the job description element's text (JS/innerText after expanding "See more"), not the whole page.
+   - Record per posting in inbox/linkedin-<date>.json: linkedin_job_id, linkedin_url, company, title, location, work_mode, posted, pay, seniority, description (full text), apply_url (employer link if exposed in the page; "easy_apply" if Easy Apply; don't click through to the ATS), status_note, capture_error if any. Also list the triaged-out postings briefly (title, company, reason) so they go into seen.json.
+3. Score and tailor in the same session, following the rest of this RUNBOOK (description = saved posting text; LinkedIn "Apply"/"Easy Apply" button present = open). Tailor 6+, write a short addendum to daily/<date>/report.md, update seen.json/roles.json, set the inbox file "processed": true, commit and push.
+4. Sync the Mac folder per "Mac folder layout" (reports, new Application folders, CareerNavigator files).
+5. Send each new 6+ role's resume + cover letter (per Delivery rules) and a one-message ranked list. No push needed (Brandon is in the chat).
+If Brandon never replies, nothing runs that day; the 8:34 cloud list still goes out without LinkedIn.
+The 8:34 cloud run no longer waits for a LinkedIn inbox file; it still processes any unprocessed inbox file it finds.
+One-off postings: when Brandon pastes posting text in chat, score it like any role (cheapest path, no browser).
 
 ## Experience rule (Brandon, 2026-11-23)
 Brandon counts about 2 years of hands-on security work (labs, projects) and about 4 years of CS work including school. He has no security internships or jobs.
