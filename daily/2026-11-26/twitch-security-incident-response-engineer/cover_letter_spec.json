@@ -1,0 +1,12 @@
+{
+ "date": "November 26, 2026",
+ "company": "Twitch",
+ "role": "Security Incident Response Engineer (TW9286)",
+ "greeting": "Dear Twitch SIRT Hiring Team,",
+ "paragraphs": [
+  "I both stream and watch on Twitch, so I care about the community your Security Incident Response Team protects. I'm applying for the Security Incident Response Engineer role in Irvine. I finished my B.S. in Computer Science at UC Irvine, specializing in Networked Systems, and I'm local to Irvine/Orange County.",
+  "Most of my hands-on security work is on CommunicAI, an AI-powered iOS app I built and still operate on the App Store, running on Gemini Flash and Google Cloud. I own its security end to end. My server-side Cloud Functions enforce authentication, input validation and rate limiting, and they verify Apple receipts to detect and block subscription fraud. I wrote role-based access-control rules that stop IDOR, privilege escalation and message spoofing, and 36 adversarial unit tests try to break them. Building on Gemini taught me how to design AI automation carefully, which is the skill behind your agentic triage and response playbooks. I also write Python and Node.js regularly.",
+  "In coursework and labs I've used Wireshark and Burp Suite to study attacker techniques: MITM, ARP poisoning, DNS spoofing, SQL injection and XSS. I haven't worked a production incident yet, and I'm learning frameworks like NIST 800-61. I'm studying for the CompTIA Security+ exam in January. As captain of UC Irvine's NCAA Division I track and field team, I'm used to staying calm under pressure and communicating clearly with teammates and coaches.",
+  "I'd welcome the chance to help the SIRT find, handle and learn from incidents, and I'm available to start in Summer 2027 or sooner."
+ ]
+}

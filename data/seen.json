@@ -354,9 +354,9 @@
   },
   "boot-barn-information-security-analyst": {
     "first_seen": "2026-11-21",
-    "score": 4,
+    "score": 6,
     "url": "https://myjobs.adp.com/boottbarnext/cx/job/5001239465506",
-    "status": "new",
+    "status": "tailored",
     "company": "Boot Barn",
     "title": "Information Security Analyst"
   },
@@ -428,9 +428,9 @@
   },
   "twitch-security-incident-response-engineer": {
     "first_seen": "2026-11-21",
-    "score": null,
-    "url": "",
-    "status": "excluded",
+    "score": 6,
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8812423002",
+    "status": "tailored",
     "company": "Twitch",
     "title": "Security Incident Response Engineer",
     "reason": "closed; 3+ yrs"
@@ -1065,9 +1065,9 @@
   },
   "stand8-technology-consulting-cybersecurity-analyst": {
     "first_seen": "2026-11-25",
-    "score": null,
+    "score": 5,
     "url": "https://www.linkedin.com/jobs/view/4494689800/",
-    "status": "unverified"
+    "status": "new"
   },
   "cfs-information-security-analyst": {
     "first_seen": "2026-11-25",
@@ -1194,7 +1194,7 @@
   "deloitte-cyber-atr-forensics-consultant": {
     "first_seen": "2026-11-26",
     "score": 5,
-    "url": "(pasted by Brandon; Deloitte careers, 74 locations)",
+    "url": "https://www.linkedin.com/jobs/view/4495253876/",
     "status": "new"
   }
 }

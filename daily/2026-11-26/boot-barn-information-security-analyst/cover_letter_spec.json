@@ -1,0 +1,12 @@
+{
+ "date": "November 26, 2026",
+ "company": "Boot Barn",
+ "role": "Information Security Analyst",
+ "greeting": "Dear Boot Barn IT Team,",
+ "paragraphs": [
+  "I'm applying for the Information Security Analyst role at Boot Barn's Irvine headquarters. I want to start my security career on a team where one analyst works across access control, data protection, network security and user training, and this role covers all of that. I'm local to Irvine/Orange County, and I finished my B.S. in Computer Science at UC Irvine with a specialization in Networked Systems.",
+  "My networking coursework covered TCP/IP, the OSI model, DNS and TLS. In labs I used Wireshark to capture and analyze traffic and Burp Suite to study attacks like MITM, ARP poisoning and SQL injection. I've also secured a live system. I built and operate CommunicAI, an AI-powered iOS app on the App Store, and I own how its user data is protected. I wrote role-based access-control rules that restrict access to sensitive data and block IDOR and privilege escalation, with 36 adversarial unit tests to check them. I added multi-provider authentication, full account and data deletion, and scheduled data-retention cleanup, and I keep every credential and secret out of version control.",
+  "I haven't run vulnerability scanners or SIEM tools on the job yet, and I'm eager to learn your stack. I'm studying for the CompTIA Security+ exam in January. As captain of UC Irvine's NCAA Division I track and field team, and as a certified crew trainer at Raising Cane's, I've learned to teach standards clearly, which helps with security awareness training.",
+  "I'd welcome the chance to help protect Boot Barn's networks and data, and I'm happy to talk about timing."
+ ]
+}
