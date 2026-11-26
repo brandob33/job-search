@@ -391,14 +391,16 @@
     "why": "Remote West Coast, no years required; 4x10 incl. weekends, full-time now, incident-handling focus. Closes Jan 17.",
     "ats_score": "83",
     "first_seen": "2026-11-20",
-    "status": "deferred",
+    "status": "closed",
     "files": "daily/2026-11-21/crowdstrike-analyst-i-falcon-complete-remote/",
     "folder": "CrowdStrike - Analyst I Falcon Complete",
     "main_risk": "Full-time 4x10 incl. weekends; Jan 17 close suggests earlier start; no IR/EDR/SIEM.",
     "backfilled": "2026-11-21",
     "verified_on": "2026-11-21",
     "deferred_on": "2026-11-21",
-    "defer_note": "Brandon: save for another time, maybe tomorrow. Resurface in the next report under \"Saved for later\" with its Jan 17 close date."
+    "defer_note": "Brandon: save for another time, maybe tomorrow. Resurface in the next report under \"Saved for later\" with its Jan 17 close date.",
+    "closed_on": "2026-11-26",
+    "note": "Brandon reported closed 2026-11-26"
   },
   {
     "id": "tevora-cyber-intern-payments-su27",
@@ -660,7 +662,7 @@
     "why": "'SOC' here = SOC 2 audits, not a security operations center; audit-heavy.",
     "ats_score": "80",
     "first_seen": "2026-11-20",
-    "status": "tailored",
+    "status": "applied",
     "files": "daily/2026-11-24/tevora-cyber-intern-soc-su27/",
     "folder": "Tevora - SOC Intern",
     "main_risk": "SOC 2 audit/policy-writing heavy; no audit experience; May 31 cohort start.",
@@ -668,7 +670,8 @@
     "verified_on": "2026-11-21",
     "dropped_on": "2026-11-21",
     "drop_reason": "Brandon: drop score-5 roles (threshold 6)",
-    "note": "Un-dropped 2026-11-24 at Brandon's request; tailored below threshold."
+    "note": "Un-dropped 2026-11-24 at Brandon's request; tailored below threshold.",
+    "date_applied": "2026-11-26"
   },
   {
     "id": "spacex-security-analyst-soc",
@@ -2095,14 +2098,15 @@
     "pay": "$122,600-$160,000 (Irvine) + sign-on + RSUs",
     "deadline": "None listed",
     "score": 6,
-    "status": "tailored",
+    "status": "applied",
     "why": "Cloud authN/authZ, privacy automation and backend Cloud Functions map to the bonus list; he has AWS/DynamoDB, AI and Twitch familiarity. SWE-first role; professional-SWE and internal-tooling requirements are thin.",
     "source": "SimplifyJobs New-Grad list (inbox/simplify-2026-11-24.json), posted 2026-11-04; posting text from Brandon 2026-11-25",
     "verified": true,
     "first_seen": "2026-11-25",
     "folder": "Twitch - SDE I Security Platform",
     "files": "daily/2026-11-25/twitch-sde1-security-platform-irvine/",
-    "req": "TW9319"
+    "req": "TW9319",
+    "date_applied": "2026-11-26"
   },
   {
     "id": "amazon-sde1-security-platform-irvine",
@@ -2354,12 +2358,13 @@
     "title": "Security Engineer (Blue Team)",
     "url": "https://www.linkedin.com/jobs/view/4434081376/",
     "location": "Hawthorne, CA",
-    "status": "unverified",
+    "status": "applied",
     "score": null,
     "why": "Local; posting text not readable from the cloud run (LinkedIn/ATS fetch blocked). Needs posting text to score.",
     "first_seen": "2026-11-25",
     "source": "inbox/linkedin-2026-11-25.json",
-    "verified": false
+    "verified": false,
+    "date_applied": "2026-11-26"
   },
   {
     "id": "shaarpro-network-security-engineer",

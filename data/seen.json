@@ -56,7 +56,7 @@
     "first_seen": "2026-11-20",
     "score": 6,
     "url": "https://www.builtinaustin.com/job/analyst-i-falcon-complete-remote-pst-mst/12286987",
-    "status": "deferred",
+    "status": "closed",
     "company": "CrowdStrike",
     "title": "Analyst I, Falcon Complete (Remote - PST/MST)"
   },
@@ -99,9 +99,10 @@
     "first_seen": "2026-11-20",
     "score": 5,
     "url": "https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c",
-    "status": "tailored",
+    "status": "applied",
     "company": "Tevora",
-    "title": "Cybersecurity Internship Summer 2027 - Systems and Organizations Controls (SOC)"
+    "title": "Cybersecurity Internship Summer 2027 - Systems and Organizations Controls (SOC)",
+    "date_applied": "2026-11-26"
   },
   "spacex-security-analyst-soc": {
     "first_seen": "2026-11-20",
@@ -975,7 +976,8 @@
     "first_seen": "2026-11-25",
     "score": 6,
     "url": "https://job-boards.greenhouse.io/twitch/jobs/8931345002",
-    "status": "tailored"
+    "status": "applied",
+    "date_applied": "2026-11-26"
   },
   "amazon-sde1-security-platform-irvine": {
     "first_seen": "2026-11-25",
@@ -1089,10 +1091,11 @@
     "first_seen": "2026-11-25",
     "score": 6,
     "url": "https://boards.greenhouse.io/spacex/jobs/8611223002",
-    "status": "tailored",
+    "status": "applied",
     "company": "SpaceX",
     "title": "Security Engineer (Blue Team)",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/4434081376/"
+    "linkedin_url": "https://www.linkedin.com/jobs/view/4434081376/",
+    "date_applied": "2026-11-26"
   },
   "shaarpro-network-security-engineer": {
     "first_seen": "2026-11-25",
