@@ -115,6 +115,7 @@ Rules for the Mac task (every run):
 Use a short, readable folder name (e.g., "Tevora - Solutions Intern", "Ventura Foods - Associate AppSec Engineer"); store it as "folder" on the role in data/roles.json so both runs agree.
 
 ## Report (daily/<date>/report.md) and delivery
+- Carry-overs: if handoffs/next-digest.md exists, put its sections into today's report (top, after the summary line) and delete the file in the same commit.
 - New roles ranked by score: title (linked), company, location/mode, pay, deadline, score + one-line why, files link for every role >= TAILOR_THRESHOLD.
 - Below 7: one line each. Count of roles skipped as already seen.
 - Deadlines in the next 7 days for any role >= TAILOR_THRESHOLD not yet marked applied.
