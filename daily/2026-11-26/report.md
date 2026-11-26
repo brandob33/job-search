@@ -28,7 +28,7 @@ ATS (ResumeNext) for all three: 63–65. The missing keywords are real gaps (SIE
 
 ## Need your call (5s and 4s): files for which?
 - [SpaceX — Security Engineer (Identity and Access Management)](https://job-boards.greenhouse.io/spacex/jobs/8077340002) · Hawthorne · $130–175K · 5: strong IAM topic fit, but requires BS + 2 yrs incl. 1+ yr enterprise IAM.
-- [CrowdStrike — Engineer II, Software Assurance, Product Security](https://www.builtinla.com/) · Remote US · $100–145K · 5: AppSec/supply-chain fit; Engineer II level, GitHub admin/SCA. Workday close date (Sep 16) passed but it was reposted Nov 25. Verify it's open.
+- [CrowdStrike — Engineer II, Software Assurance, Product Security](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328) · Remote US · $100–145K · 5: AppSec/supply-chain fit; Engineer II level, GitHub admin/SCA. Workday close date (Sep 16) passed but it was reposted Nov 25. Verify it's open.
 - [SpaceX — Security Engineer (Embedded OT)](https://job-boards.greenhouse.io/spacex/jobs/8593388002) · Hawthorne · $130–180K · 5: same bar as Embedded & Networking, but OT-focused with extended hours.
 - [Lendistry — Security Engineer I](https://www.builtinla.com/job/security-engineer-i/11823352) · Tustin, in-office · $84–118K · 4: requires 2–4 yrs SOC/IR with SIEM/EDR (his core gaps).
 - [Bechtel — 27 Intern, Cybersecurity Engr](https://www.linkedin.com/jobs/view/4471685146/) · US (various) · 4: Summer 2027 cyber intern, but no SoCal site confirmed.
