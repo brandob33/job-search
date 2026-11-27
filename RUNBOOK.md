@@ -72,6 +72,13 @@ Weights: Required quals met 40% | Keyword/skill match 25% | Eligibility (locatio
 - AppSec/product security/IAM roles usually fit better than pure SOC roles; score honestly.
 Record in notes.md: score, 2-line why, matched keywords, missing keywords, eligibility flags.
 
+## Plugins and skills to use (Brandon, 2026-11-27)
+Every run uses these. If one isn't available in the session, say so at the top of the report and fall back to the repo tools.
+- Browser: load the Chrome skill (anthropic-skills:chrome-browser / claude-in-chrome) before any Claude in Chrome step (LinkedIn capture, posting checks).
+- Resume rewrite: use Career Navigator `career-navigator:tailor-resume` (resume-coach agent) to choose and rewrite the content for each role from career/ExperienceLibrary.json, then `career-navigator:ats-optimization` to apply its suggested fixes (true ones only). Put the result into the spec and build the .docx with tools/tailor.py (keeps base formatting and the one-page check).
+- Cover letter: use `career-navigator:cover-letter` (writer agent) for the prose, then build with tools/coverletter.js.
+- ATS score: run both `career-navigator:resume-score` and ResumeNext `analyze_resume` (with the job description) on every tailored resume. Record both scores and the missing keywords in notes.md and the report. Never add keywords he lacks.
+
 ## Tailoring threshold
 TAILOR_THRESHOLD = 6  (7 -> 5 on 2026-11-21, then 5 -> 6 on 2026-11-21 at Brandon's request: 5 produced too many roles; tailor every role scoring >= 6)
 Below-threshold roles never get files, including roles Brandon sends as links: score them and report first (Brandon, 2026-11-23). Tailor a role under 6 only when he names that specific role and asks for files.
