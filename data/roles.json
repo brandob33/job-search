@@ -1764,7 +1764,7 @@
   "work_mode": "onsite",
   "pay": "$45.50-$82/hr (Mountain View)",
   "score": 7,
-  "status": "tailored",
+  "status": "applied",
   "why": "Identity/auth, fraud prevention and data-protection SWE work that matches CommunicAI directly; Git, AI tools and GCP covered.",
   "first_seen": "2026-11-23",
   "source": "inbox/linkedin-2026-11-23.json (processed same day on request)",
@@ -1773,7 +1773,8 @@
   "main_risk": "'Degree-seeking program, graduating after internship' (certificate counts per rule, but Intuit may check); no React/Agile/code-review experience shown.",
   "folder": "Intuit - SWE Intern Cybersecurity",
   "files": "daily/2026-11-26/intuit-swe-intern-cybersecurity-su27/",
-  "deadline": null
+  "deadline": null,
+  "date_applied": "2026-11-26"
  },
  {
   "id": "intuit-technical-compliance-manager-intern-su27",
@@ -1799,7 +1800,7 @@
   "work_mode": "unknown",
   "pay": "$53-$72/hr (non-negotiable)",
   "score": 7,
-  "status": "tailored",
+  "status": "applied",
   "why": "Red-team tool-building intern; meets all required quals and most preferred (REST APIs, DBs, Docker, security projects).",
   "first_seen": "2026-11-23",
   "source": "inbox/linkedin-2026-11-23.json (processed same day on request)",
@@ -1808,7 +1809,8 @@
   "main_risk": "'Currently enrolled in Bachelor's or Master's' with proof (certificate counts per rule, but may be checked); no fuzzing, static analysis or firmware work.",
   "folder": "Lucid - Product Security Engineering Intern",
   "files": "daily/2026-11-26/lucid-product-security-engineering-intern-su27/",
-  "deadline": null
+  "deadline": null,
+  "date_applied": "2026-11-26"
  },
  {
   "id": "llnl-cybersecurity-undergrad-intern-su27",
@@ -1819,7 +1821,7 @@
   "work_mode": "onsite",
   "pay": "$23.26-$31.62/hr",
   "score": 6,
-  "status": "tailored",
+  "status": "applied",
   "why": "Wireshark network analysis, crypto, and C/C++/Java/Python cover several of the 'some of' required topics and tools; U.S. person, no clearance needed.",
   "first_seen": "2026-11-23",
   "source": "inbox/linkedin-2026-11-23.json (processed same day on request)",
@@ -1828,7 +1830,8 @@
   "main_risk": "Requires a continuing undergrad and sends bachelor's finishers to the Graduate CCISI posting; he holds a B.S., so he may be screened out despite the certificate rule.",
   "folder": "LLNL - Cybersecurity Undergrad Intern CCISI",
   "files": "daily/2026-11-26/llnl-cybersecurity-undergrad-intern-su27/",
-  "deadline": null
+  "deadline": null,
+  "date_applied": "2026-11-26"
  },
  {
   "id": "athens-services-security-operations-jr-specialist",
@@ -2263,7 +2266,7 @@
   "title": "Networking & Cybersecurity Intern (Job 1214058)",
   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Networking---Cybersecurity-Intern_1214058",
   "location": "San Jose, CA (onsite); Westford, MA also listed",
-  "status": "tailored",
+  "status": "applied",
   "score": 6,
   "why": "Networking/IAM/Python/Git match his Networked Systems degree and CommunicAI IAM work; accepts 'other accredited academic or technical program' and recent grads. Verified open in Chrome.",
   "first_seen": "2026-11-25",
@@ -2273,7 +2276,8 @@
   "rescored": "2026-11-26 (Dublin summer rule)",
   "folder": "HPE - Networking & Cybersecurity Intern",
   "files": "daily/2026-11-26/hpe-networking-cybersecurity-intern/",
-  "main_risk": "Posting gives no Summer 2027 dates (interns 'typically work during school breaks or part time'); the Dublin rule only covers summer. Confirm summer timing. 'Recent graduates' are named in the job family definition, but required wording is 'currently pursuing'."
+  "main_risk": "Posting gives no Summer 2027 dates (interns 'typically work during school breaks or part time'); the Dublin rule only covers summer. Confirm summer timing. 'Recent graduates' are named in the job family definition, but required wording is 'currently pursuing'.",
+  "date_applied": "2026-11-26"
  },
  {
   "id": "applied-intuition-cybersecurity-software-engineer-new-grad-2",
@@ -2333,7 +2337,7 @@
   "title": "Cybersecurity Analyst",
   "url": "https://www.linkedin.com/jobs/view/4494689800/",
   "location": "Commerce, CA (hybrid, 3 days on-site)",
-  "status": "tailored",
+  "status": "applied",
   "score": 5,
   "why": "SSO/OAuth/MFA and network concepts match; Security+ preferred.",
   "first_seen": "2026-11-25",
@@ -2345,7 +2349,8 @@
   "folder": "Stand8 - Cybersecurity Analyst",
   "files": "daily/2026-11-26/stand8-technology-consulting-cybersecurity-analyst/",
   "deadline": "none listed",
-  "linkedin_url": "https://www.linkedin.com/jobs/view/4494689800/"
+  "linkedin_url": "https://www.linkedin.com/jobs/view/4494689800/",
+  "date_applied": "2026-11-26"
  },
  {
   "id": "cfs-information-security-analyst",
@@ -2540,7 +2545,7 @@
   "pay": "$82.6K-$162.8K",
   "deadline": "2026-12-31",
   "score": 5,
-  "status": "tailored",
+  "status": "applied",
   "why": "OC-based entry consultant band in cyber defense; his AppSec and attacker-technique lab work is relevant background.",
   "first_seen": "2026-11-26",
   "source": "Brandon pasted posting 2026-11-26",
@@ -2549,7 +2554,8 @@
   "main_risk": "Requires 1-3+ yrs hands-on incident response (no equivalent allowed); he has none. Plus 50% travel and client-facing NIST/ISO work.",
   "folder": "Deloitte - Cyber ATR & Forensics Consultant",
   "files": "daily/2026-11-26/deloitte-cyber-atr-forensics-consultant/",
-  "linkedin_url": "https://www.linkedin.com/jobs/view/4495253876/"
+  "linkedin_url": "https://www.linkedin.com/jobs/view/4495253876/",
+  "date_applied": "2026-11-26"
  },
  {
   "id": "twitch-security-incident-response-engineer",
@@ -2618,7 +2624,7 @@
   "url": "https://www.foxcareers.com/Search/JobDetail/R50033966",
   "linkedin_url": "https://www.linkedin.com/jobs/view/4472488632/",
   "score": 7,
-  "status": "tailored",
+  "status": "dropped",
   "first_seen": "2026-11-26",
   "source": "Brandon's LinkedIn 'top applicant' list (2026-11-26)",
   "why": "Entry-level internship with a Cybersecurity track; CommunicAI security work plus Python/SQL fit, and the UCI ACP meets the enrollment wording.",
@@ -2626,7 +2632,8 @@
   "folder": "FOX - Technology Internship Cybersecurity",
   "files": "daily/2026-11-26/fox-technology-internship-su27/",
   "pay": "$20-30/hr",
-  "deadline": "2027-01-10"
+  "deadline": "2027-01-10",
+  "status_note": "Brandon 2026-11-26: explicitly requires a degree in progress"
  },
  {
   "id": "coast-ccd-cybersecurity-apprenticeship",
@@ -2886,7 +2893,7 @@
   "url": "https://www.linkedin.com/jobs/view/4459296440/",
   "linkedin_url": "https://www.linkedin.com/jobs/view/4459296440/",
   "score": 6,
-  "status": "tailored",
+  "status": "applied",
   "first_seen": "2026-11-26",
   "source": "LinkedIn (Mac step 2026-11-26)",
   "why": "Security & privacy tooling SWE intern; CS fundamentals plus CommunicAI auth/privacy work; cert counts as enrollment.",
@@ -2894,7 +2901,8 @@
   "main_risk": "SWE-heavy; you can apply to max 2 positions across TikTok and affiliates; employer ATS link not found (apply via LinkedIn).",
   "folder": "TikTok USDS - SWE Intern Security & Privacy",
   "files": "daily/2026-11-26/tiktok-usds-software-engineer-intern-security-privacy/",
-  "deadline": "rolling (applications considered in order received)"
+  "deadline": "rolling (applications considered in order received)",
+  "date_applied": "2026-11-26"
  },
  {
   "id": "illumio-engineering-intern-security-platforms",
@@ -2904,7 +2912,7 @@
   "url": "https://jobs.ashbyhq.com/illumio/95bc7491-9b2f-493c-9297-e9cb36a63b45/application",
   "linkedin_url": "https://www.linkedin.com/jobs/view/4494092980/",
   "score": 7,
-  "status": "tailored",
+  "status": "applied",
   "first_seen": "2026-11-26",
   "source": "LinkedIn (Mac step 2026-11-26)",
   "why": "Generalist SWE internship on security products; meets all required quals (Python/Java/JS, DSA, Git) and nice-to-haves (APIs, cloud, DBs, AI).",
@@ -2912,7 +2920,8 @@
   "folder": "Illumio - Engineering Intern Security Platforms",
   "files": "daily/2026-11-26/illumio-engineering-intern-security-platforms/",
   "pay": "$37/hr (job-board mirror) + stipend",
-  "deadline": "none stated (posted ~Nov 23, 2026; starts May 24 or Jun 21, 2027)"
+  "deadline": "none stated (posted ~Nov 23, 2026; starts May 24 or Jun 21, 2027)",
+  "date_applied": "2026-11-26"
  },
  {
   "id": "the-aerospace-corporation-2027-defensive-cyber-operations-un",
@@ -2922,7 +2931,7 @@
   "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
   "linkedin_url": "https://www.linkedin.com/jobs/view/4480682789/",
   "score": 6,
-  "status": "tailored",
+  "status": "applied",
   "first_seen": "2026-11-26",
   "source": "LinkedIn (Mac step 2026-11-26)",
   "why": "Meets technical minimums: Python/C/C++, Docker, vuln-class labs, U.S. citizen clearance-eligible; Security+ Jan 2027 is a preferred qual.",
@@ -2930,7 +2939,8 @@
   "main_risk": "Strict 'enrolled full-time in bachelor's / return to school' + official transcripts wording; GPA >=3.0 unconfirmed; no Ghidra/IDA or CTFs.",
   "folder": "Aerospace Corp - Defensive Cyber Ops Intern",
   "files": "daily/2026-11-26/aerospace-defensive-cyber-ops-undergrad-intern-2027/",
-  "deadline": "none stated"
+  "deadline": "none stated",
+  "date_applied": "2026-11-26"
  },
  {
   "id": "hewlett-packard-enterprise-firmware-engineering-security-int",

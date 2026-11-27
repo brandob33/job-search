@@ -68,7 +68,7 @@ Brandon counts about 2 years of hands-on security work (labs, projects) and abou
 ## Scoring (1-10)
 Weights: Required quals met 40% | Keyword/skill match 25% | Eligibility (location, enrollment/grad window, citizenship) 20% | Seniority fit 15%.
 - Hard eligibility fail (e.g., requires active TS clearance, must graduate between dates he can't meet and posting is strict, >1hr onsite from Costa Mesa — or, for summer-only positions, >1hr from both Costa Mesa and Dublin, CA) -> cap at 4 and say why.
-- Enrollment (Brandon, 2026-11-26): his UCI certificate program COUNTS as current enrollment for every internship wording ("currently enrolled", "pursuing a bachelor's", "degree-seeking", "continuing student"). No deduction and no cap for enrollment wording; just note the wording in notes.md. Graduation-date windows he can't meet still count against him.
+- Enrollment (Brandon, 2026-11-26): his UCI certificate program COUNTS as current enrollment for every internship wording ("currently enrolled", "pursuing a bachelor's", "degree-seeking", "continuing student"). No deduction and no cap for enrollment wording; just note the wording in notes.md. Graduation-date windows he can't meet still count against him. Exception (Brandon, 2026-11-26): if a posting explicitly requires a DEGREE in progress (e.g., FOX Technology Internship), drop it; the certificate doesn't satisfy that.
 - AppSec/product security/IAM roles usually fit better than pure SOC roles; score honestly.
 Record in notes.md: score, 2-line why, matched keywords, missing keywords, eligibility flags.
 
