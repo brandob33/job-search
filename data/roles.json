@@ -1857,13 +1857,14 @@
   "work_mode": "hybrid",
   "pay": "$45-60/hr",
   "score": null,
-  "status": "applied",
+  "status": "rejected",
   "why": "Contract CTI role; couldn't open the posting to check experience requirements.",
   "first_seen": "2026-11-23",
   "source": "inbox/linkedin-2026-11-23.json (processed same day on request)",
   "verified": false,
   "date_applied": "2026-11-23",
-  "folder": "Kaygen - Cyber Threat Intelligence Analyst"
+  "folder": "Kaygen - Cyber Threat Intelligence Analyst",
+  "status_note": "Rejection email 2026-11-26"
  },
  {
   "id": "laverne-cybersecurity-grc-analyst",
