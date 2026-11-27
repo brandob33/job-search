@@ -811,7 +811,7 @@
   "first_seen": "2026-11-23",
   "score": 7,
   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
-  "status": "applied",
+  "status": "rejected",
   "company": "Intuit",
   "title": "Summer 2027: Software Engineering Intern - Cybersecurity (Job ID 24119)",
   "reason": "Onsite Mountain View."
@@ -1180,12 +1180,13 @@
   "reason": "Grad window Dec 2027–Dec 2028; Arlington/Redmond/Sunnyvale"
  },
  "crowdstrike-global-public-sector-launch-intern-su27": {
-  "first_seen": "2026-11-26",
-  "score": 1,
-  "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Global-Public-Sector-Launch-Intern---Summer-2027_R30598",
+  "first_seen": "2026-11-27",
+  "score": null,
+  "url": "",
   "status": "excluded",
   "company": "CrowdStrike",
-  "reason": "Business/econ role; grad 2029–2030"
+  "title": "Global Public Sector Launch Intern",
+  "reason": "non-security sales intern"
  },
  "crowdstrike-security-advisor-i-falcon-complete-remote": {
   "first_seen": "2026-11-26",
@@ -1783,5 +1784,190 @@
   "status": "new",
   "company": "Honeywell Aerospace",
   "title": "Cyber Security FTE - Recent Grad 2027"
+ },
+ "strava-swe-intern-server-security-su27": {
+  "first_seen": "2026-11-27",
+  "score": 8,
+  "url": "https://to.indeed.com/aajrnzkjtd64",
+  "status": "tailored",
+  "company": "Strava",
+  "title": "Software Engineering Intern, Server, Security (Summer 2027)"
+ },
+ "hpiq-swe-intern-product-security-su27": {
+  "first_seen": "2026-11-27",
+  "score": 7,
+  "url": "https://job-boards.greenhouse.io/hpiq/jobs/6116398004",
+  "status": "unverified",
+  "company": "HP IQ",
+  "title": "Software Engineering Intern, Product Security / Security (Summer 2027)"
+ },
+ "cai-cybersecurity-analyst-intern-su27": {
+  "first_seen": "2026-11-27",
+  "score": 6,
+  "url": "https://www.builtinaustin.com/job/cybersecurity-analyst-intern/11177812",
+  "status": "unverified",
+  "company": "CAI (Computer Aid, Inc.)",
+  "title": "Cybersecurity Analyst Intern (Summer 2027)"
+ },
+ "cai-junior-cybersecurity-engineer-r8253": {
+  "first_seen": "2026-11-27",
+  "score": 6,
+  "url": "https://www.dice.com/job-detail/b4c258d8-a97b-4e20-b18d-f6ee344fd3e5",
+  "status": "unverified",
+  "company": "CAI",
+  "title": "Junior Cybersecurity Engineer (R8253)"
+ },
+ "deloitte-offensive-security-consultant-red-team-ai-376428": {
+  "first_seen": "2026-11-27",
+  "score": 4,
+  "url": "https://to.indeed.com/aagykfxkyp6j",
+  "status": "new",
+  "company": "Deloitte",
+  "title": "Cyber Offensive Security Consultant - Red Team and AI (376428)"
+ },
+ "atlassian-security-engineer-intern-su27": {
+  "first_seen": "2026-11-27",
+  "score": 4,
+  "url": "https://www.atlassian.com/company/careers/details/26267",
+  "status": "new",
+  "company": "Atlassian",
+  "title": "Security Engineer Intern, 2027 Summer U.S."
+ },
+ "adobe-2027-intern-security-engineer": {
+  "first_seen": "2026-11-27",
+  "score": 4,
+  "url": "https://www.wayup.com/i-j-2027-Intern-Security-Engineer-Adobe-370394966976040/",
+  "status": "new",
+  "company": "Adobe",
+  "title": "2027 Intern - Security Engineer"
+ },
+ "salesforce-su27-intern-swe-security-government": {
+  "first_seen": "2026-11-27",
+  "score": 4,
+  "url": "https://www.purpose.jobs/discover/companies/salesforce-2/jobs/97566865-summer-2027-intern-software-engineer-security-government",
+  "status": "new",
+  "company": "Salesforce",
+  "title": "Summer 2027 Intern - Software Engineer (Security/Government)"
+ },
+ "veeam-securiti-platform-security-ai-intern-su27": {
+  "first_seen": "2026-11-27",
+  "score": 4,
+  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4952609101",
+  "status": "new",
+  "company": "Veeam (Securiti)",
+  "title": "Platform, Security & AI Engineering Intern - Summer 2027"
+ },
+ "forward-financing-software-engineer-security": {
+  "first_seen": "2026-11-27",
+  "score": 4,
+  "url": "https://builtin.com/job/software-engineer-security/12486552",
+  "status": "unverified",
+  "company": "Forward Financing",
+  "title": "Software Engineer, Security"
+ },
+ "coalfire-rit-division-hex-pentest-intern-su27": {
+  "first_seen": "2026-11-27",
+  "score": 3,
+  "url": "https://jobs.lever.co/coalfire/ca58c729-2f09-464b-b649-08fe581443d7",
+  "status": "excluded",
+  "company": "Coalfire",
+  "title": "RIT | Division Hex - Pen Testing 2027 Summer Internship"
+ },
+ "wraithwatch-security-engineer": {
+  "first_seen": "2026-11-27",
+  "score": 3,
+  "url": "https://www.builtinla.com/job/security-engineer/10718644",
+  "status": "excluded",
+  "company": "Wraithwatch",
+  "title": "Security Engineer"
+ },
+ "robotics-technologies-network-security-engineer-el-segundo": {
+  "first_seen": "2026-11-27",
+  "score": 2,
+  "url": "https://to.indeed.com/aar6b4gjnmlf",
+  "status": "excluded",
+  "company": "Robotics Technologies",
+  "title": "Network Security Engineer (J56471, contract)"
+ },
+ "valar-atomics-senior-infrastructure-security-engineer": {
+  "first_seen": "2026-11-27",
+  "score": null,
+  "url": "",
+  "status": "excluded",
+  "company": "Valar Atomics",
+  "title": "Senior Infrastructure Security Engineer",
+  "reason": "senior"
+ },
+ "valar-atomics-senior-iam-engineer": {
+  "first_seen": "2026-11-27",
+  "score": null,
+  "url": "",
+  "status": "excluded",
+  "company": "Valar Atomics",
+  "title": "Senior IAM Engineer",
+  "reason": "senior"
+ },
+ "mirantis-senior-corporate-security-engineer": {
+  "first_seen": "2026-11-27",
+  "score": null,
+  "url": "",
+  "status": "excluded",
+  "company": "Mirantis",
+  "title": "Senior Corporate Security Engineer",
+  "reason": "senior"
+ },
+ "ecapital-principal-security-engineer": {
+  "first_seen": "2026-11-27",
+  "score": null,
+  "url": "",
+  "status": "excluded",
+  "company": "eCapital",
+  "title": "Principal Security Engineer",
+  "reason": "principal"
+ },
+ "easy-dynamics-sr-zscaler-security-engineer": {
+  "first_seen": "2026-11-27",
+  "score": null,
+  "url": "",
+  "status": "excluded",
+  "company": "Easy Dynamics",
+  "title": "Sr Zscaler Security Engineer",
+  "reason": "senior"
+ },
+ "forward-financing-senior-software-engineer-security": {
+  "first_seen": "2026-11-27",
+  "score": null,
+  "url": "",
+  "status": "excluded",
+  "company": "Forward Financing",
+  "title": "Senior Software Engineer, Security",
+  "reason": "senior"
+ },
+ "deloitte-cyber-senior-manager-technical-resilience": {
+  "first_seen": "2026-11-27",
+  "score": null,
+  "url": "",
+  "status": "excluded",
+  "company": "Deloitte",
+  "title": "Cyber Senior Manager - Technical Resilience",
+  "reason": "senior manager"
+ },
+ "solace-associate-security-engineer-college-grad-2027": {
+  "first_seen": "2026-11-27",
+  "score": null,
+  "url": "",
+  "status": "excluded",
+  "company": "Solace",
+  "title": "Associate Security Engineer (College Grad 2027)",
+  "reason": "full-time Redwood City (Bay Area FT fails location)"
+ },
+ "bytedance-network-security-swe-intern-fall27": {
+  "first_seen": "2026-11-27",
+  "score": null,
+  "url": "",
+  "status": "excluded",
+  "company": "ByteDance",
+  "title": "Network Security SWE Intern",
+  "reason": "Fall 2027, not summer"
  }
 }

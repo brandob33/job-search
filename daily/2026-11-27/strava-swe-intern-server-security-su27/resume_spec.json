@@ -1,0 +1,40 @@
+{
+ "headline": "Product Security Engineering Intern Candidate | Application Security & Authorization",
+ "summary": "Computer Science graduate (B.S., UC Irvine) seeking Strava's Software Engineering Intern, Server, Security role on Product Security. Built and secured the API backend of a live AI-powered app: authentication, authorization, tests for IDOR and privilege-escalation vulnerabilities, rate limiting on an LLM feature. Python; web testing with Burp Suite.",
+ "skills": [
+  [
+   "Application Security",
+   "Authentication & Authorization, IDOR / Privilege Escalation Testing, OWASP Web Attacks (SQL Injection, XSS, CSRF), Input Validation, Rate Limiting, Secrets Management"
+  ],
+  [
+   "Security Tools",
+   "Burp Suite, Wireshark, Git, Docker, Firebase App Check (App Attest)"
+  ],
+  [
+   "Languages",
+   "Python, JavaScript / Node.js, Swift, C/C++, Java, SQL (MySQL)"
+  ],
+  [
+   "Cloud",
+   "Google Cloud Platform (Firebase, Firestore, Cloud Functions), AWS, DynamoDB"
+  ],
+  [
+   "Identity",
+   "OAuth 2.0 / OIDC, Sign in with Apple, RBAC"
+  ],
+  [
+   "Cryptography & Networks",
+   "RSA, ECC, SHA-256 Hashing, TLS, MITM, ARP Poisoning, DNS Spoofing"
+  ]
+ ],
+ "communicai_bullets": [
+  "Designed role-based authorization rules that block access-control vulnerabilities (IDOR, privilege escalation, and message spoofing); validated with 36 adversarial unit tests.",
+  "Implemented multi-provider authentication (Sign in with Apple with nonce + SHA-256 hashing, Google OAuth, and email/password with server-enforced verification) and Firebase App Check (App Attest) on every backend API request.",
+  "Built server-authoritative Cloud Functions enforcing authentication, input validation, and per-user and global rate limiting (5 rewrites per user/day); added server-side Apple receipt verification to detect and block subscription fraud.",
+  "Implemented privacy controls including full account and data deletion and scheduled data-retention cleanup, and kept all credentials and secrets out of version control."
+ ],
+ "coursework": "Relevant Coursework: Security and Privacy, Computer Networks, Operating Systems, Software Engineering",
+ "replace": {
+  "Run front-of-house service (expediting, to-go orders, bussing, and direct customer interaction).": "Handle front-of-house service, including expediting, to-go orders, bussing, and direct customer interaction."
+ }
+}

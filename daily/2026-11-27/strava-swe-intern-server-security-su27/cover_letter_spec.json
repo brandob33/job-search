@@ -1,0 +1,12 @@
+{
+ "date": "November 27, 2026",
+ "company": "Strava",
+ "role": "Software Engineering Intern, Server, Security (Summer 2027)",
+ "greeting": "Dear Strava Product Security Team,",
+ "paragraphs": [
+  "I'm applying for the Software Engineering Intern, Server, Security role supporting Strava's Product Security team. Testing AI features for authorization flaws and data exposure, then turning findings into automated tests, is the work I've been doing on my own app, and I'd like to do it at Strava's scale. I spend summers in Dublin, CA, so the San Francisco office works well for a Summer 2027 internship. As captain of UC Irvine's NCAA Division I track and field team, I like that this work protects athletes.",
+  "My main security work is CommunicAI, an AI-powered iOS app I built and still operate on the App Store, with a Node.js backend on Google Cloud calling Google Gemini. I own authentication and authorization end to end: Sign in with Apple with a nonce and SHA-256 hashing, Google OAuth, email verification enforced on the server, and Firebase App Check (App Attest) on every backend request. I wrote role-based access rules that block IDOR, privilege escalation and message spoofing, and 36 adversarial unit tests try to break them. Server-side Cloud Functions validate input and rate-limit the AI feature per user and globally, and server-side receipt verification blocks subscription fraud.",
+  "My UC Irvine CS degree included Security and Privacy coursework, where I used Burp Suite and Wireshark to study SQL injection, XSS, CSRF and man-in-the-middle attacks. I write Python and Node.js and I'm comfortable reading code I didn't write. I'm taking the CompTIA Security+ exam in January.",
+  "I'd welcome the chance to help find and fix vulnerabilities with your team before they reach athletes. I'm available for the full Summer 2027 program."
+ ]
+}
