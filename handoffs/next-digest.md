@@ -12,6 +12,9 @@ Put these in the next daily/<date>/report.md, then delete this file in the same 
 8. [Bechtel — 27 Intern, Cybersecurity Engr](https://bechtel.jobs.hr.cloud.sap/job/27-Intern-US-Cybersecurity-Engr/1433422400/) · Houston/Reston/project sites (relocation) · $25–28/hr · score 4
 9. [OpenSesame — Security & Compliance Intern](https://grnh.se/f27u756p1us) · Remote · score 7 · paused until Brandon records the ≤5-min video · closes Feb 14
 
+## Brandon decides (4s)
+- [Honeywell Aerospace — Cyber Security FTE, Recent Grad 2027](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/122179) · US multi-site · $80K–$126.5K · 4: grad window Aug 2026–May 2027 (he graduated June 2026); also a U.S.-Person-required variant exists. Files only if Brandon asks.
+
 ## Applied 2026-11-26 (follow up ~Dec 10)
 Lucid, Intuit SWE Intern Cybersecurity, Illumio, HPE Networking & Cybersecurity Intern, Aerospace DCO, LLNL CCISI, TikTok USDS, Deloitte ATR, Stand8 (plus earlier: Impulse x2, Twitch SDE I, SpaceX Blue Team, Tevora SOC).
 

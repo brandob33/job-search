@@ -1775,5 +1775,13 @@
   "status": "excluded",
   "company": "Google",
   "title": "Security Engineering Intern, BS/MS, Summer 2027"
+ },
+ "honeywell-aerospace-cyber-security-recent-grad-2027": {
+  "first_seen": "2026-11-27",
+  "score": 4,
+  "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/122179",
+  "status": "new",
+  "company": "Honeywell Aerospace",
+  "title": "Cyber Security FTE - Recent Grad 2027"
  }
 }
