@@ -3,6 +3,7 @@ The next run that can reach the Mac does this, then deletes this file in the sam
 
 ## Commits to mirror
 - 5cd201a (2026-11-27 daily search) and the commit that added this file (RUNBOOK mirror rule).
+- 2026-11-28 daily search commit (Daily Reports/2026-11-28/report.md; data/ mirror). No new tailored roles.
 - Last confirmed Mac sync: 2026-11-26 Part B. Anything pushed after that is unsynced.
 
 ## Folder work
