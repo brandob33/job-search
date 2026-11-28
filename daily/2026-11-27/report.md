@@ -59,3 +59,6 @@ Triaged out: Valar Atomics senior IAM/infra/AI security (senior), Mirantis/eCapi
 
 ## Sources checked
 Indeed (14 queries across Irvine, Santa Ana, Long Beach, LA, El Segundo, Anaheim, OC, remote, Dublin, San Jose, SF; then rate-limited), SimplifyJobs feed (0 new), Gmail alerts (Built In: 6 security roles, 5 senior; Indeed: non-security), web sweep (Greenhouse/Lever/Ashby/Workday site: queries, Built In LA, target companies Tevora/Impulse/SpaceX/Trace3 with nothing new, USAJobs/CalCareers/governmentjobs.com with nothing open, Wellfound with nothing). No unprocessed LinkedIn/Gmail inbox files.
+
+## LinkedIn (Mac step)
+Brandon said "go" on 11/28, but this cloud session has **no Claude in Chrome and no remote-devices (Mac) tools**, and its network blocks the job boards. So: no LinkedIn capture, no verification/tailoring of the HP IQ and CAI leads, and no Mac folder sync this time. All of it is queued in handoffs/pending-mac-sync.md for the next run that has Chrome and Mac access. New rule from Brandon (RUNBOOK "Mirror every push"): every GitHub push also gets copied into Job Search on the Mac.
